@@ -1,0 +1,1070 @@
+Title,Logistic_Regression,MLP,XGBoost
+tr|A0A3M7P2B0|A0A3M7P2B0_BRAPC Actin-related protein 2/3 complex subunit 5 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_046554 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QR20|A0A3M7QR20_BRAPC Actin-related protein 2/3 complex subunit 3 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_030215 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7R6S3|A0A3M7R6S3_BRAPC Actin-related protein 2/3 complex subunit OS=Brachionus plicatilis OX=10195 GN=BpHYR1_021158 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7RDT7|A0A3M7RDT7_BRAPC Actin-related protein 2/3 complex subunit 4 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_038335 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813M424|A0A813M424_9BILA Actin-related protein 2/3 complex subunit 5 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS529 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813M4T8|A0A813M4T8_9BILA Actin-related protein 2/3 complex subunit 3 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS901 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813M7N7|A0A813M7N7_ADIRI Actin-related protein 2/3 complex subunit 4 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS109 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813MXH4|A0A813MXH4_9BILA Actin-related protein 2/3 complex subunit OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS2373 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813PQ30|A0A813PQ30_ADIRI Actin-related protein 2/3 complex subunit 4 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS804 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813QEP2|A0A813QEP2_9BILA Actin-related protein 2/3 complex subunit 3 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS11653 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813R9E3|A0A813R9E3_9BILA Actin-related protein 2/3 complex subunit 5 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS5294 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813RLS7|A0A813RLS7_ADIRI Actin-related protein 2 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS3919 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813SSJ4|A0A813SSJ4_ADIRI Actin-interacting protein 1 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS4884 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813SXJ4|A0A813SXJ4_9BILA Actin-related protein 3 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS23636 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813TSR1|A0A813TSR1_ADIRI Actin maturation protease OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS3542 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813U7M4|A0A813U7M4_9BILA Actin-related protein 3 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS7610 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813UGX8|A0A813UGX8_ADIRI Actin-related protein 2/3 complex subunit 4 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS5961 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813UXM1|A0A813UXM1_ADIRI Actin-related protein 3 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS6261 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813W8U5|A0A813W8U5_9BILA Actin-related protein 2 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS6104 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A813Z155|A0A813Z155_9BILA Actin-interacting protein 1 OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS8522 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813ZBJ3|A0A813ZBJ3_9BILA Actin-related protein 2/3 complex subunit 4 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS10305 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814A851|A0A814A851_9BILA Actin-binding cytoskeleton protein filamin (Fragment) OS=Adineta steineri OX=433720 GN=QVE165_LOCUS9899 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814CET4|A0A814CET4_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS10608 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814CHX1|A0A814CHX1_9BILA Actin-related protein 3 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS10751 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814CVE5|A0A814CVE5_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=OKA104_LOCUS20830 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814D4Y8|A0A814D4Y8_9BILA Actin-interacting protein 1 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS13860 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814DHU2|A0A814DHU2_9BILA Actin-related protein 2/3 complex subunit 4 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS13478 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814DR68|A0A814DR68_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS15373 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814EL50|A0A814EL50_9BILA Actin-related protein 2/3 complex subunit 4 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS14914 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814F0R0|A0A814F0R0_9BILA Actin-related protein 2/3 complex subunit 4 OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS9799 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814HR76|A0A814HR76_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS19897 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814IQ45|A0A814IQ45_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS27878 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814J967|A0A814J967_ADIRI Actin maturation protease OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS14948 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814K353|A0A814K353_9BILA Actin-related protein 2/3 complex subunit 3 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS15923 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814LSY0|A0A814LSY0_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS14198 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814QEH9|A0A814QEH9_9BILA Actin-interacting protein 1 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS7909 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814SQQ9|A0A814SQQ9_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS22400 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814TQ47|A0A814TQ47_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS25949 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814UMI9|A0A814UMI9_9BILA Actin-related protein 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS4558 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814VW73|A0A814VW73_9BILA Actin-interacting protein 1 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS28321 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814W4J7|A0A814W4J7_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS27359 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814WAS8|A0A814WAS8_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS17926 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A814YXB3|A0A814YXB3_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS26199 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A815AFS5|A0A815AFS5_9BILA Actin-interacting protein 1 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS26390 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815BC82|A0A815BC82_9BILA Actin-related protein 3 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS7946 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815BQX8|A0A815BQX8_9BILA Actin-related protein 2/3 complex subunit 3 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS23687 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815EJT4|A0A815EJT4_ADIRI Actin-related protein 2 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS29457 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A815LX01|A0A815LX01_9BILA Actin-related protein 2/3 complex subunit 3 OS=Adineta steineri OX=433720 GN=QVE165_LOCUS37849 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815QZ86|A0A815QZ86_9BILA Actin-binding transcription modulator OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS27575 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815RDN7|A0A815RDN7_9BILA Actin-binding cytoskeleton protein filamin (Fragment) OS=Adineta steineri OX=433720 GN=QVE165_LOCUS41862 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815RPM7|A0A815RPM7_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS9662 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815RQT7|A0A815RQT7_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS43913 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815SA00|A0A815SA00_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS38932 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815US59|A0A815US59_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS45585 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815W831|A0A815W831_9BILA Actin-related protein 2/3 complex subunit 4 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS38677 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A816B3W0|A0A816B3W0_9BILA Actin-binding transcription modulator OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS6722 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816CED9|A0A816CED9_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS12391 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A816EDD5|A0A816EDD5_9BILA Actin-binding transcription modulator OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS5303 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816EHU2|A0A816EHU2_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS25170 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816FEB3|A0A816FEB3_ADIRI Actin-related protein 2/3 complex subunit 3 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS56750 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816NBH6|A0A816NBH6_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS28122 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816PUH9|A0A816PUH9_9BILA Actin-interacting protein 1 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS7909 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817D419|A0A817D419_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS14148 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A817FKA4|A0A817FKA4_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS3716 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817GQP3|A0A817GQP3_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS21589 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817ID92|A0A817ID92_9BILA Actin-related protein 3 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS11854 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817IQ11|A0A817IQ11_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS27164 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817IZ90|A0A817IZ90_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS3530 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817M7S4|A0A817M7S4_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS10599 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817MU41|A0A817MU41_9BILA Actin-interacting protein 1 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS19185 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817RL22|A0A817RL22_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS20920 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817UHI4|A0A817UHI4_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS7877 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A817XCK9|A0A817XCK9_9BILA Actin-related protein 3 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS32048 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817YGN6|A0A817YGN6_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS15780 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818F1G7|A0A818F1G7_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS12198 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818FHJ3|A0A818FHJ3_9BILA Actin-interacting protein 1 OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS14138 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818G0F9|A0A818G0F9_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS15695 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818H4Q1|A0A818H4Q1_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS14560 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818JCC9|A0A818JCC9_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS17842 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818JCD0|A0A818JCD0_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS3323 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818KK93|A0A818KK93_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS19810 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818KTP6|A0A818KTP6_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS28655 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818S404|A0A818S404_9BILA Actin-related protein 2/3 complex subunit 3 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS1106 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818TTM1|A0A818TTM1_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS25131 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818WNL1|A0A818WNL1_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS27295 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A818WPM2|A0A818WPM2_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS2616 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818XGR9|A0A818XGR9_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS27990 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A818ZJ54|A0A818ZJ54_9BILA Actin-binding transcription modulator OS=Rotaria socialis OX=392032 GN=FME351_LOCUS19722 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819DNL1|A0A819DNL1_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS43807 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819HBH1|A0A819HBH1_9BILA Actin-related protein 2/3 complex subunit 3 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS28950 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819J7B3|A0A819J7B3_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS3218 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819K3L6|A0A819K3L6_9BILA Actin-binding transcription modulator OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS31774 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819MS50|A0A819MS50_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS3794 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819QR07|A0A819QR07_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS28197 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819UP15|A0A819UP15_9BILA Actin-binding transcription modulator OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS12901 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819VIG0|A0A819VIG0_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS1537 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A819VL46|A0A819VL46_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS45434 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819WSN4|A0A819WSN4_9BILA Actin-related protein 2/3 complex subunit 5 (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS32748 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819XTY2|A0A819XTY2_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS36741 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819YYK3|A0A819YYK3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS4358 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A820A7X6|A0A820A7X6_9BILA Actin-related protein 2/3 complex subunit 5 (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS39243 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820APY8|A0A820APY8_9BILA Actin-related protein 2/3 complex subunit 5 (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS39403 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820B2K8|A0A820B2K8_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS26035 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A820CGB4|A0A820CGB4_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS9983 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820FEN6|A0A820FEN6_9BILA Actin-related protein 2/3 complex subunit 5 OS=Adineta steineri OX=433720 GN=OKA104_LOCUS44100 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820H1E2|A0A820H1E2_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS12588 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820ITE4|A0A820ITE4_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS26204 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820QQA0|A0A820QQA0_9BILA Actin-related protein 2/3 complex subunit 5 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS26228 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820SMZ1|A0A820SMZ1_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS17198 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A820UCX3|A0A820UCX3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS1667 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A820UQ15|A0A820UQ15_9BILA Actin-related protein 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS11664 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A820ZLN9|A0A820ZLN9_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS8870 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A821EM56|A0A821EM56_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS5276 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821GM36|A0A821GM36_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS10106 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821HJD4|A0A821HJD4_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS15916 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821JZV9|A0A821JZV9_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS11215 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821PGX4|A0A821PGX4_9BILA Actin-related protein 2 OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS24222 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A821YRC9|A0A821YRC9_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS3004 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2JR29|A0A8S2JR29_9BILA Actin-related protein 3 OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS2181 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2K983|A0A8S2K983_9BILA Actin-interacting protein 1 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS5320 PE=3 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A8S2PNF0|A0A8S2PNF0_9BILA Actin-related protein 3 OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS14784 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3CTR2|A0A8S3CTR2_9BILA Actin-related protein 2/3 complex subunit 5 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS52293 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3GJ16|A0A8S3GJ16_9BILA Actin-related protein 2/3 complex subunit 5 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS75544 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3HA31|A0A8S3HA31_9BILA Actin-related protein 2/3 complex subunit 5 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS68563 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3HAX7|A0A8S3HAX7_9BILA Actin-related protein 2/3 complex subunit 3 OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS68760 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7P316|A0A3M7P316_BRAPC Actin-like OS=Brachionus plicatilis OX=10195 GN=BpHYR1_044146 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A3M7PAX7|A0A3M7PAX7_BRAPC Actin-binding IPP-like OS=Brachionus plicatilis OX=10195 GN=BpHYR1_004581 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7PMQ4|A0A3M7PMQ4_BRAPC Actin OS=Brachionus plicatilis OX=10195 GN=BpHYR1_039939 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A3M7PR75|A0A3M7PR75_BRAPC Actin-related 2 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_042744 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7PX45|A0A3M7PX45_BRAPC Actin-4-like protein OS=Brachionus plicatilis OX=10195 GN=BpHYR1_052882 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A3M7PX74|A0A3M7PX74_BRAPC Actin-related 10 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_027345 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7Q489|A0A3M7Q489_BRAPC Actin 6B (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_010304 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7Q7Q9|A0A3M7Q7Q9_BRAPC Actin-related 2-like isoform X1 (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_032524 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7Q8I3|A0A3M7Q8I3_BRAPC Actin-binding anillin-like isoform X2 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_044708 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QBW4|A0A3M7QBW4_BRAPC Actin-interacting 1 isoform X2 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_029944 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QFE3|A0A3M7QFE3_BRAPC Actin-binding LIM 1-like OS=Brachionus plicatilis OX=10195 GN=BpHYR1_045466 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QG40|A0A3M7QG40_BRAPC Actin-binding LIM 1 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_045468 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QGD6|A0A3M7QGD6_BRAPC Actin-binding LIM 1 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_045466 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A3M7QH77|A0A3M7QH77_BRAPC Actin depolymerizing factor OS=Brachionus plicatilis OX=10195 GN=BpHYR1_054032 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QHD7|A0A3M7QHD7_BRAPC Actin maturation protease OS=Brachionus plicatilis OX=10195 GN=BpHYR1_053428 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QL19|A0A3M7QL19_BRAPC Actin-4-like protein (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_019327 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A3M7QNB9|A0A3M7QNB9_BRAPC Actin-related 3 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_009055 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QR91|A0A3M7QR91_BRAPC Actin-related 2 isoform X3 (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_003259 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7QT99|A0A3M7QT99_BRAPC Actin 6B (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_002500 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7R5D5|A0A3M7R5D5_BRAPC Actin interacting 3 (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_052143 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A3M7R6G6|A0A3M7R6G6_BRAPC Actin-related 2 isoform X2 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_000248 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7RVR8|A0A3M7RVR8_BRAPC Actin-related 6 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_034186 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7S9Q6|A0A3M7S9Q6_BRAPC Actin-binding Rho-activating OS=Brachionus plicatilis OX=10195 GN=BpHYR1_012238 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7SIT8|A0A3M7SIT8_BRAPC Actin-5C OS=Brachionus plicatilis OX=10195 GN=BpHYR1_010489 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A3M7SYK8|A0A3M7SYK8_BRAPC Actin cytoskeleton-regulatory complex PAN1-like (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_025414 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A3M7T271|A0A3M7T271_BRAPC Actin-like isoform X2 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_030396 PE=3 SV=1,Myosin,Not_Target,Not_Target
+tr|A0A3M7TAR9|A0A3M7TAR9_BRAPC Actin-5C OS=Brachionus plicatilis OX=10195 GN=BpHYR1_021182 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A3M7TCW3|A0A3M7TCW3_BRAPC Actin OS=Brachionus plicatilis OX=10195 GN=BpHYR1_021184 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A813M123|A0A813M123_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS1434 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813M6E6|A0A813M6E6_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS1434 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813M6K6|A0A813M6K6_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS1434 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813MBP5|A0A813MBP5_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS1434 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813MDM8|A0A813MDM8_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=PYM288_LOCUS236 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813MGG6|A0A813MGG6_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=PYM288_LOCUS236 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813MGK7|A0A813MGK7_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS2169 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813MJD4|A0A813MJD4_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=PYM288_LOCUS236 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813N252|A0A813N252_9BILA Actin-related protein 6 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS3019 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813NBW7|A0A813NBW7_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS1775 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813NGF0|A0A813NGF0_ADIRI Actin OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS1233 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813NV15|A0A813NV15_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS858 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813NZR5|A0A813NZR5_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS858 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813P0A9|A0A813P0A9_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS858 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A813P3N6|A0A813P3N6_9BILA Actin-related protein 6 OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS1299 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813PMJ8|A0A813PMJ8_9BILA Actin-related protein 6 OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS2586 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813PVZ8|A0A813PVZ8_9BILA Actin-like protein N-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS2104 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813Q6D8|A0A813Q6D8_ADIRI Actin OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS2901 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813QQ99|A0A813QQ99_9BILA Actin (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS4963 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A813QZ65|A0A813QZ65_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS2929 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813R8Q4|A0A813R8Q4_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS3047 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813RHR9|A0A813RHR9_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS4156 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813RLQ1|A0A813RLQ1_9BILA Actin-related protein 10 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS2640 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813S220|A0A813S220_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS3134 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813S9M6|A0A813S9M6_9BILA Actin OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS6026 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813SRZ1|A0A813SRZ1_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS7083 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A813SXI9|A0A813SXI9_9BILA Actin maturation protease OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS3634 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813T1L0|A0A813T1L0_ADIRI Actin-related protein 10 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS3120 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813TEJ3|A0A813TEJ3_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS19724 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813UD48|A0A813UD48_ADIRI Actin-related protein 10 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS5893 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813UHN7|A0A813UHN7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS9246 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813UJ29|A0A813UJ29_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS4889 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A813UMU9|A0A813UMU9_9BILA Actin-related protein 3 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS4981 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813UPE1|A0A813UPE1_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS4813 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813URY2|A0A813URY2_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS6860 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813UY88|A0A813UY88_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=VCS650_LOCUS5846 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813V6Q8|A0A813V6Q8_ADIRI Actin OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS6630 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813VAH5|A0A813VAH5_9BILA Actin-related protein 6 OS=Adineta steineri OX=433720 GN=QVE165_LOCUS6164 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813VF11|A0A813VF11_ADIRI Actin OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS6629 PE=3 SV=1,Actin,Actin,Myosin
+tr|A0A813W2L4|A0A813W2L4_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS7227 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813W356|A0A813W356_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS7227 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813W9L0|A0A813W9L0_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS7227 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813WSD1|A0A813WSD1_ADIRI Actin-related protein 6 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS6064 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813WUB0|A0A813WUB0_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS6857 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813WZ83|A0A813WZ83_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS5606 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813X1J8|A0A813X1J8_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS7942 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A813X6D6|A0A813X6D6_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS7942 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A813X744|A0A813X744_9BILA Actin-related protein 6 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS8651 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813XHU7|A0A813XHU7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS5606 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813XRP3|A0A813XRP3_9BILA Actin OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS7608 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A813XS14|A0A813XS14_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS7782 PE=4 SV=1,Actin,Actin,Myosin
+tr|A0A813Y0A4|A0A813Y0A4_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS3124 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813Y0U0|A0A813Y0U0_9BILA Actin-related protein 2/3 complex subunit 4 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS11075 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813Y976|A0A813Y976_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS20573 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813Y9A7|A0A813Y9A7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS20573 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813YSX3|A0A813YSX3_9BILA Actin maturation protease OS=Adineta steineri OX=433720 GN=BJG266_LOCUS9842 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813YYN7|A0A813YYN7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS8522 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A813ZPB1|A0A813ZPB1_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS7453 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A813ZPD7|A0A813ZPD7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS7453 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813ZPI3|A0A813ZPI3_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS12328 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A813ZQ10|A0A813ZQ10_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS7170 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A813ZS69|A0A813ZS69_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS7453 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A813ZSA1|A0A813ZSA1_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS7453 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A813ZWS0|A0A813ZWS0_9BILA Actin maturation protease OS=Adineta steineri OX=433720 GN=OKA104_LOCUS28846 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814A1B2|A0A814A1B2_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS5955 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A814A1U3|A0A814A1U3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS5955 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814A3W7|A0A814A3W7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS5955 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A814A413|A0A814A413_ADIRI Actin OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS10977 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814A4G9|A0A814A4G9_9BILA Actin maturation protease OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS11722 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814A9J1|A0A814A9J1_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS10189 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814AU03|A0A814AU03_ADIRI Actin-related protein 2 OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS8951 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814B0N2|A0A814B0N2_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=QVE165_LOCUS10574 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814BTI1|A0A814BTI1_ADIRI Actin-related protein 2 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS9577 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814CCA9|A0A814CCA9_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS10658 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814CT14|A0A814CT14_9BILA Actin OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS11276 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814DN23|A0A814DN23_9BILA Actin-related protein 6 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS14362 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814DSN4|A0A814DSN4_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS13770 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A814DTD9|A0A814DTD9_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS13663 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814E1F9|A0A814E1F9_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS377 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814E3M0|A0A814E3M0_ADIRI Actin maturation protease OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS13106 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814E7V2|A0A814E7V2_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS11973 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814E9B6|A0A814E9B6_9BILA Actin OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS14561 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814E9I2|A0A814E9I2_9BILA Actin-related protein 2 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS28359 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814ED29|A0A814ED29_ADIRI Actin maturation protease OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS13140 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814ENE3|A0A814ENE3_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS11854 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A814F5M1|A0A814F5M1_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS13041 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814FD56|A0A814FD56_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS13209 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814FQ44|A0A814FQ44_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS12861 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A814GIX1|A0A814GIX1_9BILA Actin OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS16208 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814GMF1|A0A814GMF1_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS15860 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814GUJ5|A0A814GUJ5_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS17649 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814HFW8|A0A814HFW8_9BILA Actin-related protein 2 OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS16862 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814HIH4|A0A814HIH4_9BILA Actin (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS16905 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A814HJ86|A0A814HJ86_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS13752 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A814HK41|A0A814HK41_9BILA Actin (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS16903 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A814I614|A0A814I614_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS11802 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A814IAW2|A0A814IAW2_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS11802 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A814IDR9|A0A814IDR9_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS14829 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A814IGM8|A0A814IGM8_9BILA Actin OS=Adineta steineri OX=433720 GN=BJG266_LOCUS23247 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814IIE5|A0A814IIE5_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS14923 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814IRT3|A0A814IRT3_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS7352 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814IYF9|A0A814IYF9_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS15586 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814JES6|A0A814JES6_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS15585 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814JLL1|A0A814JLL1_9BILA Actin-related protein 2 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS24079 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A814JUQ4|A0A814JUQ4_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS19951 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A814K9S7|A0A814K9S7_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS17355 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A814KA90|A0A814KA90_9BILA Actin OS=Adineta steineri OX=433720 GN=VCS650_LOCUS17281 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A814KQJ4|A0A814KQJ4_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS9187 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814KZR3|A0A814KZR3_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38413 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A814L2J5|A0A814L2J5_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38411 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814L545|A0A814L545_9BILA Actin OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS19237 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814L984|A0A814L984_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=OKA104_LOCUS27714 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814LB09|A0A814LB09_9BILA Actin OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS15649 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814LHW6|A0A814LHW6_9BILA Actin OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS14044 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A814LMQ7|A0A814LMQ7_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS16995 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814M0D4|A0A814M0D4_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS19728 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814MEP8|A0A814MEP8_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=QVE165_LOCUS19001 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814MIS9|A0A814MIS9_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS21745 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A814MNI2|A0A814MNI2_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS17306 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A814MU87|A0A814MU87_9BILA Actin (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS20333 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A814PWH7|A0A814PWH7_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS44587 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A814QNV2|A0A814QNV2_9BILA Actin-related protein 2 OS=Adineta steineri OX=433720 GN=BJG266_LOCUS16269 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814QTJ6|A0A814QTJ6_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS20368 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A814QVA9|A0A814QVA9_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS20368 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A814R3Q6|A0A814R3Q6_9BILA Actin OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS17279 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814R4T0|A0A814R4T0_9BILA Actin (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS22396 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814R836|A0A814R836_9BILA Actin OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS17282 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814RK66|A0A814RK66_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS24901 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814RMS6|A0A814RMS6_9BILA Actin OS=Adineta steineri OX=433720 GN=BJG266_LOCUS23241 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814RRP1|A0A814RRP1_9BILA Actin OS=Adineta steineri OX=433720 GN=BJG266_LOCUS11847 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814RYJ4|A0A814RYJ4_9BILA Actin OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS21370 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A814RZK6|A0A814RZK6_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS10873 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814S060|A0A814S060_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS21372 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A814S2P7|A0A814S2P7_9BILA Actin OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS21371 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814SL21|A0A814SL21_9BILA Actin OS=Adineta steineri OX=433720 GN=BJG266_LOCUS23987 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814TJT1|A0A814TJT1_9BILA Actin OS=Adineta steineri OX=433720 GN=VCS650_LOCUS23482 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814U1P0|A0A814U1P0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS59218 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A814ULH5|A0A814ULH5_ADIRI Actin-related protein 6 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS22455 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814V0J6|A0A814V0J6_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=IZO911_LOCUS27504 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A814V5V2|A0A814V5V2_9BILA Actin-related protein 6 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS26449 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814V8H4|A0A814V8H4_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS19264 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A814VX98|A0A814VX98_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS26687 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814WNQ6|A0A814WNQ6_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS21472 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A814WRE1|A0A814WRE1_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS18938 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814WTH5|A0A814WTH5_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS23972 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814WWF1|A0A814WWF1_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=VCS650_LOCUS26010 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814XDA6|A0A814XDA6_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS8959 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A814XYL9|A0A814XYL9_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS8483 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814YSW7|A0A814YSW7_9BILA Actin maturation protease OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS26079 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814Z8E5|A0A814Z8E5_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=IZO911_LOCUS30682 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A814ZG72|A0A814ZG72_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20419 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A814ZIM0|A0A814ZIM0_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS52804 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814ZLI5|A0A814ZLI5_9BILA Actin maturation protease OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS26386 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A814ZM96|A0A814ZM96_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS16463 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814ZTL5|A0A814ZTL5_9BILA Actin OS=Adineta steineri OX=433720 GN=QVE165_LOCUS28357 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A814ZX34|A0A814ZX34_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS33800 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A815AJE5|A0A815AJE5_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=VCS650_LOCUS28721 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A815B286|A0A815B286_9BILA Actin maturation protease OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS27850 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815B8C5|A0A815B8C5_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS30486 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A815BCQ3|A0A815BCQ3_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS30507 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815BKW7|A0A815BKW7_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS27084 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815D0U1|A0A815D0U1_9BILA Actin-related protein 2/3 complex subunit 4 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS70213 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A815DK26|A0A815DK26_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS28524 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A815F5Q2|A0A815F5Q2_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS32036 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815F6M4|A0A815F6M4_9BILA Actin maturation protease OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS35754 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815FI51|A0A815FI51_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS6143 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815FLS9|A0A815FLS9_9BILA Actin OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS29502 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A815FQV4|A0A815FQV4_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS26417 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A815FV09|A0A815FV09_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS31234 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A815FV41|A0A815FV41_9BILA Actin OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS29503 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815FW75|A0A815FW75_9BILA Actin OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS29504 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815IJH9|A0A815IJH9_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS33097 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815ILC5|A0A815ILC5_9BILA Actin-related protein 10 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS20390 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815JHW0|A0A815JHW0_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS9321 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815JZP5|A0A815JZP5_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS32588 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815K257|A0A815K257_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS33308 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815KGW2|A0A815KGW2_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=QVE165_LOCUS36458 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A815KHP5|A0A815KHP5_9BILA Actin OS=Adineta steineri OX=433720 GN=VCS650_LOCUS36080 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815KHX0|A0A815KHX0_9BILA Actin OS=Adineta steineri OX=433720 GN=VCS650_LOCUS36085 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815KHZ3|A0A815KHZ3_9BILA Actin OS=Adineta steineri OX=433720 GN=VCS650_LOCUS36086 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A815KR68|A0A815KR68_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS33080 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A815KRW9|A0A815KRW9_9BILA Actin OS=Adineta steineri OX=433720 GN=VCS650_LOCUS36081 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815KYW7|A0A815KYW7_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=IZO911_LOCUS39592 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A815L532|A0A815L532_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS36259 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A815LPX4|A0A815LPX4_9BILA Actin-related protein 2 OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS33487 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815M8L1|A0A815M8L1_9BILA Actin-related protein 2 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS38358 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815MTK2|A0A815MTK2_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=IZO911_LOCUS40643 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815MZA9|A0A815MZA9_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS46517 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815NU63|A0A815NU63_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS39977 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A815P2Z0|A0A815P2Z0_ADIRI Actin OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS36457 PE=3 SV=1,Actin,Actin,Myosin
+tr|A0A815P309|A0A815P309_ADIRI Actin OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS36456 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A815PLV8|A0A815PLV8_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=BJG266_LOCUS6925 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A815PPS4|A0A815PPS4_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS24609 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A815PQB1|A0A815PQB1_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS24611 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A815PXZ4|A0A815PXZ4_9BILA Actin OS=Adineta steineri OX=433720 GN=BJG266_LOCUS40644 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A815Q0L0|A0A815Q0L0_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS42642 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815Q0X9|A0A815Q0X9_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=IZO911_LOCUS42641 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A815Q8I0|A0A815Q8I0_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS37379 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815QDS3|A0A815QDS3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS41300 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A815QFT4|A0A815QFT4_ADIRI Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS37523 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815QGP1|A0A815QGP1_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS41301 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A815QMK7|A0A815QMK7_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38412 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A815QT76|A0A815QT76_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38554 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A815QT85|A0A815QT85_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38555 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A815QUC1|A0A815QUC1_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38553 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815QUX4|A0A815QUX4_9BILA Actin-related protein 2 (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS41362 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815QWF7|A0A815QWF7_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS38414 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815RXK2|A0A815RXK2_9BILA Actin-like protein 6A OS=Adineta steineri OX=433720 GN=BJG266_LOCUS24080 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A815RXP3|A0A815RXP3_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=BJG266_LOCUS27821 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A815S2W1|A0A815S2W1_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS44269 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815S5H5|A0A815S5H5_9BILA Actin-related protein 2 (Fragment) OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS54520 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815S7Z1|A0A815S7Z1_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=IZO911_LOCUS44268 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A815STS9|A0A815STS9_9BILA Actin-related protein 6 OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS40064 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A815TFV0|A0A815TFV0_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS54825 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815TKW0|A0A815TKW0_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS43976 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815TMX2|A0A815TMX2_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS55390 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815TNV2|A0A815TNV2_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS27695 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815TQZ3|A0A815TQZ3_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS43977 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A815TVT3|A0A815TVT3_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS44047 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815U0M9|A0A815U0M9_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS43975 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A815U3G0|A0A815U3G0_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS44046 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815U4D0|A0A815U4D0_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS27696 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815U5I0|A0A815U5I0_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS44315 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815V9D5|A0A815V9D5_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS56516 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815W200|A0A815W200_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS16913 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815W9Y5|A0A815W9Y5_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS45838 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A815WAH8|A0A815WAH8_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS42074 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A815WAS9|A0A815WAS9_9BILA Actin OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS39089 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A815X604|A0A815X604_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS38739 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A815XH54|A0A815XH54_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS30898 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A815XHS5|A0A815XHS5_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS30898 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A815ZIZ2|A0A815ZIZ2_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS25335 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A816ANA9|A0A816ANA9_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS35116 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A816AZ65|A0A816AZ65_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS22292 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A816AZW6|A0A816AZW6_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS35336 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A816B432|A0A816B432_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS52807 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A816B5X2|A0A816B5X2_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS52806 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A816BG01|A0A816BG01_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS48969 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816BH83|A0A816BH83_ADIRI Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS48551 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816CMB0|A0A816CMB0_ADIRI Actin-related protein 2 OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS50954 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816CW95|A0A816CW95_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS44053 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816D4K7|A0A816D4K7_ADIRI Actin OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS52057 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A816DUL9|A0A816DUL9_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS38051 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816E0M0|A0A816E0M0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS29020 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A816E537|A0A816E537_9BILA Actin-related protein 2 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS27189 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816F674|A0A816F674_9BILA Actin OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS55389 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816FDY3|A0A816FDY3_ADIRI Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS56721 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816FI72|A0A816FI72_ADIRI Actin OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS57013 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816FNA1|A0A816FNA1_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS56513 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816FPG5|A0A816FPG5_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS56512 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A816G0R8|A0A816G0R8_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS45399 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A816G3P6|A0A816G3P6_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS58358 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816GBM4|A0A816GBM4_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS48520 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816GDA9|A0A816GDA9_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS64198 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A816GR90|A0A816GR90_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS35496 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A816H1R9|A0A816H1R9_ADIRI Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS61032 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816H9M2|A0A816H9M2_ADIRI Actin (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS61610 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816HAR7|A0A816HAR7_ADIRI Actin OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS61874 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816HCK0|A0A816HCK0_ADIRI Actin-related protein 3 (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS61429 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816HCM7|A0A816HCM7_9BILA Actin-related protein 6 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS179 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816HF43|A0A816HF43_ADIRI Actin OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS61963 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816HVR8|A0A816HVR8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS38188 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A816HX45|A0A816HX45_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS41340 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816KCV0|A0A816KCV0_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS1316 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A816L2I1|A0A816L2I1_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS38056 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A816N6R6|A0A816N6R6_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS34293 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A816N9C5|A0A816N9C5_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS6838 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A816NEW9|A0A816NEW9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS6836 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A816PN54|A0A816PN54_9BILA Actin-related protein 10 OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS12990 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816PTH1|A0A816PTH1_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS10509 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A816Q6X7|A0A816Q6X7_9BILA Actin-related protein 6 OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS11380 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816RZE0|A0A816RZE0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS18771 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A816TCG5|A0A816TCG5_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS21696 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A816TFT5|A0A816TFT5_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS21698 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816UBG0|A0A816UBG0_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS32123 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816VEZ6|A0A816VEZ6_9BILA Actin-related protein 2 OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS6158 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816XMX7|A0A816XMX7_9BILA Actin maturation protease OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS13986 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816YIN7|A0A816YIN7_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS20298 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A816ZE49|A0A816ZE49_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS32754 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A816ZVD3|A0A816ZVD3_9BILA Actin-related protein 10 OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS36349 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A816ZWP9|A0A816ZWP9_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS37244 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A816ZXM5|A0A816ZXM5_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS36499 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817AB08|A0A817AB08_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS35453 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817BIW6|A0A817BIW6_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS4884 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A817BVG9|A0A817BVG9_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS4032 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817BVS0|A0A817BVS0_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS10107 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817CIN6|A0A817CIN6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS10112 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817CP39|A0A817CP39_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS859 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817DMX8|A0A817DMX8_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS27750 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817E1Y6|A0A817E1Y6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS11902 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817EV82|A0A817EV82_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS27010 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817F9Y0|A0A817F9Y0_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS2460 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817FJL8|A0A817FJL8_9BILA Actin maturation protease OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS30010 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817FPT5|A0A817FPT5_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS18728 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817FT68|A0A817FT68_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS30596 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817FUP5|A0A817FUP5_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS30598 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817FW53|A0A817FW53_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS30595 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817GLP5|A0A817GLP5_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS6862 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817H7Q6|A0A817H7Q6_9BILA Actin-like protein OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS34248 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817HRN6|A0A817HRN6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS35583 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A817I0S8|A0A817I0S8_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS10137 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817IR68|A0A817IR68_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS28050 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817J2C6|A0A817J2C6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS28052 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A817JGC3|A0A817JGC3_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS29606 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A817JGK8|A0A817JGK8_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS42936 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A817JNL4|A0A817JNL4_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS39690 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817KKA5|A0A817KKA5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS42099 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A817KPU1|A0A817KPU1_9BILA Actin-related protein 6 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS1811 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817LB99|A0A817LB99_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS10133 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817ML61|A0A817ML61_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS45917 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817MLQ5|A0A817MLQ5_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS5074 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A817N4E9|A0A817N4E9_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS47470 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A817NB51|A0A817NB51_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS47760 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A817NTT4|A0A817NTT4_9BILA Actin-related protein OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS15562 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817P5X1|A0A817P5X1_9BILA Actin OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS9433 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817PMG8|A0A817PMG8_9BILA Actin maturation protease OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS27817 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817PMV2|A0A817PMV2_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS41503 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817PP22|A0A817PP22_9BILA Actin OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS10634 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A817Q7U1|A0A817Q7U1_9BILA Actin-related protein 2 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS24683 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817Q8U6|A0A817Q8U6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS29416 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817QAG4|A0A817QAG4_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS29418 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817QF02|A0A817QF02_9BILA Actin OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS2213 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A817QGS1|A0A817QGS1_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS29414 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817QK22|A0A817QK22_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS29417 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A817QLQ6|A0A817QLQ6_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS13228 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A817QMN5|A0A817QMN5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS43497 PE=4 SV=1,Actin,Myosin,Myosin
+tr|A0A817QRU7|A0A817QRU7_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS33312 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A817RB28|A0A817RB28_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS44929 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A817SJF3|A0A817SJF3_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS25635 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A817SLT4|A0A817SLT4_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS25633 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817SLY4|A0A817SLY4_9BILA Actin-related protein 2 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS31098 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817SM32|A0A817SM32_9BILA Actin OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS8861 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817SPI2|A0A817SPI2_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS47488 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A817T1B6|A0A817T1B6_9BILA Actin OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS17548 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817T4U4|A0A817T4U4_9BILA Actin OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS677 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A817TKV6|A0A817TKV6_9BILA Actin-related protein 6 OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS1580 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817TQ22|A0A817TQ22_9BILA Actin OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS10429 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817U0H8|A0A817U0H8_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS28710 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817VSP4|A0A817VSP4_9BILA Actin-related protein 6 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS5016 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817WNY7|A0A817WNY7_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS1685 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817WYA6|A0A817WYA6_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS4589 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817X4Q1|A0A817X4Q1_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS24444 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817X5W4|A0A817X5W4_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS7081 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A817XXX3|A0A817XXX3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS3688 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A817Y969|A0A817Y969_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS4045 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A817YFE6|A0A817YFE6_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS4451 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A817YKM8|A0A817YKM8_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS4097 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A817YT19|A0A817YT19_9BILA Actin maturation protease OS=Rotaria socialis OX=392032 GN=FME351_LOCUS27740 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817Z4I4|A0A817Z4I4_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS5425 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A817Z505|A0A817Z505_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS4915 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A817Z601|A0A817Z601_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS7172 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A817ZGF1|A0A817ZGF1_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS4941 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A817ZSK3|A0A817ZSK3_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS42628 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A818ACS8|A0A818ACS8_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=FME351_LOCUS9242 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818AI53|A0A818AI53_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS6151 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818ALP2|A0A818ALP2_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS43471 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A818ARU3|A0A818ARU3_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS6879 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818B801|A0A818B801_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS43472 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818BPQ9|A0A818BPQ9_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS29181 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818BUL9|A0A818BUL9_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS9408 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818CAQ0|A0A818CAQ0_9BILA Actin-related protein 2 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS11598 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818CQH4|A0A818CQH4_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS9232 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818D8F8|A0A818D8F8_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS10267 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818DJ56|A0A818DJ56_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS45642 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818DTM8|A0A818DTM8_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS21690 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A818E627|A0A818E627_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS10562 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818E6V8|A0A818E6V8_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS22141 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818EAA8|A0A818EAA8_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS10236 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818EGH3|A0A818EGH3_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS14763 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818EYS2|A0A818EYS2_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS13439 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818FNM1|A0A818FNM1_9BILA Actin-related protein 3 OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS12974 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818FXQ9|A0A818FXQ9_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS47065 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A818G1X0|A0A818G1X0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=FME351_LOCUS15618 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A818G2L8|A0A818G2L8_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS774 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A818GB53|A0A818GB53_9BILA Actin OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS16668 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818GGX2|A0A818GGX2_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS15786 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818H487|A0A818H487_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS26494 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A818H6I1|A0A818H6I1_9BILA Actin OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS25186 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818HAX8|A0A818HAX8_9BILA Actin maturation protease OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS41095 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818HBH7|A0A818HBH7_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS1750 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818HED3|A0A818HED3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS17942 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818HG31|A0A818HG31_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS17166 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818HGH0|A0A818HGH0_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS17169 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818HIU7|A0A818HIU7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=OXD698_LOCUS1771 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A818HNU1|A0A818HNU1_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS17164 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818HTL9|A0A818HTL9_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS16262 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A818HXG8|A0A818HXG8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS42025 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818I086|A0A818I086_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS15600 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818I8R5|A0A818I8R5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS42024 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818IC79|A0A818IC79_9BILA Actin OS=Adineta steineri OX=433720 GN=IZO911_LOCUS21491 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A818IV05|A0A818IV05_9BILA Actin-related protein 6 OS=Adineta steineri OX=433720 GN=OKA104_LOCUS2853 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818IWK9|A0A818IWK9_9BILA Actin-related protein 2 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS1287 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818J4P0|A0A818J4P0_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS586 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A818JD26|A0A818JD26_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS43135 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A818K3Z1|A0A818K3Z1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS43537 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818K5A5|A0A818K5A5_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS731 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818K5B5|A0A818K5B5_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS19426 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818KTW4|A0A818KTW4_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS1679 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818L1G4|A0A818L1G4_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS18141 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818L6G6|A0A818L6G6_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS8246 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818L8C9|A0A818L8C9_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS14463 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818LDY8|A0A818LDY8_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS14229 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818LJY1|A0A818LJY1_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=OKA104_LOCUS5254 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818LLC8|A0A818LLC8_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS20632 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818LTT5|A0A818LTT5_9BILA Actin OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS21605 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818LX15|A0A818LX15_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS17170 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818M3S6|A0A818M3S6_9BILA Actin OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS21608 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818M8G5|A0A818M8G5_9BILA Actin maturation protease OS=Adineta steineri OX=433720 GN=IZO911_LOCUS8073 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818MXN7|A0A818MXN7_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS45458 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A818NKI1|A0A818NKI1_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS22962 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818NLR7|A0A818NLR7_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS17165 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A818NQJ8|A0A818NQJ8_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=IZO911_LOCUS9182 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818NYV4|A0A818NYV4_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS20239 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818P400|A0A818P400_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS7637 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818PG34|A0A818PG34_9BILA Actin OS=Adineta steineri OX=433720 GN=OXD698_LOCUS7407 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818PKT3|A0A818PKT3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=OKA104_LOCUS7923 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A818PLK1|A0A818PLK1_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS4776 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818PLS3|A0A818PLS3_9BILA Actin-related protein 10 OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS21950 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818PWR6|A0A818PWR6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS52097 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818RIT9|A0A818RIT9_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS23862 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818S8T1|A0A818S8T1_9BILA Actin OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS8647 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818SQ79|A0A818SQ79_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS3851 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818SQV3|A0A818SQV3_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS7401 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A818SSF4|A0A818SSF4_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS7398 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818STC8|A0A818STC8_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS10870 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818STT7|A0A818STT7_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS7400 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A818SWI2|A0A818SWI2_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS10854 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818SXN4|A0A818SXN4_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS25918 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818SY98|A0A818SY98_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS7402 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818SZD2|A0A818SZD2_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS10872 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A818T1V4|A0A818T1V4_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS10869 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818T2E8|A0A818T2E8_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS24178 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818T686|A0A818T686_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS7837 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818T6N1|A0A818T6N1_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS10871 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A818T983|A0A818T983_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS7399 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818TK50|A0A818TK50_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS11481 PE=4 SV=1,Actin,Actin,Myosin
+tr|A0A818TL48|A0A818TL48_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS8485 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A818U1J0|A0A818U1J0_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS8484 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A818U1K6|A0A818U1K6_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS8486 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818U1M4|A0A818U1M4_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS8487 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818U444|A0A818U444_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS24323 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818U7N4|A0A818U7N4_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS24325 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A818UY77|A0A818UY77_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS11315 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818V0X5|A0A818V0X5_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS12607 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A818V2T4|A0A818V2T4_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS26617 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818V786|A0A818V786_9BILA Actin maturation protease OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS30284 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818VRT0|A0A818VRT0_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS26905 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A818VV43|A0A818VV43_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS13333 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A818W144|A0A818W144_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS27164 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818WEQ6|A0A818WEQ6_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS14088 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818WRW0|A0A818WRW0_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS24324 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A818WRX0|A0A818WRX0_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS27297 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A818X3Y0|A0A818X3Y0_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS29925 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A818X7K1|A0A818X7K1_9BILA Actin OS=Rotaria socialis OX=392032 GN=FME351_LOCUS29928 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818XGI7|A0A818XGI7_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS7201 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818XQW8|A0A818XQW8_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS15187 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A818XRP0|A0A818XRP0_9BILA Actin OS=Adineta steineri OX=433720 GN=OKA104_LOCUS15243 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A818YBB1|A0A818YBB1_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS12559 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A818Z9S2|A0A818Z9S2_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS16067 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A818ZIN7|A0A818ZIN7_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS1860 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A818ZKP5|A0A818ZKP5_9BILA Actin maturation protease OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS7228 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A818ZX78|A0A818ZX78_9BILA Actin-like protein 6A OS=Adineta steineri OX=433720 GN=BJG266_LOCUS26382 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819AFM5|A0A819AFM5_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS31036 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819AIL3|A0A819AIL3_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS31034 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819AWT5|A0A819AWT5_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS30570 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819B5C9|A0A819B5C9_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS14712 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819BML1|A0A819BML1_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS32191 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819C1F3|A0A819C1F3_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS15249 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A819C331|A0A819C331_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS32192 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819CHX3|A0A819CHX3_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS32087 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819CPV1|A0A819CPV1_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS5146 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819CRP3|A0A819CRP3_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS34692 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819CXW8|A0A819CXW8_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS18412 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819DH70|A0A819DH70_9BILA Actin OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS18411 PE=3 SV=1,Actin,Actin,Myosin
+tr|A0A819DPC4|A0A819DPC4_9BILA Actin-related protein 10 OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS16556 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819DZ40|A0A819DZ40_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS20623 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A819E9W9|A0A819E9W9_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS21215 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819ENQ3|A0A819ENQ3_9BILA Actin OS=Adineta steineri OX=433720 GN=OXD698_LOCUS21415 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819EPS5|A0A819EPS5_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS18118 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A819FBL9|A0A819FBL9_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS21951 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A819FJF4|A0A819FJF4_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS1060 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A819FK97|A0A819FK97_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS36937 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819FSS3|A0A819FSS3_9BILA Actin maturation protease OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS35959 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819FT44|A0A819FT44_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS21211 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A819GSP7|A0A819GSP7_9BILA Actin-related protein 6 OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS20023 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819GX77|A0A819GX77_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS19612 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819GXA7|A0A819GXA7_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Adineta steineri OX=433720 GN=OKA104_LOCUS23540 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819GZR4|A0A819GZR4_9BILA Actin OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS6205 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819I5M3|A0A819I5M3_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS10045 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819IDC6|A0A819IDC6_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS24492 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819IF74|A0A819IF74_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS23440 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A819IMD1|A0A819IMD1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS3518 PE=4 SV=1,Not_Target,Not_Target,Actin
+tr|A0A819IRI8|A0A819IRI8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS37361 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A819IYB8|A0A819IYB8_9BILA Actin OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS21819 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819J316|A0A819J316_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS37206 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819J3L0|A0A819J3L0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS25116 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A819J4R2|A0A819J4R2_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS22263 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A819K4T3|A0A819K4T3_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS38221 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A819KB10|A0A819KB10_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS26763 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819KCU5|A0A819KCU5_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS25179 PE=4 SV=1,Myosin,Not_Target,Myosin
+tr|A0A819KDS4|A0A819KDS4_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS38222 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819KDV5|A0A819KDV5_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS4962 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819KUI8|A0A819KUI8_9BILA Actin OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS26555 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819KUY8|A0A819KUY8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS38597 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A819KUZ1|A0A819KUZ1_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS23480 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819KV56|A0A819KV56_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS39134 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819KYI2|A0A819KYI2_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS18123 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A819L188|A0A819L188_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS23362 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819L309|A0A819L309_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS39133 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819L5S4|A0A819L5S4_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS23569 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819LBQ0|A0A819LBQ0_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS36383 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819LMQ2|A0A819LMQ2_9BILA Actin-related protein 6 OS=Adineta steineri OX=433720 GN=OXD698_LOCUS27591 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819MBI8|A0A819MBI8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS40044 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819MMT7|A0A819MMT7_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS40239 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A819MPH5|A0A819MPH5_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS14001 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819NII0|A0A819NII0_9BILA Actin-related protein 10 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS10921 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819PET1|A0A819PET1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS40825 PE=4 SV=1,Actin,Actin,Myosin
+tr|A0A819Q5V2|A0A819Q5V2_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS5358 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A819QAR8|A0A819QAR8_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS31411 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819QAS6|A0A819QAS6_9BILA Actin OS=Adineta steineri OX=433720 GN=OKA104_LOCUS31412 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819QGN4|A0A819QGN4_9BILA Actin OS=Adineta steineri OX=433720 GN=OKA104_LOCUS31413 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819RCN9|A0A819RCN9_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS30658 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819RLY8|A0A819RLY8_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS19106 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819S3I3|A0A819S3I3_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS19642 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819SCE9|A0A819SCE9_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS18379 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819SKF6|A0A819SKF6_9BILA Actin-related protein 10 OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS13731 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819SQQ3|A0A819SQQ3_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS46117 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819SXK5|A0A819SXK5_9BILA Actin maturation protease OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS11791 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819T9M3|A0A819T9M3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS33169 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A819TC14|A0A819TC14_9BILA Actin OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS41302 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819TIX2|A0A819TIX2_9BILA Actin OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS33168 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819TP29|A0A819TP29_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS34024 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819TP54|A0A819TP54_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS10135 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819TRB6|A0A819TRB6_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS46118 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A819U6C9|A0A819U6C9_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS46767 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819URW9|A0A819URW9_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS47350 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A819V1Y9|A0A819V1Y9_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS35526 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A819VA20|A0A819VA20_9BILA Actin OS=Adineta steineri OX=433720 GN=OXD698_LOCUS35683 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819VB20|A0A819VB20_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS35682 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A819VGS5|A0A819VGS5_9BILA Actin-related protein 2 OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS32069 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819VQN9|A0A819VQN9_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS5085 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819VR38|A0A819VR38_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS5053 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A819VWQ0|A0A819VWQ0_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS29037 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819WG82|A0A819WG82_9BILA Actin OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS27600 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819WTB9|A0A819WTB9_9BILA Actin maturation protease OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS3014 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819WWH3|A0A819WWH3_9BILA Actin OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS2900 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819WWM4|A0A819WWM4_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS11551 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819X4P1|A0A819X4P1_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS17057 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819XDS8|A0A819XDS8_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS33054 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A819XEK8|A0A819XEK8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS48063 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A819XIQ7|A0A819XIQ7_9BILA Actin OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS26677 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819XUQ7|A0A819XUQ7_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS21502 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A819XZU5|A0A819XZU5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS15714 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A819YCA5|A0A819YCA5_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS26362 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A819YDX6|A0A819YDX6_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS63197 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A819YIF3|A0A819YIF3_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS25278 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819YUQ4|A0A819YUQ4_9BILA Actin OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS28496 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819Z5L6|A0A819Z5L6_9BILA Actin-related protein 10 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS28318 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A819ZEW0|A0A819ZEW0_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS39269 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A819ZNI3|A0A819ZNI3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS39058 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A819ZYH6|A0A819ZYH6_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS19350 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A820A6G1|A0A820A6G1_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS17824 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820AHF3|A0A820AHF3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS39544 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820AIX9|A0A820AIX9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS27533 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A820AIY1|A0A820AIY1_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS19044 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820AMB8|A0A820AMB8_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS6881 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A820ANC2|A0A820ANC2_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS40706 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820B2J8|A0A820B2J8_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS26034 PE=4 SV=1,Not_Target,Actin,Not_Target
+tr|A0A820BNS2|A0A820BNS2_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS41012 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820BP21|A0A820BP21_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS41011 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820CMH8|A0A820CMH8_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS39514 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820CWF8|A0A820CWF8_9BILA Actin-related protein 2 OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS4529 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820D341|A0A820D341_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS39530 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820D7U3|A0A820D7U3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS42473 PE=4 SV=1,Not_Target,Not_Target,Actin
+tr|A0A820D8Q9|A0A820D8Q9_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS37488 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A820DBP4|A0A820DBP4_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS42474 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820DJ25|A0A820DJ25_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS2565 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820DK59|A0A820DK59_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS42542 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A820DKM9|A0A820DKM9_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS42541 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A820DKN3|A0A820DKN3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS42715 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A820DL05|A0A820DL05_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS42714 PE=4 SV=1,Not_Target,Actin,Actin
+tr|A0A820EAM0|A0A820EAM0_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS43324 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820EEE2|A0A820EEE2_9BILA Actin-like protein OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS12958 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820EI26|A0A820EI26_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS2812 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A820F5N5|A0A820F5N5_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS23013 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820FQH0|A0A820FQH0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS29792 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820G824|A0A820G824_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS44773 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820GA61|A0A820GA61_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS44801 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820GFU4|A0A820GFU4_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS12044 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820GZ38|A0A820GZ38_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS36078 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A820HDS8|A0A820HDS8_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS45810 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A820HT57|A0A820HT57_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS46033 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820IFV6|A0A820IFV6_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS46498 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820ILD3|A0A820ILD3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS46069 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820IPQ5|A0A820IPQ5_9BILA Actin OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS46070 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820J2U7|A0A820J2U7_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS47059 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A820JR89|A0A820JR89_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS47132 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820K651|A0A820K651_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS35402 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A820LPQ6|A0A820LPQ6_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS36482 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820LW69|A0A820LW69_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS48940 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820LWP3|A0A820LWP3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS49453 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820M1E7|A0A820M1E7_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS28849 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820M469|A0A820M469_9BILA Actin-related protein 2 OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS16863 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A820M607|A0A820M607_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS44079 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820M7P5|A0A820M7P5_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS36876 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820MA32|A0A820MA32_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS29631 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A820MAR4|A0A820MAR4_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS28053 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A820MDG8|A0A820MDG8_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS18050 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A820MEA2|A0A820MEA2_9BILA Actin-like protein OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS29764 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820MF12|A0A820MF12_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS42990 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A820MNJ3|A0A820MNJ3_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS37167 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A820MT34|A0A820MT34_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS81420 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820N718|A0A820N718_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS32049 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A820N7D8|A0A820N7D8_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS50095 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820NGW0|A0A820NGW0_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS50344 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A820P2S5|A0A820P2S5_9BILA Actin OS=Adineta steineri OX=433720 GN=OKA104_LOCUS51256 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820P530|A0A820P530_9BILA Actin OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS18879 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820PHK3|A0A820PHK3_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS51236 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820PPW9|A0A820PPW9_9BILA Actin (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS44121 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820PX70|A0A820PX70_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS51851 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820Q7P8|A0A820Q7P8_9BILA Actin maturation protease OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS51914 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820QJN1|A0A820QJN1_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS52894 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820QP25|A0A820QP25_9BILA Actin OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS14641 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820QR30|A0A820QR30_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS42935 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820QVK8|A0A820QVK8_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS36467 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A820QX69|A0A820QX69_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS38543 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820R2L7|A0A820R2L7_9BILA Actin-related protein 10 OS=Rotaria socialis OX=392032 GN=FME351_LOCUS20340 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820REI4|A0A820REI4_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS39045 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820RKY2|A0A820RKY2_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS53202 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820RS33|A0A820RS33_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OKA104_LOCUS53532 PE=4 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A820S4Y7|A0A820S4Y7_9BILA Actin OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS29776 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820S6A5|A0A820S6A5_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS37707 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820SA92|A0A820SA92_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS33696 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A820SBM3|A0A820SBM3_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS22733 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820SCD2|A0A820SCD2_9BILA Actin (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS54374 PE=4 SV=1,Not_Target,Myosin,Actin
+tr|A0A820T1P9|A0A820T1P9_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS38555 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820TAI0|A0A820TAI0_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS26335 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A820TB14|A0A820TB14_9BILA Actin-related protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS38623 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820TD54|A0A820TD54_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS34598 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820TGD7|A0A820TGD7_9BILA Actin-related protein 10 OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS2056 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820TR13|A0A820TR13_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS39169 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A820TTV2|A0A820TTV2_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS36195 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820U7L6|A0A820U7L6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS35564 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820UFQ0|A0A820UFQ0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS1783 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A820VA59|A0A820VA59_9BILA Actin maturation protease OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS26569 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820VUK4|A0A820VUK4_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS2238 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A820W2W6|A0A820W2W6_9BILA Actin OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS28497 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820W336|A0A820W336_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS5301 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820WVZ8|A0A820WVZ8_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS41930 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820WX50|A0A820WX50_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS41993 PE=3 SV=1,Not_Target,Not_Target,Actin
+tr|A0A820WXF5|A0A820WXF5_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS30496 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820WXQ9|A0A820WXQ9_9BILA Actin-related protein 10 OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS31659 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820X962|A0A820X962_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS38727 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A820XLY1|A0A820XLY1_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS42471 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A820XPM3|A0A820XPM3_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS34792 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820XU00|A0A820XU00_9BILA Actin-related protein 10 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS42472 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820XXV0|A0A820XXV0_9BILA Actin OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS24003 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820Y2T0|A0A820Y2T0_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS1559 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A820YB78|A0A820YB78_9BILA Actin OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS28728 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820YCI9|A0A820YCI9_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS29503 PE=3 SV=1,Not_Target,Actin,Actin
+tr|A0A820YCV6|A0A820YCV6_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS31858 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A820YDL0|A0A820YDL0_9BILA Actin maturation protease OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS31148 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820YFQ2|A0A820YFQ2_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS1945 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A820YFW6|A0A820YFW6_9BILA Actin OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS29267 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A820YG32|A0A820YG32_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS28956 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A820YM07|A0A820YM07_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS5764 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820YN87|A0A820YN87_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS32130 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820YXQ5|A0A820YXQ5_9BILA Actin-related protein 2 OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS5383 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A820ZAG9|A0A820ZAG9_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS29884 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820ZND1|A0A820ZND1_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20417 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A820ZTC5|A0A820ZTC5_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS3850 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A820ZTD3|A0A820ZTD3_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS6007 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820ZW31|A0A820ZW31_9BILA Actin-related protein 2 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS3192 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A820ZWS7|A0A820ZWS7_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS31730 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A820ZZ20|A0A820ZZ20_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS48813 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A821AJR5|A0A821AJR5_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS30671 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821ALG1|A0A821ALG1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS44349 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821AQR5|A0A821AQR5_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS28051 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A821B1B6|A0A821B1B6_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS41862 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821B387|A0A821B387_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS29415 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821B9J0|A0A821B9J0_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS30912 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821BC47|A0A821BC47_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=FME351_LOCUS26645 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821C499|A0A821C499_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS45201 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821C9D2|A0A821C9D2_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS13910 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A821CAQ6|A0A821CAQ6_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS35140 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821CVK8|A0A821CVK8_9BILA Actin-related protein 2 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS15734 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821D0I3|A0A821D0I3_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS46298 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821D4U2|A0A821D4U2_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS28753 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A821DU56|A0A821DU56_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS7164 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A821EA40|A0A821EA40_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS44595 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821EBA1|A0A821EBA1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS44594 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A821EF94|A0A821EF94_9BILA Actin interacting protein 3 C-terminal domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS4872 PE=4 SV=1,Not_Target,Not_Target,Myosin
+tr|A0A821EJ87|A0A821EJ87_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS13750 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821EPM1|A0A821EPM1_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS45863 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821EUU5|A0A821EUU5_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS28367 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821F6Q9|A0A821F6Q9_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS45299 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821FYA7|A0A821FYA7_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS48265 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821G7K0|A0A821G7K0_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS34372 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821GA23|A0A821GA23_9BILA Actin OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS31535 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A821H983|A0A821H983_9BILA Actin OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS15886 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821HF26|A0A821HF26_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS47740 PE=4 SV=1,Myosin,Not_Target,Actin
+tr|A0A821HIQ0|A0A821HIQ0_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS11703 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A821HMP0|A0A821HMP0_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS16839 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821HR51|A0A821HR51_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS40737 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A821HSG1|A0A821HSG1_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS48031 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A821HTE2|A0A821HTE2_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS16387 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821I0C6|A0A821I0C6_9BILA Actin-related protein 10 (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS39826 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821I8Z6|A0A821I8Z6_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS33021 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821JG72|A0A821JG72_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS15352 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821JHJ0|A0A821JHJ0_9BILA Actin-related protein 10 OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS12964 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821JZ16|A0A821JZ16_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS21782 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821K104|A0A821K104_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS41399 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821K213|A0A821K213_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS49960 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821K4E7|A0A821K4E7_9BILA Actin-related protein 2 OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS37789 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821K6Q0|A0A821K6Q0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS15861 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821K9X9|A0A821K9X9_9BILA Actin OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS25670 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A821KGL8|A0A821KGL8_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS49706 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A821KUS2|A0A821KUS2_9BILA Actin OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS38320 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821KX61|A0A821KX61_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS42459 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821L1N4|A0A821L1N4_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS16945 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A821L735|A0A821L735_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS20694 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821LN41|A0A821LN41_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS20501 PE=4 SV=1,Actin,Actin,Myosin
+tr|A0A821M2R6|A0A821M2R6_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS21354 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A821MK95|A0A821MK95_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS36707 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821MM19|A0A821MM19_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS52466 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A821N932|A0A821N932_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS44499 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821NKP4|A0A821NKP4_9BILA Actin maturation protease (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS14238 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821P1A5|A0A821P1A5_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS17994 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821P7A6|A0A821P7A6_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS41145 PE=3 SV=1,Not_Target,Not_Target,Actin
+tr|A0A821Q358|A0A821Q358_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS46411 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821Q7K7|A0A821Q7K7_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS46609 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821Q9Z5|A0A821Q9Z5_9BILA Actin-related protein (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS25022 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821QCY4|A0A821QCY4_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS19700 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821QIZ0|A0A821QIZ0_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS25425 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A821QPY6|A0A821QPY6_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS46955 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A821QUT6|A0A821QUT6_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS42578 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821QZF5|A0A821QZF5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS20768 PE=3 SV=1,Not_Target,Actin,Not_Target
+tr|A0A821R1K5|A0A821R1K5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20420 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821R208|A0A821R208_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20418 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A821R8D5|A0A821R8D5_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=FME351_LOCUS7089 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821R9R3|A0A821R9R3_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20725 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821RD51|A0A821RD51_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20724 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A821RE68|A0A821RE68_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS26373 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A821RU79|A0A821RU79_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS43289 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821S1A7|A0A821S1A7_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS9407 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A821SAR8|A0A821SAR8_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS27362 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821SXS9|A0A821SXS9_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS28190 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821T870|A0A821T870_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS23170 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A821TLH4|A0A821TLH4_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS28891 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A821TXP2|A0A821TXP2_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS24056 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821UK35|A0A821UK35_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS30107 PE=3 SV=1,Actin,Myosin,Not_Target
+tr|A0A821UNV1|A0A821UNV1_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS45190 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A821UZ30|A0A821UZ30_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS25471 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821V1L9|A0A821V1L9_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS30700 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821VF20|A0A821VF20_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS27822 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A821VU84|A0A821VU84_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS24428 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A821VYR1|A0A821VYR1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS27048 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A821VZ81|A0A821VZ81_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS45019 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A821W102|A0A821W102_9BILA Actin OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS51773 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A821W9K8|A0A821W9K8_9BILA Actin OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS31488 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821WG95|A0A821WG95_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS51557 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A821WXI4|A0A821WXI4_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS46960 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A821X461|A0A821X461_9BILA Actin (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS51976 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A821X6S7|A0A821X6S7_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS33139 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821XZN4|A0A821XZN4_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS29596 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A821Y7N7|A0A821Y7N7_9BILA Actin-related protein 6 (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS30960 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821YKZ1|A0A821YKZ1_9BILA Actin maturation protease OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS30530 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821YL65|A0A821YL65_9BILA Actin-related protein 10 (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS34666 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821YN05|A0A821YN05_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS31551 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821YWJ9|A0A821YWJ9_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS31370 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A821YYJ8|A0A821YYJ8_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS35226 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821Z8J2|A0A821Z8J2_9BILA Actin-related protein 6 (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS32072 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821ZF13|A0A821ZF13_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS27235 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A821ZQG2|A0A821ZQG2_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS33401 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A821ZTQ6|A0A821ZTQ6_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS37384 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A821ZV18|A0A821ZV18_9BILA Actin-related protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS34426 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A822AG72|A0A822AG72_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS36871 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822ARP2|A0A822ARP2_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS39102 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822B9C8|A0A822B9C8_9BILA Actin maturation protease (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS37491 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A822BDX6|A0A822BDX6_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS40519 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A822BII1|A0A822BII1_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS36692 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A822BWH4|A0A822BWH4_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS14745 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A822C0U1|A0A822C0U1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS39666 PE=4 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A822C8J0|A0A822C8J0_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS39026 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822CF63|A0A822CF63_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS41462 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A822CPP5|A0A822CPP5_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS41897 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A822CRK5|A0A822CRK5_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS40890 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A822CSR4|A0A822CSR4_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS41533 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A822CYB7|A0A822CYB7_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS41339 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822D088|A0A822D088_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS41240 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822D5P1|A0A822D5P1_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS42075 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A822D825|A0A822D825_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS41909 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822DCW1|A0A822DCW1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS42652 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A822DKR4|A0A822DKR4_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS43021 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A822DNI3|A0A822DNI3_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS32651 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A822DQG9|A0A822DQG9_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS43602 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A822DUI9|A0A822DUI9_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS42946 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822E021|A0A822E021_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS44159 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A822ER01|A0A822ER01_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS36518 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822FC21|A0A822FC21_9BILA Actin-related protein 2/3 complex subunit 4 (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS45552 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A822FD93|A0A822FD93_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS46450 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A822FK58|A0A822FK58_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS39297 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822FK89|A0A822FK89_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS40708 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A822FLP0|A0A822FLP0_9BILA Actin OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS38596 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822FU48|A0A822FU48_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS41380 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822GL79|A0A822GL79_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS48686 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A822GQ18|A0A822GQ18_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS48685 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A822H0X5|A0A822H0X5_9BILA Actin (Fragment) OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS48938 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A822HIL4|A0A822HIL4_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS48911 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A822HSW1|A0A822HSW1_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS50526 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A822HUQ3|A0A822HUQ3_9BILA Actin (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS51701 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A8S2CRR7|A0A8S2CRR7_9BILA Actin-related protein 2/3 complex subunit 4 (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS2599 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A8S2DWN7|A0A8S2DWN7_9BILA Actin maturation protease (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS14274 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2EPH6|A0A8S2EPH6_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS25729 PE=4 SV=1,Not_Target,Not_Target,Actin
+tr|A0A8S2EU17|A0A8S2EU17_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS25702 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2EVG1|A0A8S2EVG1_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS27659 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A8S2F4M2|A0A8S2F4M2_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS29582 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A8S2F6Q7|A0A8S2F6Q7_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS30444 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2FHB5|A0A8S2FHB5_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS35484 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S2FJI1|A0A8S2FJI1_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS36272 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2HU73|A0A8S2HU73_9BILA Actin-related protein 10 OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS9738 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2IJY4|A0A8S2IJY4_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS856 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A8S2J7T9|A0A8S2J7T9_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS781 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2LE27|A0A8S2LE27_9BILA Actin-related protein 10 OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS6505 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2LH97|A0A8S2LH97_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS8428 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A8S2LY96|A0A8S2LY96_9BILA Actin interacting protein 3 C-terminal domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS8068 PE=4 SV=1,Myosin,Myosin,Myosin
+tr|A0A8S2NUL4|A0A8S2NUL4_9BILA Actin-related protein 2 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS59035 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2PEU9|A0A8S2PEU9_9BILA Actin-related protein 2 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS16379 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2Q9T7|A0A8S2Q9T7_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS18483 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2QJ20|A0A8S2QJ20_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS17560 PE=3 SV=1,Actin,Myosin,Actin
+tr|A0A8S2QZG2|A0A8S2QZG2_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS20797 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2RK54|A0A8S2RK54_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS31226 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2RRV4|A0A8S2RRV4_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS31020 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S2SLF1|A0A8S2SLF1_9BILA Actin-related protein 3 (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS34505 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2TTW2|A0A8S2TTW2_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS25748 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S2TXN4|A0A8S2TXN4_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS38691 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2U0Y5|A0A8S2U0Y5_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS26823 PE=4 SV=1,Myosin,Myosin,Actin
+tr|A0A8S2U5J2|A0A8S2U5J2_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS26054 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S2U925|A0A8S2U925_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS27649 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2UHA5|A0A8S2UHA5_9BILA Actin-related protein 2/3 complex subunit 1 (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS39410 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2UZ02|A0A8S2UZ02_9BILA Actin OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS42009 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2V5I9|A0A8S2V5I9_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=SRO942_LOCUS45194 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2VKT4|A0A8S2VKT4_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS29662 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S2W2E3|A0A8S2W2E3_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS42300 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2WZR9|A0A8S2WZR9_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS33315 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2WZZ8|A0A8S2WZZ8_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS33266 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S2X6S6|A0A8S2X6S6_9BILA Actin-related protein 2/3 complex subunit 4 (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS46995 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2XBL3|A0A8S2XBL3_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS35532 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S2XRX9|A0A8S2XRX9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS31904 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A8S2XUL9|A0A8S2XUL9_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=TMI583_LOCUS48312 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2YGH9|A0A8S2YGH9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS36949 PE=4 SV=1,Actin,Actin,Myosin
+tr|A0A8S2YHB3|A0A8S2YHB3_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=SRO942_LOCUS47228 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S2YP56|A0A8S2YP56_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS37929 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S2Z3C2|A0A8S2Z3C2_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS38736 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S2Z3N4|A0A8S2Z3N4_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS40053 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A8S3A1P9|A0A8S3A1P9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS36225 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S3A1T2|A0A8S3A1T2_9BILA Actin (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=SRO942_LOCUS50993 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S3AEG6|A0A8S3AEG6_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS43399 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S3AFQ1|A0A8S3AFQ1_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS43984 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A8S3AW08|A0A8S3AW08_9BILA Actin-related protein 2 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS46803 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A8S3AY19|A0A8S3AY19_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS45106 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3AZK3|A0A8S3AZK3_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS46059 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3BJ31|A0A8S3BJ31_9BILA Actin-related protein 10 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS19891 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3BSY6|A0A8S3BSY6_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS49044 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3CL78|A0A8S3CL78_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS53245 PE=4 SV=1,Actin,Myosin,Not_Target
+tr|A0A8S3CRM5|A0A8S3CRM5_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS53693 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3D4D6|A0A8S3D4D6_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS54774 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3D4G3|A0A8S3D4G3_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS55538 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3D8C7|A0A8S3D8C7_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS55195 PE=4 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S3DDW3|A0A8S3DDW3_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS52119 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S3DK66|A0A8S3DK66_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS56137 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3DTQ0|A0A8S3DTQ0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS58624 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3E2S3|A0A8S3E2S3_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS59453 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S3E481|A0A8S3E481_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS56138 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3E8F0|A0A8S3E8F0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS56636 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3EH35|A0A8S3EH35_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS61251 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3EJ96|A0A8S3EJ96_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS60440 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3ELA0|A0A8S3ELA0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS59171 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3ER71|A0A8S3ER71_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS61430 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3ETM9|A0A8S3ETM9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS51854 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A8S3F1D8|A0A8S3F1D8_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS64221 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S3FBG0|A0A8S3FBG0_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS63235 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3FGA5|A0A8S3FGA5_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS62513 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A8S3FRE0|A0A8S3FRE0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS69440 PE=4 SV=1,Actin,Actin,Actin
+tr|A0A8S3FTM3|A0A8S3FTM3_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS57960 PE=3 SV=1,Not_Target,Not_Target,Actin
+tr|A0A8S3FTT8|A0A8S3FTT8_9BILA Actin-related protein 2 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS58637 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A8S3FUB6|A0A8S3FUB6_9BILA Actin-related protein 2/3 complex subunit 4 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS70044 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3G200|A0A8S3G200_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS64674 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A8S3G862|A0A8S3G862_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS65257 PE=4 SV=1,Actin,Actin,Not_Target
+tr|A0A8S3G9C4|A0A8S3G9C4_9BILA Actin-related protein 10 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS73515 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3G9H9|A0A8S3G9H9_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS72524 PE=3 SV=1,Actin,Not_Target,Actin
+tr|A0A8S3GB36|A0A8S3GB36_9BILA Actin-related protein 2 OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS73921 PE=4 SV=1,Not_Target,Not_Target,Actin
+tr|A0A8S3GCT0|A0A8S3GCT0_9BILA Actin-related protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS50694 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3GI91|A0A8S3GI91_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS65017 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3GXY3|A0A8S3GXY3_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS77613 PE=4 SV=1,Actin,Myosin,Actin
+tr|A0A8S3H8E0|A0A8S3H8E0_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS78540 PE=4 SV=1,Actin,Not_Target,Actin
+tr|A0A8S3HCF1|A0A8S3HCF1_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS79028 PE=4 SV=1,Actin,Not_Target,Myosin
+tr|A0A8S3HFP1|A0A8S3HFP1_9BILA Actin-related protein 2/3 complex subunit 3 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS69546 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3HK25|A0A8S3HK25_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS70654 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A8S3HN01|A0A8S3HN01_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS70465 PE=3 SV=1,Actin,Actin,Not_Target
+tr|A0A8S3HQ68|A0A8S3HQ68_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS71319 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3I3G4|A0A8S3I3G4_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS73231 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3IB49|A0A8S3IB49_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS74497 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3IFB9|A0A8S3IFB9_9BILA Actin-related protein 2 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS75140 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A8S3IFI1|A0A8S3IFI1_9BILA Actin-related protein 6 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS75370 PE=3 SV=1,Not_Target,Myosin,Not_Target
+tr|A0A8S3IUS2|A0A8S3IUS2_9BILA Actin OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS77772 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3IVI8|A0A8S3IVI8_9BILA Actin-related protein 2 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS78657 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3J134|A0A8S3J134_9BILA Actin interacting protein 3-like C-terminal domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS78730 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3J987|A0A8S3J987_9BILA Actin-related protein 2/3 complex subunit 4 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS80358 PE=3 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3JZI0|A0A8S3JZI0_9BILA Actin-related protein 10 (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS82697 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3K5K6|A0A8S3K5K6_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS83968 PE=4 SV=1,Not_Target,Not_Target,Not_Target
+tr|A0A8S3K9X3|A0A8S3K9X3_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS85249 PE=3 SV=1,Actin,Actin,Actin
+tr|A0A8S3KCU8|A0A8S3KCU8_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS85843 PE=3 SV=1,Actin,Not_Target,Not_Target
+tr|A0A8S3KF49|A0A8S3KF49_9BILA Actin (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS88253 PE=4 SV=1,Actin,Not_Target,Actin
+tr|G9C7N5|G9C7N5_9BILA Actin (Fragment) OS=Brachionus manjavacas OX=667381 PE=3 SV=1,Actin,Actin,Actin
+tr|Q76BI5|Q76BI5_BRAPC Actin (Fragment) OS=Brachionus plicatilis OX=10195 PE=2 SV=1,Actin,Actin,Actin

@@ -1,0 +1,517 @@
+Title,Logistic_Regression,MLP,XGBoost,Consensus,Class,Prediction_Status
+tr|A0A3M7PEJ4|A0A3M7PEJ4_BRAPC Myosin-IIIb isoform X2 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_000227 PE=3 SV=1,Class_16,Class_44,Class_16,Class_16,Class_16,Correct
+tr|A0A813QVK5|A0A813QVK5_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=IZO911_LOCUS5430 PE=3 SV=1,Myosin_36,Myosin_36,Class_9,Myosin_36,Class_9,Incorrect
+tr|A0A813R2R8|A0A813R2R8_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS18798 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A813SYF9|A0A813SYF9_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=VCS650_LOCUS4043 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Correct
+tr|A0A813YHL1|A0A813YHL1_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=BJG266_LOCUS9471 PE=3 SV=1,Myosin_36,Myosin_36,Class_9,Myosin_36,Myosin_36,Correct
+tr|A0A814D1L7|A0A814D1L7_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS11689 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A814VD19|A0A814VD19_ADIRI Myosin motor domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS22869 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Correct
+tr|A0A814VFZ6|A0A814VFZ6_ADIRI Myosin motor domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS14533 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Correct
+tr|A0A815CYU0|A0A815CYU0_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=BJG266_LOCUS31691 PE=3 SV=1,Myosin_36,Myosin_36,Class_9,Myosin_36,Myosin_36,Correct
+tr|A0A815QC94|A0A815QC94_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS40423 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A816KMB2|A0A816KMB2_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS1886 PE=3 SV=1,Class_16,Class_16,Class_20,Class_16,Class_16,Correct
+tr|A0A816T2B5|A0A816T2B5_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS18473 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A817EG95|A0A817EG95_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS24183 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Correct
+tr|A0A818J3D6|A0A818J3D6_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS18380 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818J3X9|A0A818J3X9_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS27 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818MXX0|A0A818MXX0_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS6608 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818P3E3|A0A818P3E3_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS4450 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818TN81|A0A818TN81_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS24902 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A819IRY0|A0A819IRY0_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS10436 PE=3 SV=1,Class_16,Class_16,Class_20,Class_16,Class_16,Correct
+tr|A0A819JUP2|A0A819JUP2_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS22555 PE=3 SV=1,Class_3,Class_5,Class_3,Class_3,Class_36,Incorrect
+tr|A0A819RU02|A0A819RU02_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS11304 PE=3 SV=1,Class_16,Class_16,Class_28,Class_16,Class_16,Correct
+tr|A0A821AXQ9|A0A821AXQ9_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS9427 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A821H9H6|A0A821H9H6_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS10578 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A8S2KYP1|A0A8S2KYP1_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS7251 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Correct
+tr|A0A3M7QA26|A0A3M7QA26_BRAPC Myosin-VIIa OS=Brachionus plicatilis OX=10195 GN=BpHYR1_018733 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A3M7QUN5|A0A3M7QUN5_BRAPC Myosin heavy non-muscle (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_007406 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813LWX2|A0A813LWX2_9BILA Myosin motor domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS553 PE=3 SV=1,Class_16,Class_45,Class_20,new_class,Class_16,Incorrect
+tr|A0A813M263|A0A813M263_9BILA Myosin VIIa OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS1558 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A813MRC1|A0A813MRC1_9BILA Myosin motor domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS2699 PE=3 SV=1,Class_19,Class_19,Class_1,Class_19,Class_26,Incorrect
+tr|A0A813NSN2|A0A813NSN2_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=VCS650_LOCUS644 PE=3 SV=1,Class_1,Class_1,Class_19,Class_1,Class_1,Correct
+tr|A0A813PD15|A0A813PD15_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=IZO911_LOCUS4146 PE=3 SV=1,Class_3,Class_7,Class_7,Class_7,Class_36,Incorrect
+tr|A0A813QWI6|A0A813QWI6_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS3790 PE=3 SV=1,Class_3,Class_7,Class_1,new_class,Class_36,Incorrect
+tr|A0A813QXF3|A0A813QXF3_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=IZO911_LOCUS5493 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A813SM07|A0A813SM07_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS3415 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813SYC9|A0A813SYC9_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=OKA104_LOCUS4735 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A813SYT4|A0A813SYT4_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS904 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A813TZ87|A0A813TZ87_9BILA Myosin VIIa OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS4533 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A813U2F4|A0A813U2F4_9BILA Myosin motor domain-containing protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS4495 PE=3 SV=1,Class_39,Class_5,Class_31,new_class,Class_36,Incorrect
+tr|A0A813W2V2|A0A813W2V2_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS6103 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813YL59|A0A813YL59_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=BJG266_LOCUS9552 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A813YUD5|A0A813YUD5_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=QVE165_LOCUS8853 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A813ZR11|A0A813ZR11_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS8746 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A813ZX04|A0A813ZX04_9BILA Myosin motor domain-containing protein (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS11668 PE=3 SV=1,Class_18,Class_18,Class_2,Class_18,Class_18,Correct
+tr|A0A814BMH6|A0A814BMH6_ADIRI Myosin motor domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS11258 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A814BR88|A0A814BR88_ADIRI Myosin motor domain-containing protein OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS11258 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A814CJV6|A0A814CJV6_9BILA Myosin motor domain-containing protein OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS10824 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A814CYF5|A0A814CYF5_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS24354 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814D8D9|A0A814D8D9_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS24354 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814ENN0|A0A814ENN0_9BILA Myosin motor domain-containing protein OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS14957 PE=3 SV=1,Class_37,Class_2,Class_5,new_class,Class_1,Incorrect
+tr|A0A814F544|A0A814F544_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS11364 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A814JIF0|A0A814JIF0_9BILA Myosin-VIIa OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS4103 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A814KU66|A0A814KU66_9BILA Myosin-VIIa OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS37500 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A814MRI9|A0A814MRI9_9BILA Myosin-VIIa OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS33530 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A814MZR5|A0A814MZR5_9BILA Myosin-VIIa OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS33530 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A814NLI8|A0A814NLI8_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS17216 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814NMA2|A0A814NMA2_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS18955 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814P7P3|A0A814P7P3_ADIRI Myosin-VIIa OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS20021 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A814P9B1|A0A814P9B1_ADIRI Myosin-VIIa OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS20021 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A814PFB6|A0A814PFB6_9BILA Myosin-VIIa OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS19469 PE=3 SV=1,Class_7,Class_22,Class_7,Class_7,Class_7,Correct
+tr|A0A814Q1E8|A0A814Q1E8_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS16542 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A814Q512|A0A814Q512_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS16580 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814Q5S7|A0A814Q5S7_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS13246 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814T6G1|A0A814T6G1_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS34697 PE=4 SV=1,Class_19,Class_23,Class_19,Class_19,Class_77,Incorrect
+tr|A0A814T9I6|A0A814T9I6_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS24471 PE=3 SV=1,Class_5,Class_5,Class_13,Class_5,Class_15,Incorrect
+tr|A0A814VDE8|A0A814VDE8_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS22223 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814VKJ5|A0A814VKJ5_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS22223 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A814WB66|A0A814WB66_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS24344 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A814X1I7|A0A814X1I7_9BILA Myosin V OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS24886 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A815AAB8|A0A815AAB8_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS23892 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A815CRI5|A0A815CRI5_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS4127 PE=3 SV=1,Class_16,Class_16,Class_20,Class_16,Class_16,Correct
+tr|A0A815DW94|A0A815DW94_9BILA Myosin heavy chain 95F OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS45640 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A815HSV4|A0A815HSV4_9BILA Myosin motor domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS35258 PE=3 SV=1,Class_7,Class_28,Class_26,new_class,Class_7,Incorrect
+tr|A0A815HU80|A0A815HU80_9BILA Myosin motor domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS35293 PE=3 SV=1,Class_7,Class_28,Class_5,new_class,Class_7,Incorrect
+tr|A0A815IKK7|A0A815IKK7_9BILA Myosin-VIIa (Fragment) OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS29671 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A815J3W5|A0A815J3W5_9BILA Myosin-VIIa OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS33454 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A815JAF4|A0A815JAF4_9BILA Myosin-VIIa OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS33454 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A815JWK9|A0A815JWK9_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=QVE165_LOCUS35905 PE=3 SV=1,Class_7,Class_28,Class_26,new_class,Class_7,Incorrect
+tr|A0A815NKW9|A0A815NKW9_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS23985 PE=3 SV=1,Class_16,Class_16,Class_20,Class_16,Class_16,Correct
+tr|A0A815SS27|A0A815SS27_ADIRI Myosin motor domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS39168 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A815VW23|A0A815VW23_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS41915 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A815XBE1|A0A815XBE1_ADIRI Myosin-VIIa OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS43213 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A815Z4D8|A0A815Z4D8_9BILA Myosin heavy chain 95F OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS45911 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A815ZJ62|A0A815ZJ62_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=QVE165_LOCUS50296 PE=3 SV=1,Class_7,Class_28,Class_51,new_class,Class_7,Incorrect
+tr|A0A816C683|A0A816C683_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS50189 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A816ER86|A0A816ER86_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS55325 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816FAI0|A0A816FAI0_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS56197 PE=3 SV=1,Class_5,Class_5,Class_82,Class_5,Class_5,Correct
+tr|A0A816NQI8|A0A816NQI8_9BILA Myosin-VIIa OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS10603 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A816W6I2|A0A816W6I2_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS24451 PE=3 SV=1,Class_16,Class_16,Class_19,Class_16,Class_16,Correct
+tr|A0A816WVM9|A0A816WVM9_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS26365 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Myosin_36,Correct
+tr|A0A817A276|A0A817A276_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS36767 PE=3 SV=1,Class_1,Class_20,Class_72,new_class,Class_6,Incorrect
+tr|A0A817C030|A0A817C030_9BILA Myosin heavy chain 95F OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS8594 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A817DE82|A0A817DE82_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS17418 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A817DI23|A0A817DI23_9BILA Myosin heavy chain 95F OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS7272 PE=3 SV=1,Class_6,Class_6,Class_2,Class_6,Class_6,Correct
+tr|A0A817GKH2|A0A817GKH2_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS21417 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817GTH8|A0A817GTH8_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS33842 PE=3 SV=1,Class_6,Class_6,Class_1,Class_6,Class_6,Correct
+tr|A0A817I1L3|A0A817I1L3_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS10576 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A817K4G1|A0A817K4G1_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS6416 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A817L0I5|A0A817L0I5_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS32478 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A817LGB8|A0A817LGB8_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS9770 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A817R2N3|A0A817R2N3_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS31128 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A817SNK8|A0A817SNK8_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS169 PE=3 SV=1,Class_1,Class_20,Class_20,Class_20,Class_6,Incorrect
+tr|A0A817T2Q1|A0A817T2Q1_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS8310 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A817V686|A0A817V686_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS2438 PE=3 SV=1,Class_34,Class_24,Class_31,new_class,Class_6,Incorrect
+tr|A0A817VGE9|A0A817VGE9_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=FME351_LOCUS3834 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A817X1X0|A0A817X1X0_9BILA Myosin-VIIa OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS4627 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A817XY93|A0A817XY93_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS3633 PE=3 SV=1,Class_3,Class_15,Class_3,Class_3,Class_77,Incorrect
+tr|A0A818BUK7|A0A818BUK7_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS7267 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A818CGZ2|A0A818CGZ2_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS12392 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818F0B8|A0A818F0B8_9BILA Myosin-VIIa OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS33005 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A818FIH3|A0A818FIH3_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS14106 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A818GJR1|A0A818GJR1_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=FME351_LOCUS16176 PE=3 SV=1,Class_40,Class_1,Class_31,new_class,Class_6,Incorrect
+tr|A0A818HXJ5|A0A818HXJ5_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS14639 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A818IC46|A0A818IC46_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS15818 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A818WMS2|A0A818WMS2_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS12807 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818YMR1|A0A818YMR1_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS29820 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A818ZWF6|A0A818ZWF6_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS3530 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A819E0M6|A0A819E0M6_9BILA Myosin-VIIa OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS7293 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A819E4Q2|A0A819E4Q2_9BILA Myosin motor domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS20875 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A819F746|A0A819F746_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS8502 PE=3 SV=1,Myosin_36,Myosin_36,Myosin_17,Myosin_36,Myosin_36,Correct
+tr|A0A819IIH3|A0A819IIH3_9BILA Myosin-IIIb-like (Fragment) OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS21742 PE=3 SV=1,Class_3,Class_3,Class_3,Class_3,Class_3,Correct
+tr|A0A819NVE0|A0A819NVE0_9BILA Myosin-VIIa OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS8359 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A819QGH5|A0A819QGH5_9BILA Myosin heavy chain 95F OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS9518 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A819QSM1|A0A819QSM1_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS28093 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A819SNT7|A0A819SNT7_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS18805 PE=3 SV=1,Class_1,Class_20,Class_1,Class_1,Class_6,Incorrect
+tr|A0A819V740|A0A819V740_9BILA Myosin class i heavy chain (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS21079 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A819YP56|A0A819YP56_9BILA Myosin-VIIa OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS7666 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A820A9Q9|A0A820A9Q9_9BILA Myosin heavy chain 95F (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS18323 PE=3 SV=1,Class_6,Class_6,Class_5,Class_6,Class_2,Incorrect
+tr|A0A820AFC4|A0A820AFC4_9BILA Myosin V (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS19260 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A820BRX2|A0A820BRX2_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS8078 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A820DXZ5|A0A820DXZ5_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS1490 PE=3 SV=1,Class_1,Class_1,Class_20,Class_1,Class_6,Incorrect
+tr|A0A820EJD4|A0A820EJD4_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS10364 PE=3 SV=1,Class_1,Class_1,Class_20,Class_1,Class_6,Incorrect
+tr|A0A820JXZ8|A0A820JXZ8_9BILA Myosin-VIIa OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS14505 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A820K3S5|A0A820K3S5_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS28833 PE=3 SV=1,Class_6,Class_6,Class_2,Class_6,Class_6,Correct
+tr|A0A820LK81|A0A820LK81_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS10058 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A820SMS2|A0A820SMS2_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS34379 PE=3 SV=1,Class_6,Class_6,Class_6,Class_6,Class_6,Correct
+tr|A0A820SR29|A0A820SR29_9BILA Myosin-VIIa OS=Rotaria socialis OX=392032 GN=FME351_LOCUS26819 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A820T2C3|A0A820T2C3_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS1599 PE=3 SV=1,Class_1,Class_1,Class_20,Class_1,Class_6,Incorrect
+tr|A0A820TWS1|A0A820TWS1_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS35318 PE=3 SV=1,Class_5,Class_5,Class_2,Class_5,Class_5,Correct
+tr|A0A820VFI4|A0A820VFI4_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS39824 PE=3 SV=1,Class_3,Class_3,Class_8,Class_3,Class_3,Correct
+tr|A0A820W103|A0A820W103_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS40396 PE=3 SV=1,Class_5,Class_5,Class_2,Class_5,Class_5,Correct
+tr|A0A820WBX5|A0A820WBX5_9BILA Myosin-IIIb-like OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS432 PE=3 SV=1,Class_3,Class_3,Class_3,Class_3,Class_3,Correct
+tr|A0A820WN50|A0A820WN50_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS2698 PE=3 SV=1,Class_16,Class_16,Class_16,Class_16,Class_16,Correct
+tr|A0A820Y781|A0A820Y781_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS24131 PE=3 SV=1,Class_34,Class_1,Class_3,new_class,Class_6,Incorrect
+tr|A0A821CVR8|A0A821CVR8_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS11366 PE=3 SV=1,Class_34,Class_24,Class_3,new_class,Class_6,Incorrect
+tr|A0A821DZS1|A0A821DZS1_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS9890 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A821E2F0|A0A821E2F0_9BILA Myosin-VIIa OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS13415 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A821ERQ6|A0A821ERQ6_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS18362 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A821FL38|A0A821FL38_9BILA Myosin-VIIa OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS9178 PE=3 SV=1,Class_7,Class_7,Class_7,Class_7,Class_7,Correct
+tr|A0A821R9Y5|A0A821R9Y5_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS22766 PE=3 SV=1,Class_3,Class_15,Class_33,new_class,Class_77,Incorrect
+tr|A0A8S2EX01|A0A8S2EX01_9BILA Myosin VIIa (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS26742 PE=3 SV=1,Class_7,Class_7,Class_43,Class_7,Class_7,Correct
+tr|A0A8S2GUD7|A0A8S2GUD7_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS3178 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A8S2L2I7|A0A8S2L2I7_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=SRO942_LOCUS18840 PE=3 SV=1,Class_7,Class_46,Class_5,new_class,Class_15,Incorrect
+tr|A0A8S2M2Y9|A0A8S2M2Y9_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS11279 PE=3 SV=1,Myosin_36,Class_23,Myosin_17,new_class,Myosin_36,Incorrect
+tr|A0A8S2N6Q9|A0A8S2N6Q9_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS22961 PE=3 SV=1,Myosin_17,Myosin_17,Class_9,Myosin_17,Class_36,Incorrect
+tr|A0A8S2QJR6|A0A8S2QJR6_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS19897 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_18,Incorrect
+tr|A0A8S2Y3R3|A0A8S2Y3R3_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS36245 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_18,Incorrect
+tr|D4NWD9|D4NWD9_ADIVA Myosin V-like protein OS=Adineta vaga OX=104782 PE=3 SV=1,Class_5,Class_5,Class_5,Class_5,Class_5,Correct
+tr|A0A3M7QWM3|A0A3M7QWM3_BRAPC Myosin regulatory light polypeptide 9-like (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_050609 PE=4 SV=1,Class_2,Class_14,Class_2,Class_2,Class_77,Incorrect
+tr|A0A3M7RVJ6|A0A3M7RVJ6_BRAPC Myosin regulatory light polypeptide 9 OS=Brachionus plicatilis OX=10195 GN=BpHYR1_004318 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_77,Incorrect
+tr|A0A3M7QUN5|A0A3M7QUN5_BRAPC Myosin heavy non-muscle (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_007406 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813W2V2|A0A813W2V2_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS6103 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813SM07|A0A813SM07_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS3415 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817GKH2|A0A817GKH2_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS21417 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816DTQ1|A0A816DTQ1_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS52677 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816ER86|A0A816ER86_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS55325 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815M503|A0A815M503_9BILA Myosin motor domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS38799 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818J675|A0A818J675_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS38356 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819FWE5|A0A819FWE5_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS22815 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815GXF2|A0A815GXF2_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS34786 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815F0V1|A0A815F0V1_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS33150 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820AUT7|A0A820AUT7_9BILA Myosin heavy chain (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS6405 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818E761|A0A818E761_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS30677 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820ES80|A0A820ES80_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS10589 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819H225|A0A819H225_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS8976 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816PL78|A0A816PL78_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS12856 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815ADM1|A0A815ADM1_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS1521 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819R898|A0A819R898_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS18713 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817HH80|A0A817HH80_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS8786 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817DMX6|A0A817DMX6_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS21234 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817H0C3|A0A817H0C3_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS23150 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817SAE4|A0A817SAE4_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS24732 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820FP81|A0A820FP81_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS23581 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814JCE1|A0A814JCE1_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS15878 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813WFA9|A0A813WFA9_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS15505 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819N6R7|A0A819N6R7_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS25621 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814JHE2|A0A814JHE2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS14346 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821K3J2|A0A821K3J2_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20088 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814KNM0|A0A814KNM0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS38158 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818KNI3|A0A818KNI3_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS19753 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818PLW7|A0A818PLW7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS17482 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821MGX7|A0A821MGX7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS18420 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818UV41|A0A818UV41_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS11227 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819FIY2|A0A819FIY2_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS22524 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814D656|A0A814D656_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS14993 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814QNQ5|A0A814QNQ5_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=VCS650_LOCUS21285 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815I146|A0A815I146_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS16266 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815AH68|A0A815AH68_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=QVE165_LOCUS28869 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821DR76|A0A821DR76_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS12161 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818ML33|A0A818ML33_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS20442 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818YU14|A0A818YU14_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS31095 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818EWB2|A0A818EWB2_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS15268 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820M0H8|A0A820M0H8_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS17643 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818IGB4|A0A818IGB4_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS26626 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817SQN9|A0A817SQN9_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS17829 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816T0P4|A0A816T0P4_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS20232 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S3JKP2|A0A8S3JKP2_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS80585 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S3EWY6|A0A8S3EWY6_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS62134 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816EFH8|A0A816EFH8_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS28880 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815T2U6|A0A815T2U6_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS27184 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819H7V2|A0A819H7V2_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS10244 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816SZJ7|A0A816SZJ7_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS16675 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816UJT1|A0A816UJT1_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS23019 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819AZW6|A0A819AZW6_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS3453 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813VLG9|A0A813VLG9_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS4994 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818KPR9|A0A818KPR9_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS1290 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814MDP1|A0A814MDP1_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS14713 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814IKX8|A0A814IKX8_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS414 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817ZVQ4|A0A817ZVQ4_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS3189 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817ZQI0|A0A817ZQI0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS5769 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813TWW9|A0A813TWW9_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS11503 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820UTV5|A0A820UTV5_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS524 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817ZMW6|A0A817ZMW6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS5913 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821NGS4|A0A821NGS4_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS17626 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817Y633|A0A817Y633_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS6028 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814AWL3|A0A814AWL3_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS10057 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819UUQ7|A0A819UUQ7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS4337 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817JTR2|A0A817JTR2_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS6024 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819XAR5|A0A819XAR5_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS17218 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819PKF9|A0A819PKF9_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS7746 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817BUL7|A0A817BUL7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS4526 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814QGJ6|A0A814QGJ6_9BILA Myosin motor domain-containing protein (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS21992 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814QTK2|A0A814QTK2_9BILA Myosin motor domain-containing protein (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS22146 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814BQA1|A0A814BQA1_9BILA Myosin heavy chain (Fragment) OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS12924 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A3M7SX84|A0A3M7SX84_BRAPC Myosin heavy chain isoform A OS=Brachionus plicatilis OX=10195 GN=BpHYR1_041440 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A3M7PQ36|A0A3M7PQ36_BRAPC Myosin heavy chain isoform A OS=Brachionus plicatilis OX=10195 GN=BpHYR1_050060 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A3M7P3Y3|A0A3M7P3Y3_BRAPC Myosin heavy muscle-like isoform X1 (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_024997 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813YQR4|A0A813YQR4_9BILA Myosin heavy chain OS=Brachionus calyciflorus OX=104777 GN=OXX778_LOCUS10732 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A3M7Q8T7|A0A3M7Q8T7_BRAPC Myosin heavy chain isoform A (Fragment) OS=Brachionus plicatilis OX=10195 GN=BpHYR1_041240 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813YRM4|A0A813YRM4_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS8001 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814THF6|A0A814THF6_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS21701 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2FNJ1|A0A8S2FNJ1_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS37675 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2FE85|A0A8S2FE85_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS34023 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813YN47|A0A813YN47_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS7899 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814CSE7|A0A814CSE7_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS10986 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2DPH4|A0A8S2DPH4_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS11734 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813W8B7|A0A813W8B7_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS6092 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813UUD3|A0A813UUD3_9BILA Myosin heavy chain OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS5206 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813S143|A0A813S143_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=GPM918_LOCUS2984 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2EBC9|A0A8S2EBC9_9BILA Myosin motor domain-containing protein (Fragment) OS=Didymodactylos carnosus OX=1234261 GN=OVA965_LOCUS23048 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819RBX3|A0A819RBX3_9BILA Myosin heavy chain (Fragment) OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS28638 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815BKV2|A0A815BKV2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS24850 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819IQR4|A0A819IQR4_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS21595 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814Z602|A0A814Z602_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS26551 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819DH01|A0A819DH01_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS20187 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814WYN1|A0A814WYN1_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS39473 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814WYZ6|A0A814WYZ6_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS39479 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A822CU60|A0A822CU60_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS41073 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817I5W2|A0A817I5W2_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS10751 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819VDW3|A0A819VDW3_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS13566 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817BSP0|A0A817BSP0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS1573 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821RJ44|A0A821RJ44_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS20673 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816HUC2|A0A816HUC2_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS68399 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813N0X3|A0A813N0X3_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS1279 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813TQA7|A0A813TQA7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS4408 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817U531|A0A817U531_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS1478 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817V9T6|A0A817V9T6_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS1437 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821QMN7|A0A821QMN7_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS21957 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821QZ62|A0A821QZ62_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS20572 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821VMM4|A0A821VMM4_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS22995 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816HJM1|A0A816HJM1_9BILA Myosin tail domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS67944 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821HIB9|A0A821HIB9_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS15973 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818TSY5|A0A818TSY5_9BILA Myosin tail domain-containing protein OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS25496 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818FA38|A0A818FA38_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS2986 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819XHJ7|A0A819XHJ7_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria socialis OX=392032 GN=UJA718_LOCUS2905 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S3BGE0|A0A8S3BGE0_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS49366 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816YG27|A0A816YG27_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS4087 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816CQ27|A0A816CQ27_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS38986 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2NWE7|A0A8S2NWE7_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS13068 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818NT19|A0A818NT19_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS5686 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819RB45|A0A819RB45_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS31717 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814W7R2|A0A814W7R2_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS22991 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814WZ38|A0A814WZ38_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=VCS650_LOCUS26055 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818YNE7|A0A818YNE7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS16077 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816GXG1|A0A816GXG1_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS60588 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816FR96|A0A816FR96_ADIRI Myosin tail domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS57606 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816BCG8|A0A816BCG8_ADIRI Myosin tail domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS48739 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814BX04|A0A814BX04_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS11407 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815VWX5|A0A815VWX5_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS41645 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815VCJ1|A0A815VCJ1_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS41687 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814UHK3|A0A814UHK3_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS23763 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814U6N1|A0A814U6N1_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS23763 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815TRS0|A0A815TRS0_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS43435 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815TRQ2|A0A815TRQ2_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS43435 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818LT92|A0A818LT92_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS5417 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815DRR7|A0A815DRR7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=VCS650_LOCUS31067 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818QMD5|A0A818QMD5_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS8257 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818NY05|A0A818NY05_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS5765 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815TFM0|A0A815TFM0_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=BJG266_LOCUS43368 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815K1T9|A0A815K1T9_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS38882 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815KGZ1|A0A815KGZ1_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS38882 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818ECG2|A0A818ECG2_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS14273 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818AT32|A0A818AT32_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS9343 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815MQV6|A0A815MQV6_9BILA Myosin heavy chain (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS10809 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816W426|A0A816W426_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS28550 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818YXC8|A0A818YXC8_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS1725 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2KB03|A0A8S2KB03_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS5550 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2NIF2|A0A8S2NIF2_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS12032 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2KNB7|A0A8S2KNB7_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS3764 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816ZRZ7|A0A816ZRZ7_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS29869 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818CUU0|A0A818CUU0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS10051 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820YPD4|A0A820YPD4_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS2271 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817ZG41|A0A817ZG41_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS7417 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814J4D7|A0A814J4D7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS16033 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821F9I0|A0A821F9I0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS9083 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818CN29|A0A818CN29_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS8573 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820YJC9|A0A820YJC9_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS4702 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814JVD5|A0A814JVD5_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS8573 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821C2B8|A0A821C2B8_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS2395 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818CHA2|A0A818CHA2_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS8044 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818CHB6|A0A818CHB6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS8044 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817H7F2|A0A817H7F2_9BILA Myosin tail domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS8710 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819VKP6|A0A819VKP6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS13756 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820D815|A0A820D815_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS11894 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817KN40|A0A817KN40_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS8140 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814B7C2|A0A814B7C2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS8582 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814B5M2|A0A814B5M2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS8582 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813ZGP6|A0A813ZGP6_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS9066 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819P197|A0A819P197_9BILA Myosin heavy chain (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS29425 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819EVQ4|A0A819EVQ4_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS18150 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814AAY3|A0A814AAY3_9BILA Myosin tail domain-containing protein OS=Rotaria sordida OX=392033 GN=SEV965_LOCUS6210 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819VZ95|A0A819VZ95_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS34775 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813ZSF1|A0A813ZSF1_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS9271 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813ZV03|A0A813ZV03_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS9271 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813P3C3|A0A813P3C3_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS9066 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818QH28|A0A818QH28_9BILA Myosin tail domain-containing protein OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS5490 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815X872|A0A815X872_ADIRI Myosin tail domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS43130 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815FLX4|A0A815FLX4_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS32064 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815X823|A0A815X823_ADIRI Myosin tail domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS43127 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813N3Q0|A0A813N3Q0_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=QVE165_LOCUS288 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813NGX8|A0A813NGX8_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS1747 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819QEC7|A0A819QEC7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS31358 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813P5Y0|A0A813P5Y0_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=VCS650_LOCUS923 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813MDL4|A0A813MDL4_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=IZO911_LOCUS994 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819C699|A0A819C699_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OXD698_LOCUS19100 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819WEP7|A0A819WEP7_9BILA Myosin motor domain-containing protein (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS35661 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817WRB6|A0A817WRB6_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS28981 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820V4P6|A0A820V4P6_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS4262 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819VA39|A0A819VA39_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS5397 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820EVU6|A0A820EVU6_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=TSG867_LOCUS3179 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818QH51|A0A818QH51_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS23980 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816S060|A0A816S060_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS22686 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818ZA71|A0A818ZA71_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS1976 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2J7D5|A0A8S2J7D5_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS341 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2IF09|A0A8S2IF09_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS248 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814BMN2|A0A814BMN2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS10664 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818VW20|A0A818VW20_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS4381 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813UK21|A0A813UK21_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS7085 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814BGV3|A0A814BGV3_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS10543 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818KLK9|A0A818KLK9_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=DUG663_LOCUS17726 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818MJJ0|A0A818MJJ0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS19407 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820XP86|A0A820XP86_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS23668 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814PVH5|A0A814PVH5_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS4711 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818J0V6|A0A818J0V6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS15890 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819RA53|A0A819RA53_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS10313 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817KVA6|A0A817KVA6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS17812 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820XLG9|A0A820XLG9_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS31115 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817PKI6|A0A817PKI6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS18190 PE=3 SV=1,Class_2,Class_2,Class_15,Class_2,Class_2,Correct
+tr|A0A820STX5|A0A820STX5_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS34091 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817DIU8|A0A817DIU8_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS18848 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819J0H4|A0A819J0H4_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS3897 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818U083|A0A818U083_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS27875 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820WYM0|A0A820WYM0_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS13601 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817QRM5|A0A817QRM5_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS13661 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820CTC7|A0A820CTC7_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS2572 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816MLB2|A0A816MLB2_9BILA Myosin heavy chain (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS7077 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2PS52|A0A8S2PS52_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS17379 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814WSU3|A0A814WSU3_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS12289 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819LPU9|A0A819LPU9_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS14458 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820V4K4|A0A820V4K4_9BILA Myosin tail domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS40427 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S3IWL1|A0A8S3IWL1_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=GIL414_LOCUS78823 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816SLQ4|A0A816SLQ4_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS16109 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813WU26|A0A813WU26_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS8357 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815P9W4|A0A815P9W4_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=QVE165_LOCUS39996 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814PYC3|A0A814PYC3_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=VCS650_LOCUS20695 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818V9C9|A0A818V9C9_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS13040 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819QJS7|A0A819QJS7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OXD698_LOCUS31232 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814QF05|A0A814QF05_9BILA Myosin motor domain-containing protein OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS22410 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814ZN57|A0A814ZN57_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS30955 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819UEQ3|A0A819UEQ3_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS34104 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819H8Z0|A0A819H8Z0_9BILA Myosin heavy chain (Fragment) OS=Adineta steineri OX=433720 GN=OXD698_LOCUS23784 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813T9R7|A0A813T9R7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS7454 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814S903|A0A814S903_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS23712 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814XY38|A0A814XY38_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS15740 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814LPC1|A0A814LPC1_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=QVE165_LOCUS18469 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816GMQ5|A0A816GMQ5_ADIRI Myosin tail domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS59619 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816FN31|A0A816FN31_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS57397 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814KYG7|A0A814KYG7_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS17796 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816GJ27|A0A816GJ27_ADIRI Myosin tail domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS59602 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813NWN2|A0A813NWN2_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS31043 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813M9P2|A0A813M9P2_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS139 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819RYB1|A0A819RYB1_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=KXQ929_LOCUS31667 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818UC93|A0A818UC93_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS143 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813NIN6|A0A813NIN6_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS1655 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813MUP4|A0A813MUP4_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=QVE165_LOCUS196 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814RK27|A0A814RK27_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS20092 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814DMT6|A0A814DMT6_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS12759 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815HC25|A0A815HC25_ADIRI Myosin motor domain-containing protein OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS31445 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821DSG6|A0A821DSG6_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS46949 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817FJ60|A0A817FJ60_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS18390 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820F027|A0A820F027_9BILA Myosin tail domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS13510 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820P2M2|A0A820P2M2_9BILA Myosin tail domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS27764 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817K8K4|A0A817K8K4_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS17443 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816NBJ1|A0A816NBJ1_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS10254 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2M806|A0A8S2M806_9BILA Myosin heavy chain (Fragment) OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS8082 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819EUX2|A0A819EUX2_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS7080 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2L0W1|A0A8S2L0W1_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS6824 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815S8E1|A0A815S8E1_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS19138 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816UFW7|A0A816UFW7_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS21830 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818I412|A0A818I412_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS17538 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818G2I9|A0A818G2I9_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=GRG538_LOCUS16619 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820GMN8|A0A820GMN8_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=TIS948_LOCUS9188 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820BBR9|A0A820BBR9_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS6792 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818CDY3|A0A818CDY3_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS13362 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819ADW9|A0A819ADW9_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS3848 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816TKD8|A0A816TKD8_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS830 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816C5B2|A0A816C5B2_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=BYL167_LOCUS420 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814I3L8|A0A814I3L8_9BILA Myosin tail domain-containing protein OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS14977 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818ZPD8|A0A818ZPD8_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS13406 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818TZ82|A0A818TZ82_9BILA Myosin motor domain-containing protein OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS11908 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815DVU8|A0A815DVU8_9BILA Myosin heavy chain (Fragment) OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS27847 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813QV48|A0A813QV48_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=PYM288_LOCUS3159 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820DE64|A0A820DE64_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS37700 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815X3Y2|A0A815X3Y2_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS57840 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814BMZ3|A0A814BMZ3_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS8929 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818PTL2|A0A818PTL2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS5255 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820XEG8|A0A820XEG8_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS39865 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817FB71|A0A817FB71_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS17770 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821BIQ2|A0A821BIQ2_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS44834 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821JUM3|A0A821JUM3_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS41413 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817CIJ3|A0A817CIJ3_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS13677 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817N8H9|A0A817N8H9_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS13976 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820TV34|A0A820TV34_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS35249 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820L4X7|A0A820L4X7_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=ZIB798_LOCUS29998 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817D650|A0A817D650_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS18796 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820SAS0|A0A820SAS0_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS25669 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821M7E4|A0A821M7E4_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS43688 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820ML22|A0A820ML22_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS29404 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820AXR0|A0A820AXR0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS19829 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817K1F3|A0A817K1F3_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS14815 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814VXI9|A0A814VXI9_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS24716 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821S497|A0A821S497_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS21433 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819JH41|A0A819JH41_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS39129 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814UR55|A0A814UR55_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS24006 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821RS99|A0A821RS99_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS18104 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818F833|A0A818F833_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS11982 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818CS74|A0A818CS74_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS11845 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821GAR5|A0A821GAR5_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS11943 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821WFY7|A0A821WFY7_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS27466 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815H8V6|A0A815H8V6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS33352 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818PRE7|A0A818PRE7_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS20503 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821H177|A0A821H177_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS13025 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A822E382|A0A822E382_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS34131 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815H4D6|A0A815H4D6_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS12050 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818MGN2|A0A818MGN2_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS19354 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818J1P8|A0A818J1P8_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS18284 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821Y4C3|A0A821Y4C3_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS29745 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821DWP0|A0A821DWP0_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS44276 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816FFR8|A0A816FFR8_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS56862 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813SKR0|A0A813SKR0_ADIRI Myosin heavy chain OS=Adineta ricciae OX=249248 GN=EDS130_LOCUS4622 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816ED03|A0A816ED03_ADIRI Myosin motor domain-containing protein (Fragment) OS=Adineta ricciae OX=249248 GN=XAT740_LOCUS54168 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814Q072|A0A814Q072_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=VCS650_LOCUS20781 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818QCJ7|A0A818QCJ7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OKA104_LOCUS8547 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814XUK1|A0A814XUK1_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=JYZ213_LOCUS27974 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819J244|A0A819J244_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=OXD698_LOCUS25329 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815CSH0|A0A815CSH0_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=IZO911_LOCUS33407 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815MHW7|A0A815MHW7_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=QVE165_LOCUS38440 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815HD39|A0A815HD39_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS34932 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A813WAR6|A0A813WAR6_9BILA Myosin heavy chain OS=Adineta steineri OX=433720 GN=BJG266_LOCUS8046 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821BS60|A0A821BS60_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria socialis OX=392032 GN=TOA249_LOCUS10344 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817YF51|A0A817YF51_9BILA Myosin motor domain-containing protein OS=Rotaria socialis OX=392032 GN=KIK155_LOCUS6312 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818LCY6|A0A818LCY6_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=LUA448_LOCUS28615 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820DQI9|A0A820DQI9_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=HFQ381_LOCUS9485 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A820SZU5|A0A820SZU5_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=QYT958_LOCUS1283 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817WKP4|A0A817WKP4_9BILA Myosin heavy chain OS=Rotaria socialis OX=392032 GN=FME351_LOCUS5097 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A8S2IU28|A0A8S2IU28_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=SMN809_LOCUS45 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816N4L2|A0A816N4L2_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=MBJ925_LOCUS9798 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815R808|A0A815R808_9BILA Myosin motor domain-containing protein OS=Rotaria magnacalcarata OX=392030 GN=KQP761_LOCUS13142 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A815KWH9|A0A815KWH9_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=CJN711_LOCUS21971 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818XPR8|A0A818XPR8_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=UXM345_LOCUS1574 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A816VDD2|A0A816VDD2_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=XDN619_LOCUS22419 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818X4V1|A0A818X4V1_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=OVN521_LOCUS190 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817A816|A0A817A816_9BILA Myosin heavy chain OS=Rotaria magnacalcarata OX=392030 GN=WKI299_LOCUS36231 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818GQH6|A0A818GQH6_9BILA Myosin tail domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS14051 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814RDD3|A0A814RDD3_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JXQ802_LOCUS32296 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814F3A2|A0A814F3A2_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=RFH988_LOCUS12959 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814EYJ7|A0A814EYJ7_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=ZHD862_LOCUS11242 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819CP79|A0A819CP79_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=JBS370_LOCUS16485 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818ZKR5|A0A818ZKR5_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=FNK824_LOCUS13313 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819F7J5|A0A819F7J5_9BILA Myosin heavy chain OS=Rotaria sordida OX=392033 GN=OTI717_LOCUS21770 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818GQG8|A0A818GQG8_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=LEP731_LOCUS14050 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818DU27|A0A818DU27_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZO219_LOCUS13124 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814E4S1|A0A814E4S1_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NFQ510_LOCUS13913 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818FV05|A0A818FV05_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS12729 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821LAP8|A0A821LAP8_9BILA Myosin motor domain-containing protein (Fragment) OS=Rotaria sp. Silwood1 OX=2762511 GN=PXF425_LOCUS11876 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A814VF58|A0A814VF58_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=NZN594_LOCUS24504 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818VJA4|A0A818VJA4_9BILA Myosin tail domain-containing protein OS=Rotaria sp. Silwood1 OX=2762511 GN=CBO169_LOCUS25700 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A821QRA4|A0A821QRA4_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=XPS770_LOCUS21842 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A818FQ47|A0A818FQ47_9BILA Myosin heavy chain OS=Rotaria sp. Silwood1 OX=2762511 GN=BAC187_LOCUS6133 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817JCV1|A0A817JCV1_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=RHK424_LOCUS13941 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819QDU8|A0A819QDU8_9BILA Myosin heavy chain (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS8954 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819QKP0|A0A819QKP0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=NCT539_LOCUS15536 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819XGL5|A0A819XGL5_9BILA Myosin tail domain-containing protein (Fragment) OS=Rotaria sp. Silwood2 OX=2762512 GN=RMH319_LOCUS15560 PE=4 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817DLY0|A0A817DLY0_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=DRW283_LOCUS13553 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A817MS67|A0A817MS67_9BILA Myosin motor domain-containing protein OS=Rotaria sp. Silwood2 OX=2762512 GN=YTW244_LOCUS12908 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819SK68|A0A819SK68_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=SJO388_LOCUS2025 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
+tr|A0A819KAA7|A0A819KAA7_9BILA Myosin heavy chain OS=Rotaria sp. Silwood2 OX=2762512 GN=JQV615_LOCUS4969 PE=3 SV=1,Class_2,Class_2,Class_2,Class_2,Class_2,Correct
