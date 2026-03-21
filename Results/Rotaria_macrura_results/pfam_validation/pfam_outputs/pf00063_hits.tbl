@@ -1,0 +1,31 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+rotmac7440.t1        -          Myosin_head          PF00063.28  2.3e-292  966.0   3.0  2.3e-292  966.0   3.0   3.5   2   1   2   4   4   3   1 -
+rotmac902.t1         -          Myosin_head          PF00063.28  4.3e-287  948.6   2.4  4.3e-287  948.6   2.4   2.3   3   0   0   3   3   2   1 -
+rotmac11407.t1       -          Myosin_head          PF00063.28  4.9e-285  941.8   1.6  4.9e-285  941.8   1.6   2.9   3   1   0   3   3   1   1 -
+rotmac14997.t1       -          Myosin_head          PF00063.28    2e-284  939.8  11.1    2e-284  939.8  11.1   2.9   2   1   0   2   2   2   1 -
+rotmac14128.t1       -          Myosin_head          PF00063.28  2.2e-283  936.3   1.8  2.2e-283  936.3   1.8   2.7   3   0   0   3   3   1   1 -
+rotmac7722.t1        -          Myosin_head          PF00063.28  2.6e-283  936.1   2.3  2.6e-283  936.1   2.3   2.7   4   0   0   4   4   2   1 -
+rotmac18488.t1       -          Myosin_head          PF00063.28  2.6e-281  929.5   2.7  2.6e-281  929.5   2.7   3.5   4   0   0   4   4   1   1 -
+rotmac25715.t1       -          Myosin_head          PF00063.28  1.3e-277  917.3   0.7  1.3e-277  917.3   0.7   3.3   3   1   0   3   3   1   1 -
+rotmac17261.t1       -          Myosin_head          PF00063.28  1.8e-256  847.4   7.9  2.4e-205  678.4   3.4   3.5   3   1   1   4   4   2   2 -
+rotmac1673.t1        -          Myosin_head          PF00063.28  2.4e-239  790.8  11.8  3.4e-239  790.3  11.8   1.2   1   0   0   1   1   1   1 -
+rotmac1535.t1        -          Myosin_head          PF00063.28  1.7e-223  738.4   9.2  5.5e-223  736.7   9.2   1.8   1   1   0   1   1   1   1 -
+rotmac10406.t1       -          Myosin_head          PF00063.28  5.1e-211  697.2  15.6  7.9e-211  696.6  15.6   1.2   1   0   0   1   1   1   1 -
+rotmac9766.t1        -          Myosin_head          PF00063.28  2.6e-193  638.7  22.7  1.6e-177  586.5  10.1   2.7   3   0   0   3   3   3   2 -
+rotmac19927.t1       -          Myosin_head          PF00063.28  7.6e-193  637.1   0.0  2.6e-137  453.6   0.0   2.4   1   1   1   2   2   2   2 -
+rotmac9432.t1        -          Myosin_head          PF00063.28  2.6e-186  615.5  13.1  1.6e-129  427.8   4.7   2.2   1   1   1   2   2   2   2 -
+rotmac1714.t1        -          Myosin_head          PF00063.28  7.4e-185  610.7   7.1  4.9e-121  399.8   3.8   2.2   1   1   1   2   2   2   2 -
+rotmac6273.t1        -          Myosin_head          PF00063.28  1.5e-182  603.1   5.5  6.5e-182  601.0   5.5   2.0   1   1   0   1   1   1   1 -
+rotmac16496.t1       -          Myosin_head          PF00063.28  1.2e-127  421.7  11.8   6.3e-57  187.9   4.9   4.1   2   2   1   3   3   3   3 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      PF00063.hmm
+# Target file:     Predicted_Myosins.fasta
+# Option settings: hmmsearch --tblout pfam_outputs/pf00063_hits.tbl --domtblout pfam_outputs/pf00063_domtblout.tbl -E 0.00001 PF00063.hmm Predicted_Myosins.fasta 
+# Current dir:     /var/folders/yr/g6c26bjj21s7_mwb1xxfychw0000gn/T/nxf.O9lLt38XDD
+# Date:            Fri Mar 20 02:41:53 2026
+# [ok]

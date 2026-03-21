@@ -1,0 +1,24 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+euki4375.t1          -          Myosin_head          PF00063.28  7.6e-290  958.0   3.6  7.6e-290  958.0   3.6   3.8   4   2   2   6   6   4   1 -
+euki1071.t1          -          Myosin_head          PF00063.28  3.3e-282  932.8  10.7  1.1e-213  706.4   3.6   4.7   3   1   1   4   4   2   2 -
+euki25014.t1         -          Myosin_head          PF00063.28  1.1e-259  858.4  18.3  1.9e-259  857.6  18.3   1.4   1   0   0   1   1   1   1 -
+euki26179.t1         -          Myosin_head          PF00063.28  2.3e-251  830.9  11.7  2.3e-251  830.9  11.7   2.0   2   0   0   2   2   2   1 -
+euki20905.t1         -          Myosin_head          PF00063.28  1.5e-249  824.9  13.0    3e-249  823.9  13.0   1.6   1   0   0   1   1   1   1 -
+euki27065.t1         -          Myosin_head          PF00063.28  5.8e-240  793.2   9.6  5.8e-240  793.2   9.6   2.3   3   0   0   3   3   3   1 -
+euki4346.t1          -          Myosin_head          PF00063.28  1.1e-233  772.5   0.3  1.1e-233  772.5   0.3   1.7   2   0   0   2   2   2   1 -
+euki25301.t1         -          Myosin_head          PF00063.28  2.6e-226  748.1  35.4  2.3e-225  745.0  35.4   2.0   1   1   0   1   1   1   1 -
+euki17398.t1         -          Myosin_head          PF00063.28  7.5e-208  687.1   6.0  7.5e-208  687.1   6.0   2.0   2   0   0   2   2   1   1 -
+euki24899.t1         -          Myosin_head          PF00063.28  9.1e-203  670.3  17.6  9.1e-203  670.3  17.6   2.4   2   1   0   2   2   2   1 -
+euki22516.t1         -          Myosin_head          PF00063.28   1.3e-68  226.9  45.1   1.6e-29   97.7   5.7   4.6   4   1   1   5   5   4   3 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      PF00063.hmm
+# Target file:     Predicted_Myosins.fasta
+# Option settings: hmmsearch --tblout pfam_outputs/pf00063_hits.tbl --domtblout pfam_outputs/pf00063_domtblout.tbl -E 0.00001 PF00063.hmm Predicted_Myosins.fasta 
+# Current dir:     /var/folders/yr/g6c26bjj21s7_mwb1xxfychw0000gn/T/nxf.O1UtFPi82N
+# Date:            Sat Mar 21 18:18:40 2026
+# [ok]

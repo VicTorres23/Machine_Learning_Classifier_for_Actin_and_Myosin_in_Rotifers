@@ -1,0 +1,1129 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  PF00063.hmm
+# target sequence database:        Predicted_Myosins.fasta
+# per-seq hits tabular output:     pfam_outputs/pf00063_hits.tbl
+# per-dom hits tabular output:     pfam_outputs/pf00063_domtblout.tbl
+# sequence reporting threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Myosin_head  [M=679]
+Accession:   PF00063.28
+Description: Myosin head (motor domain)
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence    Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------    -----------
+   4.2e-297  981.1   1.4   4.2e-297  981.1   1.4    4.8  2  asp18365.t1  
+   3.8e-292  964.7   9.1   3.5e-225  743.4   1.2    4.4  2  asp3496.t1   
+   5.5e-282  931.1   6.6   5.5e-282  931.1   6.6    2.2  1  asp9302.t1   
+   1.5e-280  926.4   3.1   1.5e-280  926.4   3.1    3.3  1  asp6500.t1   
+   3.5e-280  925.1   2.0   3.5e-280  925.1   2.0    2.9  3  asp17985.t1  
+   1.1e-276  913.5   4.4   1.9e-276  912.8   4.4    1.3  1  asp10656.t1  
+   2.9e-272  899.0   6.5   2.9e-272  899.0   6.5    4.3  1  asp563.t1    
+   2.3e-267  882.8   4.9   2.3e-267  882.8   4.9    1.5  2  asp14065.t1  
+   7.4e-267  881.1   5.0   3.4e-237  783.1   1.1    4.5  2  asp131.t1    
+   7.3e-266  877.8   9.4   5.7e-199  656.7   0.7    4.7  2  asp4710.t1   
+   2.2e-263  869.6   4.3   2.2e-263  869.6   4.3    2.9  1  asp12484.t1  
+   4.5e-261  862.0  25.2   4.3e-168  554.7   8.8    3.3  2  asp16125.t1  
+   8.9e-247  814.7  19.8   8.9e-247  814.7  19.8    1.6  2  asp10915.t1  
+   1.8e-244  807.1   9.8     6e-135  445.2   5.5    4.2  2  asp3497.t1   
+   1.2e-243  804.4   7.7   1.9e-222  734.3   1.8    3.8  3  asp4830.t1   
+   1.9e-243  803.7  10.3   1.9e-243  803.7  10.3    4.8  2  asp18366.t1  
+   2.9e-235  776.7  15.3   2.9e-235  776.7  15.3    2.7  3  asp9697.t1   
+   2.5e-228  753.8  21.1   3.3e-228  753.4  21.1    1.2  1  asp6302.t1   
+   2.9e-202  667.6   0.9   2.9e-202  667.6   0.9    2.1  3  asp15858.t1  
+   5.1e-144  475.1  16.2     1e-143  474.2  16.2    1.5  1  asp10095.t1  
+   1.1e-137  454.3   0.1   1.1e-137  454.3   0.1    2.6  3  asp17080.t1  
+
+
+Domain annotation for each sequence (and alignments):
+>> asp18365.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  981.1   1.4    3e-298  4.2e-297       1     679 []     120     852 ..     120     852 .. 0.98
+   2 ?   -4.6   3.8       5.5        75     205     307 ..    1549    1653 ..    1505    1675 .. 0.74
+
+  Alignments for each domain:
+  == domain 1  score: 981.1 bits;  conditional E-value: 3e-298
+  Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGK 98 
+                  ved++eL++lneasvl+nlk+Ry++ liYtysgl++v+vnPyk+l+iy+e++++ ykgkk++e+pPH+faiad+ayrsml+++e+qsil++GEsGAGK
+  asp18365.t1 120 VEDMAELTCLNEASVLHNLKDRYYSGLIYTYSGLFCVVVNPYKNLPIYTEKIVELYKGKKRHEMPPHVFAIADKAYRSMLTEREDQSILCTGESGAGK 217
+                  69************************************************************************************************ PP
+
+  Myosin_head  99 teatKkvlqylasvseskee........................................vekeeveekilqsnPilEafGnAktvrnnnssRFGKyi 156
+                  te+tKkv+qyla v+++ ++                                        +  +e+e ++lq+nPilEafGnAktv+n+nssRFGK+i
+  asp18365.t1 218 TENTKKVIQYLAHVAAKMNKattqirdalngnvavfspsaslgglyyfndispiqtaagaFLCGELEAQLLQANPILEAFGNAKTVKNDNSSRFGKFI 315
+                  *****************9999*************************************998889********************************** PP
+
+  Myosin_head 157 eiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeq 254
+                  +i+fd++g+iaga+ietYLLEksR ++qa++ER++HiFYqll gas++ + e+ led+k+y+yls+   + ++g+d++ee+++t ka++++g+s+++ 
+  asp18365.t1 316 RINFDQSGFIAGANIETYLLEKSRAIRQAKDERTFHIFYQLLRGASPKDRAEYLLEDMKHYHYLSN-IYVPIQGVDEVEEYNNTIKAMHIMGMSNDDI 412
+                  ******************************************************************.79***************************** PP
+
+  Myosin_head 255 keifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekin 352
+                   +i r+++++l++Gn++fk+e++++qa+  d++ ++k+++l+g+++ +++++l+k+++k+g+++v+ka+n+eq+++a++a+akaiyer+F+w+v++in
+  asp18365.t1 413 ISIVRTLSGVLQMGNLQFKQERQNDQATLPDNTVAQKVCHLFGLNVLDFTRSLLKPKLKVGRDFVTKAQNKEQVEFAVEAIAKAIYERMFKWIVQRIN 510
+                  ************************************************************************************************** PP
+
+  Myosin_head 353 kslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecll 450
+                  ksl+++k++ +sfiG+LDiaGFEif+ nsFEqlciny+nEkLqqlFn+++++lEqeeY+rEg+ew++idfgld+q++idLiek p+GilslLdeecl+
+  asp18365.t1 511 KSLDRSKRQGASFIGILDIAGFEIFQLNSFEQLCINYTNEKLQQLFNHTMFILEQEEYKREGLEWKYIDFGLDLQPTIDLIEK-PMGILSLLDEECLF 607
+                  **********************************************************************************9.9************* PP
+
+  Myosin_head 451 pkatdetfleklvkefekhakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek............... 533
+                  pkatd+t+++kl+ +++ h+kf k+++ ks+ +F i HyAgkv+Y+++++l+Kn+D+ln+++v+ll++s++ + +e++k++ +               
+  asp18365.t1 608 PKATDRTYVDKLIASHSTHPKFGKPSF-KSNYDFSIIHYAGKVDYSADQWLMKNMDPLNDNIVALLQASSDTFTREIWKDVVIwgitprhitrslvpd 704
+                  *************************96.999*************************************************999*************** PP
+
+  Myosin_head 534 .....eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitf 626
+                        ++ ++ +++ +  +++kk +f+tvg+ +ke+l++Lm+tl++tnp++vRCi+pn+kk+a+k+d+ lvl+qlrc+Gvlegiri+r+GfpnRi f
+  asp18365.t1 705 fteivGMAVTEGADNPTFGQRTKKGMFRTVGQLYKEQLSKLMSTLRNTNPNFVRCIIPNHKKSAGKIDSPLVLDQLRCNGVLEGIRICRQGFPNRIPF 802
+                  *99865555666677788899999************************************************************************** PP
+
+  Myosin_head 627 eefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                  +ef+qrY+il+++ +++     +dak a+e ++k+leld++ y++G++K+Ffr
+  asp18365.t1 803 QEFRQRYEILCPNVIPKG---FMDAKLACERMIKDLELDENLYRVGQSKLFFR 852
+                  ***************777...8******************************8 PP
+
+  == domain 2  score: -4.6 bits;  conditional E-value: 5.5
+  Myosin_head  205 ekkelkledvkdyaylsqsgeltvdgidds.eefketkkaldvlglseeeqke.ifrivaailhlGniefkkeakeeqavskdeeklekaaellgv 298 
+                   ek++l  e  k+++ l+ + + tv+  d + ++++e++ka  +l  + eeq++ i ++   +  + +++++ e + ++++ + e+kl++ +++   
+  asp18365.t1 1549 EKEDLFNELDKRFKQLKLEYDDTVSHKDGVgKNIHELEKAKRILEATVEEQRThIEELEDELQAMEDVKLRLEVNMQASKAQLEKKLQESCDMSEE 1644
+                   4455555555667777777777777777653689999999999999988776515556666677999***9999999999999999**99999888 PP
+
+  Myosin_head  299 daeelekal 307 
+                   ++++l k +
+  asp18365.t1 1645 KYKSLVKQI 1653
+                   877777766 PP
+
+>> asp3496.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.8   1.4   9.7e-73   1.3e-71       2     154 ..      10     171 ..       9     172 .. 0.96
+   2 !  743.4   1.2  2.6e-226  3.5e-225     120     679 .]     171     722 ..     170     722 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 235.8 bits;  conditional E-value: 9.7e-73
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlq....dkenqsilisGEsG 95 
+                  ed++ L++ln+asvl nl++Ry+++liYtysgl++va+nPyk+l+iys ++i+ y+gkk++e+pPH+++iad+ay +ml+    d+enqs+li+GEsG
+   asp3496.t1  10 EDMADLTYLNDASVLCNLRQRYMSWLIYTYSGLFCVAINPYKRLPIYSMKMINLYRGKKRTEVPPHLYSIADNAYSNMLRvinlDRENQSMLITGESG 107
+                  9***************************************************************************998655559************* PP
+
+  Myosin_head  96 AGKteatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGK 154
+                  AGKte+tKkv+qy+a+v++s+ +     ++ +++e++i+ +nP+lEa+GnAkt rnnnssRF K
+   asp3496.t1 108 AGKTENTKKVIQYFAYVAASSVTkkddgKKDSNLEDQIVSANPVLEAYGNAKTSRNNNSSRFKK 171
+                  *****************999877778889999******************************77 PP
+
+  == domain 2  score: 743.4 bits;  conditional E-value: 2.6e-226
+  Myosin_head 120 ekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkle.dvkd 216
+                  +++++e++i+qsnP+lEafGnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyHiFYqll++a ++ +kel ++ d+k+
+   asp3496.t1 171 KEANLEDQIVQSNPVLEAFGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYHIFYQLLSNAFPQYHKELLVDpDPKQ 268
+                  5689********************************************************************************************** PP
+
+  Myosin_head 217 yaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalvkrrikt 314
+                  y ++sq g +t++ +dd+ee++ t++a+d+l+++++e++++f+ + ai+h+Gn + k++++eeqa+++ +++ ek+++llg+++++l k l+k+rik+
+   asp3496.t1 269 YFFISQ-GMTTIENVDDAEEMRLTDEAFDILNFTQDEKTNLFKCTGAIMHFGNSKWKQRPREEQAETDGTQECEKVSHLLGIQSADLIKGLLKPRIKV 365
+                  ******.8****************************************************************************************** PP
+
+  Myosin_head 315 gkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvr 412
+                  g+e+v+k +n+ q+ +a+ al+k iy+r+F+wlve++n++l++k+ ++++fiGvLDiaGFEife+n+FEqlciny+nE+Lqq+Fn+++++lEqeeY++
+   asp3496.t1 366 GNEYVNKGQNKDQVINAIGALSKSIYSRMFNWLVERVNETLDVKT-KRQHFIGVLDIAGFEIFEFNGFEQLCINYTNERLQQFFNHHMFVLEQEEYKK 462
+                  *********************************************.9*************************************************** PP
+
+  Myosin_head 413 EgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDt 507
+                  Egi+we+i+fgld+qa+idLiek p+Gi+s+L+eec++pk++d+tf ekl+ ++ +kh++f k++   +k ea+F ++HyAg+v+Y+v+g+leKnkD+
+   asp3496.t1 463 EGIQWEMINFGLDLQACIDLIEK-PMGIFSILEEECIVPKGSDKTFQEKLYAQHlGKHPNFGKPKPgkNKAEAHFELHHYAGTVAYSVSGWLEKNKDP 559
+                  **********************9.9*****************************9*********987688999************************* PP
+
+  Myosin_head 508 lnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleql 604
+                  +n+++ +l+k+s   kll++l+ e+ +       +++kk+ k+kk    +t+++ ++e+l++Lm++l+st+ph+vRCi+pne k+ + ld +lv++ql
+   asp3496.t1 560 INTTVATLFKCSAGnKLLSHLYCEMGE-------DDDKKSGKAKKGGALQTISAGHREQLNKLMTNLRSTHPHFVRCIIPNEIKTGGVLDPHLVMHQL 650
+                  **********998659******99664.......667778888889999************************************************* PP
+
+  Myosin_head 605 rclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                  +c+Gvlegiri+r+GfpnR++++ef qrY+ila++++++      da+ka+ ailk++ l++e y++G+tK+Ff+
+   asp3496.t1 651 HCNGVLEGIRICRKGFPNRMMYAEFKQRYSILAPNAVPKG---FVDATKATGAILKDIALSEELYRLGTTKVFFK 722
+                  ************************************9777...89*****************************8 PP
+
+>> asp9302.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  931.1   6.6    4e-283  5.5e-282       2     679 .]      88     763 ..      87     763 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 931.1 bits;  conditional E-value: 4e-283
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                  ed++ L++ln+asvl+nl++Ry+++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+p H++ +ad+ay sml+d+enqs li+GEsGAGKt
+   asp9302.t1  88 EDMADLTYLNDASVLHNLRTRYMSWLIYTYSGLFCVTINPYKRLPVYTMKMVNFYRGKKKNEVPAHLYYVADNAYASMLRDRENQSCLITGESGAGKT 185
+                  9************************************************************************************************* PP
+
+  Myosin_head 100 eatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyH 192
+                  e+tKkv+qyla+v++++++     ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyH
+   asp9302.t1 186 ENTKKVIQYLAFVASNTSAkkeegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYH 283
+                  **************99988788888999********************************************************************** PP
+
+  Myosin_head 193 iFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeekl 289
+                  iFYqll++a +e +ke+ +e d+k+y +++q g lt+d +dd+ee+k+t++a+d+l+++++e++++f+ +aai+h Gn + k++++eeqa+++ +e+ 
+   asp9302.t1 284 IFYQLLSSAFPEYHKEMLIEpDPKQYFFIAQ-GMLTIDNVDDAEEMKATDEAFDILNFKQSEKMDLFKCTAAIMHWGNSKWKQRPREEQAETDGTEEC 380
+                  ********************9**********.9***************************************************************** PP
+
+  Myosin_head 290 ekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlci 387
+                  ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+++a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlci
+   asp9302.t1 381 EKVSHLLGIQSADLLKGLLKPRIKVGNEYVNKGQNKDQVTNAIGALSKSIYSRCFQWLVDQVNETLNVKT-KRQHFIGVLDIAGFEIFDYNGFEQLCI 477
+                  *********************************************************************9.9************************** PP
+
+  Myosin_head 388 nyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kksea 482
+                  ny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k++   +k ea
+   asp9302.t1 478 NYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFGKPKPakNKAEA 574
+                  ***********************************************9.9*****************************9********9876678899 PP
+
+  Myosin_head 483 kFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnph 579
+                  +F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k s+  kll++l++++ +      +++++k+ k kk+ +++t++++++e+l++Lm+tl+st+ph
+   asp9302.t1 575 HFDLHHYAGTVSYSVTGWLEKNKDPINTTVATLFKGSTGnKLLSQLYQDMGE------EDDKNKSGKGKKSGSMQTISATHREQLNKLMNTLKSTHPH 666
+                  ***********************************998669********664......4445556666777799************************ PP
+
+  Myosin_head 580 yvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiF 677
+                  +vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+GfpnR++++ef qrY+ila++++++      da ka+ +ilk++ l+++ y++G+tK+F
+   asp9302.t1 667 FVRCIIPNEIKTGGILDSHLVMHQLTCNGVLEGIRICRKGFPNRMIYAEFKQRYSILAPNAVPKG---FVDAIKATGSILKDIALSDDLYRLGNTKVF 761
+                  *************************************************************9777...89**************************** PP
+
+  Myosin_head 678 fr 679
+                  f+
+   asp9302.t1 762 FK 763
+                  *8 PP
+
+>> asp6500.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  926.4   3.1  1.1e-281  1.5e-280       2     679 .]      88     762 ..      87     762 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 926.4 bits;  conditional E-value: 1.1e-281
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                  ed++ L++ln+asvl+nl++Ry+++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+p H++ +ad+ay sml+d+enqs li+GEsGAGKt
+   asp6500.t1  88 EDMADLTYLNDASVLHNLRTRYMSWLIYTYSGLFCVTINPYKRLPVYTMKMVNYYRGKKKNEVPAHLYYVADNAYASMLRDRENQSCLITGESGAGKT 185
+                  9************************************************************************************************* PP
+
+  Myosin_head 100 eatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyH 192
+                  e+tKkv+qy+a+v++++       ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyH
+   asp6500.t1 186 ENTKKVIQYFAFVASNTVPkkddgKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYH 283
+                  *************99887667888999*********************************************************************** PP
+
+  Myosin_head 193 iFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeekl 289
+                  iFYq+l++a ++ +kel +e d+k+y +++q g lt+d +dd+ee+++t++a+d+l++++ee+ ++f+ +aai+h Gn + k++++eeqa+++ +e+ 
+   asp6500.t1 284 IFYQILSNAFPSYHKELLVEpDPKQYFFIAQ-GMLTIDNVDDAEEMRATDEAFDILNFKQEEKINLFKCTAAIMHWGNSKWKQRPREEQAETDGTEEC 380
+                  *******************************.9***************************************************************** PP
+
+  Myosin_head 290 ekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlci 387
+                  ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+ +a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlci
+   asp6500.t1 381 EKVSHLLGIQSADLIKGLLKPRIKVGNEYVNKGQNKDQVVNAIGALSKSIYSRCFQWLVDRVNETLDVKA-KRQYFIGVLDIAGFEIFDSNGFEQLCI 477
+                  *********************************************************************9.9************************** PP
+
+  Myosin_head 388 nyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kksea 482
+                  ny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k++   +k ea
+   asp6500.t1 478 NYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFGKPKPakNKAEA 574
+                  ***********************************************9.9*****************************9********9876678899 PP
+
+  Myosin_head 483 kFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnph 579
+                  +F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k s+  kll+ l++++ +       +++kk+ k+kk  +++t++++++e+l++Lm++l+st+ph
+   asp6500.t1 575 HFDLHHYAGTVSYTVTGWLEKNKDPINTTVATLFKGSSGnKLLSLLYQDMGE-------EDDKKSGKSKKGGSMQTISATHREQLNKLMNNLRSTHPH 665
+                  ***********************************88765999999999654.......66778888899999************************* PP
+
+  Myosin_head 580 yvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiF 677
+                  +vRCi+pne k+ + ld +lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+ila++++++      da ka++ailk++ l+++ y++G+tK+F
+   asp6500.t1 666 FVRCIIPNEVKTGGILDPHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILAPNAVPKG---FVDAIKATSAILKDIALSEDLYRLGHTKVF 760
+                  *************************************************************9777...89**************************** PP
+
+  Myosin_head 678 fr 679
+                  f+
+   asp6500.t1 761 FK 762
+                  *8 PP
+
+>> asp17985.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  925.1   2.0  2.6e-281  3.5e-280       2     679 .]      80     750 ..      79     750 .. 0.97
+   2 ?   -5.2   3.8         8   1.1e+02     471     564 ..     986    1080 ..     960    1111 .. 0.61
+   3 ?   -3.6   1.9       2.7        37     459     573 ..    1194    1324 ..    1181    1330 .. 0.52
+
+  Alignments for each domain:
+  == domain 1  score: 925.1 bits;  conditional E-value: 2.6e-281
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                  ed++ L++ln+as+l+nlk+Ry+++liYtysgl++va+nPyk+l++y+ ++++ y+gkkk+e+pPH+++iad+ay sml+d+enqs+li+GEsGAGKt
+  asp17985.t1  80 EDMADLTYLNDASILNNLKQRYMSWLIYTYSGLFCVAINPYKRLPVYTMKMVNLYRGKKKNEVPPHLYSIADNAYASMLRDRENQSMLITGESGAGKT 177
+                  9************************************************************************************************* PP
+
+  Myosin_head 100 eatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyH 192
+                  e+tKkv+qy+a+v+ +++      ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyH
+  asp17985.t1 178 ENTKKVIQYFAYVACTSAPkkeegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYH 275
+                  *************977666577788999********************************************************************** PP
+
+  Myosin_head 193 iFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeekl 289
+                  iFYqllaga ++ +k+l +e ++k y +++q g lt+d +dd+ee+k t++a+d+l+++   + ++f+ + +i+h+Gn + k++++eeqa+++ +e+ 
+  asp17985.t1 276 IFYQLLAGAYPKYHKDLLVEpEPKLYYFIAQ-GMLTIDNVDDAEEMKMTDEAFDILNFKP--KLDLFKATGSIMHFGNSKWKQRPREEQAETDGTEEC 370
+                  ********************99999****99.9*************************75..689********************************* PP
+
+  Myosin_head 290 ekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlci 387
+                  ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+++a+ al k iy+rlF+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlci
+  asp17985.t1 371 EKVSHLLGIQSADLIKGLLKPRIKVGNEYVNKGQNKDQVTNAIGALCKSIYSRLFQWLVDRVNETLDVKA-KRQHFIGVLDIAGFEIFDSNGFEQLCI 467
+                  *********************************************************************9.9************************** PP
+
+  Myosin_head 388 nyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kksea 482
+                  ny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl++++ +kh++f k++   +k ea
+  asp17985.t1 468 NYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYNQHlGKHPNFGKPKPakNKAEA 564
+                  ***********************************************9.9*****************************9********9876678899 PP
+
+  Myosin_head 483 kFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnph 579
+                  +F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k+s+  kll++l+++            e+++ k+kk   ++t++s ++e+l++Lm++l+st+ph
+  asp17985.t1 565 HFDLHHYAGTVSYSVTGWLEKNKDPINTTVATLFKASQGnKLLSSLYQDIGV---------EEQAGKAKKGGGMQTISSAHREQLNKLMTNLRSTHPH 653
+                  *************************************9769********775.........4456677778889************************ PP
+
+  Myosin_head 580 yvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiF 677
+                  +vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+il+++++++      da ka+ ailk++ l++e yk+G+tK+F
+  asp17985.t1 654 FVRCIIPNEIKTGGVLDAHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILSPNAVPKG---FVDAIKASGAILKDIALSEELYKLGHTKVF 748
+                  *************************************************************9777...89**************************** PP
+
+  Myosin_head 678 fr 679
+                  f+
+  asp17985.t1 749 FK 750
+                  *8 PP
+
+  == domain 2  score: -5.2 bits;  conditional E-value: 8
+  Myosin_head  471 kfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlv..ellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfke 564 
+                   +  k+    ++++  ++H  +kv+ + e+ l+  +D l+++    + l k+k+kl a+l ++++  ++ ++ k++ +++ kkk ++ + +++k+ e
+  asp17985.t1  986 TIAKTVELLQQEEDKVNHL-NKVKAKLEQTLDESEDNLEREKKarADLDKAKRKLEADLKSSQASFEELDKVKKDVEDALKKKDAEINNLSAKIEE 1080
+                   4444444667777778886.5788888999999999888765411456788888888888777774444444444444444444444555444444 PP
+
+  == domain 3  score: -3.6 bits;  conditional E-value: 2.7
+  Myosin_head  459 leklvkefekhakfeksrl........kkseakFiikHyAgkveYevegfleKnkDtlnedlvel......lkkskkkllaelfkeeek...eaka 537 
+                   l+kl+++ ek +++ ks++        + ++ak  ++   ++ e++ ++  +K  D  n+++ el      l++ +++ll ++ + e++    +k 
+  asp17985.t1 1194 LQKLKNKLEKDKHLIKSEVdeakvqieHINKAKLNVEKVVKQLEFQLQELGSKV-DESNRQVSELasqkgkLQSENNELLLQIEEAESQisgFSKV 1288
+                   678888888888887776655555555566666677777777777777665553.22233322220011114445557777776665555552233 PP
+
+  Myosin_head  538 eakksekkkkkkkkkkkfktvgskfkeslaeLmktl 573 
+                   +++ +++ +++k+  ++ + + s   ++l +L + l
+  asp17985.t1 1289 RQQLQSQIEEAKRAAEEEARARSSLTQQLRKLSQDL 1324
+                   333333333333333334444444555555555555 PP
+
+>> asp10656.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  912.8   4.4  1.4e-277  1.9e-276       2     679 .]      88     767 ..      87     767 .. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 912.8 bits;  conditional E-value: 1.4e-277
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliY......tysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGE 93 
+                  ed++ L++ln+as+l+nl++Ry+++liY      tysgl++v++nPyk+l++y+ ++++ y+gkkk+e+p H++ +ad+ay sml+d+enqs li+GE
+  asp10656.t1  88 EDMADLTYLNDASILHNLRTRYMNWLIYvsferaTYSGLFCVTINPYKRLPVYTMKMVNFYRGKKKNEVPAHLYYVADNAYASMLRDRENQSCLITGE 185
+                  9***************************9999999*************************************************************** PP
+
+  Myosin_head  94 sGAGKteatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqae 186
+                  sGAGKte+tKkv+qy+a+v++s++      ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q++
+  asp10656.t1 186 SGAGKTENTKKVIQYFAFVASSSAPkkeegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQP 283
+                  ********************99887788888999**************************************************************** PP
+
+  Myosin_head 187 eERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavs 283
+                  +ERnyHiFYqll++a ++ +ke+ +e d+k+y +++q g lt+d +dd+ee+k+t++a+d+l++++ee++++f+ +aai+h Gn + k++++eeqa+ 
+  asp10656.t1 284 AERNYHIFYQLLSSAFPSYHKEMLIEpDPKQYFFIAQ-GMLTIDNVDDAEEMKATDEAFDILNFKQEEKMNLFKCTAAIMHWGNSKWKQRPREEQAEA 380
+                  **************************9**********.9*********************************************************** PP
+
+  Myosin_head 284 kdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifekns 381
+                  + +e+ ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+++a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+
+  asp10656.t1 381 DGTEECEKVSHLLGIQSADLLKGLLKPRIKVGNEYVNKGQNKDQVTNAIGALSKSIYSRCFQWLVDRVNETLDVKT-KRQYFIGVLDIAGFEIFDYNG 477
+                  ****************************************************************************.9******************** PP
+
+  Myosin_head 382 FEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl. 477
+                  FEqlciny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k++  
+  asp10656.t1 478 FEQLCINYTNERLQQFFNHHMFVLEQEEYTKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFGKPKPa 574
+                  *****************************************************9.9*****************************9********9876 PP
+
+  Myosin_head 478 .kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktl 573
+                   +k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k s+  kll+ l++++         +++ k+ k+kk  +++t++++++e+l++Lm++l
+  asp10656.t1 575 kNKAEAHFDLHHYAGTVSYSVTGWLEKNKDPINTTVATLFKGSNGnKLLSLLYQDMG--------EEDGKSGKAKKGGSMQTISATHREQLNKLMNNL 664
+                  678899************************************997589999999955........46677788888999******************* PP
+
+  Myosin_head 574 estnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeyki 671
+                  ++t+ph+vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+ila++++++      da ka+ +ilk++ l ++ yk+
+  asp10656.t1 665 KQTHPHFVRCIIPNEIKTGGILDAHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILAPNAVPKG---FVDAIKASGSILKDIALGEDLYKL 759
+                  *******************************************************************9777...89********************** PP
+
+  Myosin_head 672 GktKiFfr 679
+                  G+tK+Ff+
+  asp10656.t1 760 GNTKVFFK 767
+                  *******8 PP
+
+>> asp563.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  899.0   6.5  2.1e-273  2.9e-272       2     679 .]      88     744 ..      87     744 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 899.0 bits;  conditional E-value: 2.1e-273
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                  ed++ L++ln+asvl+nlk+Ry+++liYtysgl++va+nPyk+l++y+ ++++ y+gkk++e+p H+++iad+ay sml+d+enqs+li+GEsGAGKt
+    asp563.t1  88 EDMADLTYLNDASVLHNLKQRYTSWLIYTYSGLFCVAINPYKRLPVYTMKMVNLYRGKKRTEVPAHLYSIADNAYASMLRDRENQSMLITGESGAGKT 185
+                  9************************************************************************************************* PP
+
+  Myosin_head 100 eatKkvlqylasvseskee....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHi 193
+                  e+tKkv+qy+a+v+ ++ +    ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyHi
+    asp563.t1 186 ENTKKVIQYFAYVACTSVKkddgKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYHI 283
+                  *************98776667779999*********************************************************************** PP
+
+  Myosin_head 194 FYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeekle 290
+                  FYqll++a ++ +ke+ +e d+k y +++q g lt+d +dd+ee++ t++a+d+l++++ee++++f+ + ai+h+Gn + k++++eeqa+++ +e+ e
+    asp563.t1 284 FYQLLSNAFPNYHKEMLVEpDPKLYFFIAQ-GMLTIDNVDDAEEMRLTDEAFDILNFTQEEKTNLFKCTGAIMHFGNSKWKQRPREEQAETDGTEECE 380
+                  *******************9**********.9****************************************************************** PP
+
+  Myosin_head 291 kaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcin 388
+                  k+++l+g+++++l k l+k+rik+g+e+v+k +n+ q+ +a+ al+k iy+r+F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlcin
+    asp563.t1 381 KVSHLVGIQSADLIKGLLKPRIKVGNEYVNKGQNKDQVVNAIGALSKSIYSRMFQWLVDRVNETLDVKT-KRQHFIGVLDIAGFEIFDYNGFEQLCIN 477
+                  *********************************************************************.9*************************** PP
+
+  Myosin_head 389 yvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kkseak 483
+                  y+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pkatd+tf ekl++++ +kh++f k++   +k ea+
+    asp563.t1 478 YTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKATDKTFQEKLYNQHlGKHPNFGKPKPskNKVEAH 574
+                  **********************************************9.9*****************************9********9875577899* PP
+
+  Myosin_head 484 FiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyv 581
+                  F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k+s++k                       + k+kk   ++t+++ ++e+l++Lm++l+st+ph+v
+    asp563.t1 575 FELHHYAGTVAYSVTGWLEKNKDPINTTVAALFKASTDK-----------------------SGKSKKGGGMQTISAAHREQLNKLMTNLRSTHPHFV 649
+                  **************************9999888888753.......................35667777899************************* PP
+
+  Myosin_head 582 RCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                  RCi+pne k+ + ld +lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+ila++++++      da+ka+ ailk++ l++e y++G+tK+Ff+
+    asp563.t1 650 RCIIPNEIKTGGILDPHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILAPNAVPKG---FVDATKATGAILKDVALSEELYRLGNTKVFFK 744
+                  ***********************************************************9777...89*****************************8 PP
+
+>> asp14065.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.5   0.0       2.5        34     474     519 ..     106     151 ..      87     173 .. 0.68
+   2 !  882.8   4.9  1.6e-268  2.3e-267       2     679 .]     486    1147 ..     485    1147 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: -3.5 bits;  conditional E-value: 2.5
+  Myosin_head 474 ksrlkkseakF.iikHyAgkveYevegfleKnkDtlnedlvellkks 519
+                  ks  + ++++F  ++ y    +Y + +f+e+n   l ++  el + +
+  asp14065.t1 106 KS-IACRRNEFsSVECYQCLLNYYIVDFVERNLPMLRHSRKELREMA 151
+                  33.34455555258899999999999999999988887776665544 PP
+
+  == domain 2  score: 882.8 bits;  conditional E-value: 1.6e-268
+  Myosin_head    2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAG 97  
+                   ed++ L++ln+as+l+nl++Ry+++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+p H++ +ad+ay s+            GEsGAG
+  asp14065.t1  486 EDMADLTYLNDASILHNLRTRYMNWLIYTYSGLFCVTINPYKRLPVYTMKMVNFYRGKKKNEVPAHLYYVADNAYASI------------GESGAG 569 
+                   9**************************************************************************986............****** PP
+
+  Myosin_head   98 KteatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeE 188 
+                   Kte+tKkv+qy+a+v++s++      ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++E
+  asp14065.t1  570 KTENTKKVIQYFAFVASSSAPkkeegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAE 665 
+                   ****************99887788888999****************************************************************** PP
+
+  Myosin_head  189 RnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavs 283 
+                   RnyHiFYqll++a ++ +ke+ +e d+k+y +++q g lt+d +dd+ee+k+t++a+d+l++++ee++++f+ +aai+h Gn + k++++eeqa+ 
+  asp14065.t1  666 RNYHIFYQLLSSAFPNYHKEMLIEpDPKQYFFIAQ-GMLTIDNVDDAEEMKATDEAFDILNFKQEEKMNLFKCTAAIMHWGNSKWKQRPREEQAEA 760 
+                   ************************9**********.9*********************************************************** PP
+
+  Myosin_head  284 kdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifek 379 
+                   + +e+ ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+++a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ 
+  asp14065.t1  761 DGTEECEKVSHLLGIQSADLLKGLLKPRIKVGNEYVNKGQNKDQVTNAIGALSKSIYSRCFQWLVDRVNETLDVKT-KRQYFIGVLDIAGFEIFDY 855 
+                   ****************************************************************************.9****************** PP
+
+  Myosin_head  380 nsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfek 474 
+                   n+FEqlciny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k
+  asp14065.t1  856 NGFEQLCINYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFGK 950 
+                   *******************************************************9.9*****************************9******** PP
+
+  Myosin_head  475 srl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkesla 567 
+                   ++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k s+  kll+ l++++         +++ k+ k+kk  +++t++++++e+l+
+  asp14065.t1  951 PKPakNKAEAHFDLHHYAGTVSYSVTGWLEKNKDPINTTVATLFKGSNGnKLLSLLYQDMG--------EEDGKSGKAKKGGSMQTISATHREQLN 1038
+                   9876678899************************************997589999999955........46677788888999************* PP
+
+  Myosin_head  568 eLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkle 663 
+                   +Lm++l++t+ph+vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+GfpnRi++ ef qrY+ila++++++      da ka+ ailk++ 
+  asp14065.t1 1039 KLMNNLKQTHPHFVRCIIPNEIKTGGILDAHLVMHQLTCNGVLEGIRICRKGFPNRIMYPEFKQRYSILAPNAVPKG---FVDAIKASGAILKDIA 1131
+                   *************************************************************************9777...89************** PP
+
+  Myosin_head  664 ldkeeykiGktKiFfr 679 
+                   l ++ yk+G+tK+Ff+
+  asp14065.t1 1132 LGEDLYKLGNTKVFFK 1147
+                   ***************8 PP
+
+>> asp131.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  109.9   0.1   1.2e-34   1.7e-33       2      81 ..      88     167 ..      87     170 .. 0.98
+   2 !  783.1   1.1  2.5e-238  3.4e-237      78     679 .]     187     783 ..     181     783 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 109.9 bits;  conditional E-value: 1.2e-34
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlq 81 
+                  ed++ L++ln+as+l+nlk+Ry ++liYtysgl++va+nPyk+l++y+ ++++ y+gkkk+e+pPH+++iad+ay sml+
+    asp131.t1  88 EDMADLTYLNDASILNNLKTRYVSWLIYTYSGLFCVAINPYKRLPVYTMKMVNLYRGKKKNEVPPHLYSIADNAYASMLR 167
+                  9*****************************************************************************86 PP
+
+  == domain 2  score: 783.1 bits;  conditional E-value: 2.5e-238
+  Myosin_head  78 smlqdkenqsilisGEsGAGKteatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagak 170
+                  s+ ++  + + l  GEsGAGKte+tKkv+qy+a+v+ +++      ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+
+    asp131.t1 187 SFISSATDATTLTGGESGAGKTENTKKVIQYFAYVACTSAPkkeegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGAD 284
+                  566778899999***********************977666577788999************************************************ PP
+
+  Myosin_head 171 ietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhl 267
+                  ie+YLLEksRv +q+++ERnyHiFYqllaga ++ +k+l +e ++k y +++q g lt+d +dd+ee+k t++a+d+l+++ ee+ ++f+ + +i+h+
+    asp131.t1 285 IESYLLEKSRVTFQQPAERNYHIFYQLLAGAYPKYHKDLLVEpEPKLYYFIAQ-GMLTIDNVDDAEEMKMTDEAFDILNFKPEEKLDLFKATGSIMHF 381
+                  ******************************************99999****99.9******************************************* PP
+
+  Myosin_head 268 GniefkkeakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksf 365
+                  Gn + k++++eeqa+++ +e+ ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+++a+ al k iy+rlF+wlv+++n++l++k+ ++++f
+    asp131.t1 382 GNSKWKQRPREEQAETDGTEECEKVSHLLGIQSADLIKGLLKPRIKVGNEYVNKGQNKDQVTNAIGALCKSIYSRLFQWLVDRVNETLDVKT-KRQHF 478
+                  ********************************************************************************************.9**** PP
+
+  Myosin_head 366 iGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklv 463
+                  iGvLDiaGFEif+ n+FEqlciny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+
+    asp131.t1 479 IGVLDIAGFEIFDSNGFEQLCINYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLY 575
+                  *********************************************************************9.9************************** PP
+
+  Myosin_head 464 kef.ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfkt 557
+                   ++ +kh++f k++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k+sk  kll++l+++            e+++ k+kk   ++t
+    asp131.t1 576 AQHlGKHPNFGKPKPakNKAEAHFDLHHYAGTVSYSVAGWLEKNKDPINTTVATLFKASKGnKLLSSLYQDIGV---------EEQAGKAKKGGGMQT 664
+                  ***9********9876678899*************************************9769********775.........4456677778889** PP
+
+  Myosin_head 558 vgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkav 655
+                  ++s ++e+l++Lm++l+st+ph+vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+il+++++++      da ka+
+    asp131.t1 665 ISSAHREQLNKLMTNLKSTHPHFVRCIIPNEIKTGGVLDAHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILSPNAVPKG---FVDAIKAS 759
+                  ***********************************************************************************9777...89****** PP
+
+  Myosin_head 656 eailkkleldkeeykiGktKiFfr 679
+                   ailk++ l++e yk+G+tK+Ff+
+    asp131.t1 760 AAILKDIALSEELYKLGHTKVFFK 783
+                  ***********************8 PP
+
+>> asp4710.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.4   2.5   1.3e-72   1.7e-71       2     152 ..      88     243 ..      87     257 .. 0.96
+   2 !  656.7   0.7  4.2e-200  5.7e-199     107     679 .]     268     830 ..     258     830 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 235.4 bits;  conditional E-value: 1.3e-72
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                  ed++ L++ln+asvl+nl++Ry+++liYtysgl++va+nPyk+l++y+ ++++ y+gkkk+e+p H+++iad+ay sml+d+enqs+li+GEsGAGKt
+   asp4710.t1  88 EDMADLTYLNDASVLNNLRQRYMSWLIYTYSGLFCVAINPYKRLPVYTMKMVNYYRGKKKNEVPAHLYSIADNAYASMLRDRENQSMLITGESGAGKT 185
+                  9************************************************************************************************* PP
+
+  Myosin_head 100 eatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRF 152
+                  e+tKkv+qy+a+v+ +++      ++++++e++i+ +nP+lEa+GnAkt+rnnnssR 
+   asp4710.t1 186 ENTKKVIQYFAYVACTSTPkkeegKKESNLEDQIVSANPVLEAYGNAKTTRNNNSSRT 243
+                  *************987766677888999****************************95 PP
+
+  == domain 2  score: 656.7 bits;  conditional E-value: 4.2e-200
+  Myosin_head 107 qylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYqllagasee 204
+                  qyla+vs++  +  +e+  + +l     l  +  A t         GK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyHiFYqlla a ++
+   asp4710.t1 268 QYLAIVSSNLLAELHESNTDDMLTNQVFLPVITIADTKSPIQNTLIGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYHIFYQLLAAAYPK 365
+                  6777777776665556666666666666777777777777777789**************************************************** PP
+
+  Myosin_head 205 ekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdae 301
+                   +k+l +e d+k y +++q g lt+d +dd+ee+k+t++a+d+l+++ ee+ ++f+ + ai+h Gn + k++++eeqa+ + +e+ ek+++llgv+++
+   asp4710.t1 366 YHKDLLVEsDPKLYYFIAQ-GMLTIDNVDDAEEMKATDEAFDILNFKPEEKVDLFKATGAIMHWGNSKWKQRPREEQAEADGTEECEKVSHLLGVQSA 462
+                  *******989999999999.9***************************************************************************** PP
+
+  Myosin_head 302 elekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFn 399
+                  +l k l+k+rik+g+e+v+k +n+ q+ +a+ al k iy+rlF+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlciny+nE+Lqq+Fn
+   asp4710.t1 463 DLIKGLLKPRIKVGNEYVNKGQNKDQVINAIGALCKSIYSRLFQWLVDRVNETLDVKT-KRQHFIGVLDIAGFEIFDYNGFEQLCINYTNERLQQFFN 559
+                  **********************************************************.9************************************** PP
+
+  Myosin_head 400 elvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kkseakFiikHyAgkve 494
+                  +++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k++   +k ea+F ++HyAg+v+
+   asp4710.t1 560 HHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYGQHlGKHPNFGKPKPakNKAEAHFELHHYAGTVA 656
+                  ***********************************9.9*****************************9********9876678899************ PP
+
+  Myosin_head 495 YevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkk 591
+                  Y+v+g+leKnkD++n+++ +l+k+s+  kll+ l+++  +         e+k+ k+kk   ++t++s ++e+l++Lm++l+ t+ph+vRCi+pne k+
+   asp4710.t1 657 YSVTGWLEKNKDPINTTVAALFKTSQGnKLLSFLYQDIGE---------EEKAGKAKKGGGMQTISSAHREQLNKLMTNLRCTHPHFVRCIIPNEIKT 745
+                  *************************97699*******664.........4556677788889************************************ PP
+
+  Myosin_head 592 akkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                   + ld++lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+ila++++++      da ka+ ailk++ l++e yk+G+tK+Ff+
+   asp4710.t1 746 GGILDAHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILAPNAVPKG---FVDAIKASGAILKDIALSEELYKLGHTKVFFK 830
+                  *************************************************9777...89*****************************8 PP
+
+>> asp12484.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  869.6   4.3  1.6e-264  2.2e-263       2     679 .]     347    1009 ..     346    1009 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 869.6 bits;  conditional E-value: 1.6e-264
+  Myosin_head    2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAG 97  
+                   ed++ L++ln+as+l+nl++Ry+++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+p H++ +ad+ay s+            GEsGAG
+  asp12484.t1  347 EDMADLTYLNDASILHNLRTRYMNWLIYTYSGLFCVTINPYKRLPVYTMKMVNFYRGKKKNEVPAHLYYVADNAYASI------------GESGAG 430 
+                   9**************************************************************************986............****** PP
+
+  Myosin_head   98 KteatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeE 188 
+                   Kte+tKkv+qy+a+v++s++      ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++E
+  asp12484.t1  431 KTENTKKVIQYFAFVASSSAPkkeegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAE 526 
+                   ****************99887788888999****************************************************************** PP
+
+  Myosin_head  189 RnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavs 283 
+                   RnyHiFYqll++a ++ +ke+ +e d+k+y +++q g lt+d +dd+ee+k+t++a+d+l++++ee++++f+ +aai+h Gn + k++++eeqa+ 
+  asp12484.t1  527 RNYHIFYQLLSSAFPNYHKEMLIEpDPKQYFFIAQ-GMLTIDNVDDAEEMKATDEAFDILNFKQEEKMNLFKCTAAIMHWGNSKWKQRPREEQAEA 621 
+                   ************************9**********.9*********************************************************** PP
+
+  Myosin_head  284 kdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifek 379 
+                   + +e+ ek+++llg+++++l k l+k+rik+g+e+v+k +n+ q+++a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ 
+  asp12484.t1  622 DGTEECEKVSHLLGIQSADLLKGLLKPRIKVGNEYVNKGQNKDQVTNAIGALSKSIYSRCFQWLVDRVNETLDVKT-KRQYFIGVLDIAGFEIFDY 716 
+                   ****************************************************************************.9****************** PP
+
+  Myosin_head  380 nsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfek 474 
+                   n+FEqlciny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k
+  asp12484.t1  717 NGFEQLCINYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFGK 811 
+                   *******************************************************9.9*****************************9******** PP
+
+  Myosin_head  475 srl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkesla 567 
+                   ++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k s+  kll+ l++++ +e          + +k +++ + +   ++++e+l+
+  asp12484.t1  812 PKPakNKAEAHFDLHHYAGTVSYSVTGWLEKNKDPINTTVATLFKGSNGnKLLSLLYQDMGEEGL-------WQVRKGQERWQYANHPATHREQLN 900 
+                   9876678899************************************9975999999999665332.......2233333333455566789***** PP
+
+  Myosin_head  568 eLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkle 663 
+                   +Lm++l++t+ph+vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+GfpnRi++ ef qrY+ila++++++      da ka+ ailk++ 
+  asp12484.t1  901 KLMNNLKQTHPHFVRCIIPNEIKTGGILDAHLVMHQLTCNGVLEGIRICRKGFPNRIMYPEFKQRYSILAPNAVPKG---FVDAIKASGAILKDIA 993 
+                   *************************************************************************9777...89************** PP
+
+  Myosin_head  664 ldkeeykiGktKiFfr 679 
+                   l ++ yk+G+tK+Ff+
+  asp12484.t1  994 LGEDLYKLGNTKVFFK 1009
+                   ***************8 PP
+
+>> asp16125.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  323.3   8.4   3.2e-99   4.4e-98       2     225 ..      76     297 ..      75     310 .. 0.97
+   2 !  554.7   8.8  3.1e-169  4.3e-168     213     679 .]     338     813 ..     315     813 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 323.3 bits;  conditional E-value: 3.2e-99
+  Myosin_head   2 edlveLsllneasvlenlkkRyk.kdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGK 98 
+                  +dl++Ls+lne++vl nl+ R+  +++iYty+g+vlva+nPy++l+iy +++i+ay+g   ++++PHifa+++ea+++m + ++nqsi++sGEsGAGK
+  asp16125.t1  76 NDLTSLSYLNEPEVLYNLEVRFInSNQIYTYCGIVLVAINPYEQLPIYGNEIIQAYNGSDVQNMDPHIFAVSEEAFQKMIHFDQNQSIIVSGESGAGK 173
+                  79********************84789*********************************************************************** PP
+
+  Myosin_head  99 teatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYq 196
+                  t+++K+ ++y+a v +s+e   +++ve+k+l+snPi+EafGnAkt+rn+nssRFGK+i+i+f+ + +i+ga+++tYLLEksRvv+qa++ERnyHiFYq
+  asp16125.t1 174 TVSAKYTMRYFANVGGSSE---ETQVEKKVLASNPIMEAFGNAKTTRNDNSSRFGKFIQIDFNRSHHIVGANLKTYLLEKSRVVFQAASERNYHIFYQ 268
+                  *****************99...578************************************************************************* PP
+
+  Myosin_head 197 llagaseeekkelkledvkdyaylsqsge 225
+                  l+ + s++e   l++ +  ++ y++q+++
+  asp16125.t1 269 LCCQHSQKEYAYLNICKLWSFDYVNQKKN 297
+                  *************************9765 PP
+
+  == domain 2  score: 554.7 bits;  conditional E-value: 3.1e-169
+  Myosin_head 213 dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqa.vskdeeklekaaellgvdaeelekalvk 309
+                   +k++ y++q++  ++d i+d e f+et +a+++l +s+ +q++if++++ailhlGn+ ++ e+ +e++ v+k++ +++++++ll++d++ ++ +l++
+  asp16125.t1 338 PAKEFIYTNQGNAEEIDNINDREVFRETLEAFKLLDISKADQATIFSLLSAILHLGNVMIAGEKGNESSyVPKNDPSIKIMCQLLKIDETYMRAWLCN 435
+                  5799*********************************************************9998887735556666********************* PP
+
+  Myosin_head 310 rriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEq 407
+                  rrikt +e+v+++l++++a ++rdalak++y+++F+w+v++in+sl++   +++sfiGvLDi+GFE+f++nsFEq+ciny+nEkLqq+F ++v+klEq
+  asp16125.t1 436 RRIKTVNEIVNTPLTLREALFSRDALAKHMYSQMFNWIVSQINRSLKSPV-KTHSFIGVLDIYGFETFQVNSFEQFCINYANEKLQQQFCQHVFKLEQ 532
+                  *************************************************9.9********************************************** PP
+
+  Myosin_head 408 eeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekha.............kfeksrlkkseakFiikHyAgk 492
+                  eeY+rE+i+w+fi+f +dnq++i+Lie k  Gil+lLdeec++pk++d+t+ +kl++++ k a             +f+k+r  +s+++Fii+H+A+k
+  asp16125.t1 533 EEYMREQIKWSFIEF-YDNQPCIELIEGKFSGILDLLDEECKMPKGSDSTWCNKLYDKHLKAAnggagnnsitpqhHFSKPR--MSTKAFIIHHFAEK 627
+                  ***************.9******************************************66655777777777776777776..79************ PP
+
+  Myosin_head 493 veYevegfleKnkDtlnedlvellkkskkkllaelfkeeek...eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpn 587
+                  veY+v+gfleKn+Dt+ e+++++lk+s+ ++++elf+ee+     +  e k+++  + +k++++++ktvgs+f++sl++Lm +l+st+phyvRCikpn
+  asp16125.t1 628 VEYQVDGFLEKNRDTVLEEQLKVLKASEIDFISELFQEETDdskPKGYEVKRNTMPAPSKTQSTRKKTVGSQFRDSLSNLMVALNSTTPHYVRCIKPN 725
+                  **************************************88754444556777777788999999********************************** PP
+
+  Myosin_head 588 ekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                  ++k+a ++d+++++eqlr++Gvle++ri++aG+p+R+t++ef+qrY++l++++  +     ++ k+++eail +l  d+ +y++GktKiFf+
+  asp16125.t1 726 DQKAAFRFDAKRAVEQLRACGVLETVRISAAGYPSRWTYQEFFQRYRMLVDSRRINR----KAIKETCEAILITLIKDQTKYQFGKTKIFFQ 813
+                  ***************************************************997555....899**************************96 PP
+
+>> asp10915.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  814.7  19.8  6.5e-248  8.9e-247       1     679 []      90     745 ..      90     745 .. 0.97
+   2 ?   -4.4   0.9       4.8        66     513     563 ..    1061    1086 ..    1015    1126 .. 0.51
+
+  Alignments for each domain:
+  == domain 1  score: 814.7 bits;  conditional E-value: 6.5e-248
+  Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGK 98 
+                  ++d+v L +++e+s++en+kkR++++ iYty+g vl+avnPy++l+ y+++ i++y+g ++ e pPHi+aiad +yr+ml ++enq+++isGEsGAGK
+  asp10915.t1  90 HDDMVLLPKVDEQSIFENIKKRFMDNFIYTYIGPVLIAVNPYQNLPFYTQKEIDQYNGATQIENPPHIYAIADFMYRNMLIENENQCVIISGESGAGK 187
+                  59************************************************************************************************ PP
+
+  Myosin_head  99 teatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYq 196
+                  t+++K++++y++ vs+ +++ +++++++ ++qsnP+lEafGnAktvrnnnssRFGKy+ei+f  +g++ag+ki+++LLEksRvv q e+ERn+HiFYq
+  asp10915.t1 188 TVSAKHIINYITKVSGGNNSHKVQHIKDIVVQSNPLLEAFGNAKTVRNNNSSRFGKYVEIQFTRTGEPAGGKITNFLLEKSRVVGQMENERNFHIFYQ 285
+                  ************************************************************************************************** PP
+
+  Myosin_head 197 llagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeeklekaae 294
+                  +++ + +++ +++ ++d+++++yl+++g++tvdg +ds+ef+++ +a+ v+++se+eq++if+++a+il+lGni+fk++   ++a++++++ le  ++
+  asp10915.t1 286 ICSHK-DKLGQQFGIQDASKFSYLNKTGCYTVDGTNDSQEFEDVINAMRVINISESEQSNIFKTIAGILYLGNIKFKSNG--DKAMPENDACLELPSR 380
+                  *9875.67899*****************************************************************9865..5699999999****** PP
+
+  Myosin_head 295 llgvdaeelekalvkrriktg....kevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcin 388
+                  llg+++eel+k lv+r ++t+    +e + + +nv+qa++ard lak iy rlFd+lv+ in+++e+k  e+   iG+LDi+GFEif++n+FEq+cin
+  asp10915.t1 381 LLGLNKEELKKKLVSRIVETRagnqQEQIEMVMNVKQAEIARDGLAKSIYFRLFDYLVTTINNAMEEKD-ERMLNIGILDIYGFEIFHENGFEQFCIN 477
+                  ********************999999****************************************999.99999*********************** PP
+
+  Myosin_head 389 yvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiek.kplGilslLdeecllpka....tdetfleklvkefekhakfeksrlkkse 481
+                  yvnEkLqq+F+el+lk+EqeeY++Egi+w++id+ ++n+ ++dLie+ kp Gi+ + d+   + ++     d +f++kl   +++h++++        
+  asp10915.t1 478 YVNEKLQQIFIELTLKAEQEEYKQEGINWKNIDY-FNNKVVCDLIESkKPPGIFCICDDIVATIHSvqegVDIKFVQKLDTFHGSHQHYQGRG----- 569
+                  **********************************.***********989**********98765543333899****************7664..... PP
+
+  Myosin_head 482 akFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnph 579
+                  + F+ikHyAg+v+Y+++gf eKn+D+l+++l+el+k+s++++l++lf++                  +  +k+++t+g+k+k++ ++L++ l ++ p 
+  asp10915.t1 570 NVFTIKHYAGEVDYNINGFCEKNRDQLYDSLIELMKSSSDQFLVNLFPD------------------QLANKRPTTAGTKIKTQANQLVDVLMKCFPS 649
+                  79***********************************************..................3446689************************ PP
+
+  Myosin_head 580 yvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiF 677
+                  y+RCikpne+k+++++d++++ +q+++lG++e++rirraGf++R +f++f+ rY il+k+++     ++++a k++e i+++ +ldk++y++GktKiF
+  asp10915.t1 650 YIRCIKPNESKRPRDMDTDRCRHQIKYLGLVENVRIRRAGFAYRREFHKFIARYGILCKETM----FWSGTADKGIELIMRQGNLDKDQYQLGKTKIF 743
+                  *************************************************************7....489***************************** PP
+
+  Myosin_head 678 fr 679
+                  ++
+  asp10915.t1 744 IK 745
+                  97 PP
+
+  == domain 2  score: -4.4 bits;  conditional E-value: 4.8
+  Myosin_head  513 vellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfk 563 
+                   + +++k  ++  ++l ++                         +  +s ++
+  asp10915.t1 1061 IVIVNKNATEKQQKLQNK-------------------------NVNASSYR 1086
+                   222222222222222222.........................22222222 PP
+
+>> asp3497.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  445.2   5.5  4.4e-136    6e-135       2     380 ..      88     458 ..      87     473 .. 0.96
+   2 !  374.3   0.1  1.2e-114  1.7e-113     377     679 .]     518     811 ..     502     811 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 445.2 bits;  conditional E-value: 4.4e-136
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                  ed++ L++ln+asvl+nl++Ry+++liYtysgl++va+nPyk+l++y+ ++++ y+gkkk+e+p H+++iad+ay s+            GEsGAGKt
+   asp3497.t1  88 EDMADLTYLNDASVLHNLRTRYMSWLIYTYSGLFCVAINPYKRLPVYTMKMVNFYRGKKKNEVPAHLYSIADNAYASI------------GESGAGKT 173
+                  9**************************************************************************986............******** PP
+
+  Myosin_head 100 eatKkvlqylasvseskee.....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyH 192
+                  e+tKkv+qy+a+v+ ++++     ++++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyH
+   asp3497.t1 174 ENTKKVIQYFAFVACTTTTkkdegKKEANLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYH 271
+                  *************987776678889999********************************************************************** PP
+
+  Myosin_head 193 iFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeekl 289
+                  iFYqlla + ++ +++l +e d+k+y +++q g lt+d +dd ee+k t++a+d+l+++ +e+ ++f+ + ai+h+Gn + k++++eeqa+++ +e+ 
+   asp3497.t1 272 IFYQLLAANYPKYHQDLLVEpDPKQYFFIAQ-GMLTIDNVDDGEEMKMTDEAFDILNFKPDEKINLFKCTGAIMHFGNSKWKQRPREEQAETDGTEEC 368
+                  *******************************.9***************************************************************** PP
+
+  Myosin_head 290 ekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifekn 380
+                  ek ++    + ++++    + + k+g+e+v+k +n+ q+ +a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+  
+   asp3497.t1 369 EKESRYSLKNLKTIRIRTENLSEKVGNEYVNKGQNKDQVINAIGALSKSIYSRCFQWLVDRVNETLDVKT-KRQHFIGVLDIAGFEIFDLK 458
+                  ***9999889999988888889999*********************************************.9****************853 PP
+
+  == domain 2  score: 374.3 bits;  conditional E-value: 1.2e-114
+  Myosin_head 377 feknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfe 473
+                   + n+FEqlciny+nE+Lqq+Fn+++++lEqeeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f 
+   asp3497.t1 518 VDSNGFEQLCINYTNERLQQFFNHHMFVLEQEEYKKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFG 614
+                  689*******************************************************9.9*****************************9******* PP
+
+  Myosin_head 474 ksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslae 568
+                  k++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k s   klla l+++  +         e+k+ k+kk+  ++t+++ ++e+l++
+   asp3497.t1 615 KPKPakNKAEAHFDLHHYAGTVSYSVTGWLEKNKDPINTTVATLFKGSAGnKLLAFLYQDIGE---------EDKSGKSKKSGGMQTISAAHREQLNK 703
+                  *9876678899***********************************987659********664.........4556677778899************* PP
+
+  Myosin_head 569 LmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldk 666
+                  Lm++l+st+ph+vRCi+pne k+ + ld +lv++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+il+++++++      da ka+ ailk++ l++
+   asp3497.t1 704 LMTNLKSTHPHFVRCIIPNEIKTGGILDPHLVMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILSPNAVPKG---FVDAIKASGAILKDIALSE 798
+                  ************************************************************************9777...89***************** PP
+
+  Myosin_head 667 eeykiGktKiFfr 679
+                  e yk+G+tK+Ff+
+   asp3497.t1 799 ELYKLGTTKVFFK 811
+                  ************8 PP
+
+>> asp4830.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   83.0   0.4   1.6e-26   2.2e-25       2      67 ..      88     153 ..      87     156 .. 0.98
+   2 !  734.3   1.8  1.4e-223  1.9e-222     115     679 .]     172     727 ..     155     727 .. 0.96
+   3 ?   -5.4   4.5       9.1   1.3e+02     507     561 ..     952    1006 ..     913    1075 .. 0.74
+
+  Alignments for each domain:
+  == domain 1  score: 83.0 bits;  conditional E-value: 1.6e-26
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPH 67 
+                  ed++ L++ln+as+l+nl++Ry+++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+p H
+   asp4830.t1  88 EDMADLTYLNDASILHNLRTRYMNWLIYTYSGLFCVTINPYKRLPVYTMKMVNFYRGKKKNEVPAH 153
+                  9***************************************************************99 PP
+
+  == domain 2  score: 734.3 bits;  conditional E-value: 1.4e-223
+  Myosin_head 115 skeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkle 212
+                   +e+ +++++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyHiFYqll++a ++ +ke+  e
+   asp4830.t1 172 AEERRRQSNLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYHIFYQLLSDAFPNYHKEMLTE 269
+                  44556889*******************************************************************************99999999888 PP
+
+  Myosin_head 213 .dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalvk 309
+                   d+k+y +++q g lt+d +dd+ee+k+t++a+dvl++++ee+ ++f+ +aai+h Gn + k++++eeqa+ + +e+ ek+++llg+++++l k l+k
+   asp4830.t1 270 pDPKQYFFIAQ-GMLTIDNVDDAEEMKATDEAFDVLNFKQEEKINLFKCTAAIMHWGNSKWKQRPREEQAEADGTEECEKVSHLLGIQSADLLKGLLK 366
+                  8**********.9************************************************************************************* PP
+
+  Myosin_head 310 rriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEq 407
+                  +rik+g+e+v+k +n+ q+++a+ al+k iy+r F+wlv+++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlciny+nE+Lqq+Fn+++++lEq
+   asp4830.t1 367 PRIKVGNEYVNKGQNKDQVTNAIGALSKSIYSRCFQWLVDRVNETLDVKT-KRQYFIGVLDIAGFEIFDYNGFEQLCINYTNERLQQFFNHHMFVLEQ 463
+                  **************************************************.9********************************************** PP
+
+  Myosin_head 408 eeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kkseakFiikHyAgkveYevegfle 502
+                  eeY++Egi+we+++fgld+qa+idLiek p+Gils+L+eec++pka+d+tf ekl+ ++ +kh++f k++   +k ea+F ++HyAg+v+Y+v+g+le
+   asp4830.t1 464 EEYTKEGIQWEMMNFGLDLQACIDLIEK-PMGILSILEEECIVPKASDKTFQEKLYAQHlGKHPNFGKPKPakNKAEAHFDLHHYAGTVSYSVTGWLE 560
+                  ***************************9.9*****************************9********9876678899******************** PP
+
+  Myosin_head 503 KnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldesl 599
+                  KnkD++n+++ +l+k+s+  kll+ l++++         +++ k+ k+kk  +++t++++++e+l++Lm++l++t+ph+vRCi+pne k+ + ld++l
+   asp4830.t1 561 KNKDPINTTVATLFKASTGnKLLSLLYQDMG--------EEDGKSGKAKKGGSMQTISATHREQLNKLMNNLKQTHPHFVRCIIPNEIKTGGILDAHL 650
+                  ***************9997589999999955........46677788888999********************************************* PP
+
+  Myosin_head 600 vleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                  v++ql+c+Gvlegiri+r+GfpnR+++ ef qrY+ila++++++      da ka+ ailk++ l ++ yk+G+tK+Ff+
+   asp4830.t1 651 VMHQLTCNGVLEGIRICRKGFPNRMMYPEFKQRYSILAPNAVPKG---FVDAIKATGAILKDIALGEDLYKLGNTKVFFK 727
+                  *****************************************9777...89*****************************8 PP
+
+  == domain 3  score: -5.4 bits;  conditional E-value: 9.1
+  Myosin_head  507 tlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgsk 561 
+                   +ln++  +++k+ k+kl ++l ++ee+ +++++++++ +k+k+k ++  k++ ++
+   asp4830.t1  952 KLNKEKSKAMKAVKSKLEQTLNESEENMEREKKARADLDKAKRKIESDLKSAQAQ 1006
+                   5677777777777777777777776664444444444444444444444444433 PP
+
+>> asp18366.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -3.5   0.8       2.5        34     504     573 ..     711     783 ..     703     790 .. 0.64
+   2 !  803.7  10.3  1.4e-244  1.9e-243      91     679 .]    1276    1856 ..    1247    1856 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: -3.5 bits;  conditional E-value: 2.5
+  Myosin_head 504 nkDtlnedlvellkkskkkllaelfkeeek...eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktl 573
+                  nk  l+ + +++l++  +++l++l ke ++   + + e ++ +k++ +k++ ++ + v ++  +++++L ++l
+  asp18366.t1 711 NKTELKLKETQILNSGLESILENLKKEINEsnkNYQVELNNLKKETIEKERLNNEIEVLKERLKQMESLNESL 783
+                  7888888888999999999999999888873323334444455555555555555555555555555555555 PP
+
+  == domain 2  score: 803.7 bits;  conditional E-value: 1.4e-244
+  Myosin_head   91 sGEsGAGKteatKkvlqylasvseskee....vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvv 182 
+                    GEsGAGKte+tKkv+qyla++++++++    ++ + +++++lq nPilEafGnAktv+n+nssRFGK+i+i+f+++g+iaga+i tYLLEksR +
+  asp18366.t1 1276 PGESGAGKTENTKKVIQYLAQIAAKTNKahkvKDITDLDNQLLQVNPILEAFGNAKTVKNDNSSRFGKFIRINFEQSGFIAGANIDTYLLEKSRAI 1371
+                   59**********************99987777777899********************************************************** PP
+
+  Myosin_head  183 kqaeeERnyHiFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeake 278 
+                   +qa++ER++HiFYqll gas++ek+e+ l+d ++y+y s+ g+++++g+dd+ee+k+t +a+++lg+s ee +++ r++a++l++Gn++fk+e++ 
+  asp18366.t1 1372 RQAKDERTFHIFYQLLCGASKKEKDEFMLDDLSSYKYFSN-GSVQIKGLDDAEEYKSTLSAMEILGMSPEEINSLKRTLAGLLQMGNLQFKQERQS 1466
+                   ****************************************.9****************************************************** PP
+
+  Myosin_head  279 eqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGF 374 
+                   +qa+  d++ ++ka++llg++++e++++l+++++k+g+++v+ka+n+eq+++a++a+akaiyer+F+w+v++inksl+++k++ +sfiG+LDiaGF
+  asp18366.t1 1467 DQATLPDNTVAQKACHLLGLNVMEFTRSLLTPKLKVGRDFVTKAQNKEQVEFAVEAIAKAIYERMFKWIVQRINKSLDRSKRQGASFIGILDIAGF 1562
+                   ************************************************************************************************ PP
+
+  Myosin_head  375 EifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekha 470 
+                   Eif+ nsFEqlciny+nEkLqqlFn+++++lEqeeY+rEg+ew++idfgld+q++idLiek ++Gils+Ldeecl+pkatd+t+++kl++++++++
+  asp18366.t1 1563 EIFQLNSFEQLCINYTNEKLQQLFNHTMFVLEQEEYKREGLEWKYIDFGLDLQPTIDLIEK-QMGILSILDEECLFPKATDRTYVDKLISAHSSSS 1657
+                   *************************************************************.6********************************* PP
+
+  Myosin_head  471 kfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkesl 566 
+                   kf k+++ ks+ +F i HyAgkv+Y+++++l+Kn+D+ln+++vell++s++++ +e++k++e          + +++++ kk +f+tvg+ +ke+l
+  asp18366.t1 1658 KFGKPSF-KSNYDFSIIHYAGKVDYSADQWLMKNMDPLNDNIVELLQASSDSFTREIWKDAEV------VGFAMSESSRPKKGMFRTVGQLYKEQL 1746
+                   *****96.999*************************************************775......44455667778889************* PP
+
+  Myosin_head  567 aeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkl 662 
+                   ++L++tl++tnp++vRCi+pn++k++ kld+ lvl+ql+c+Gvlegiri+r+GfpnR+ ++ef+qrY+il+++ +++      d kkave ++k +
+  asp18366.t1 1747 SKLLTTLRNTNPNFVRCIIPNHEKRSDKLDSLLVLDQLKCNGVLEGIRICRQGFPNRVPYQEFRQRYEILCPNVIPKG---FVDGKKAVELMIKFM 1839
+                   ***************************************************************************777...89************* PP
+
+  Myosin_head  663 eldkeeykiGktKiFfr 679 
+                   eld++ +kiG+tK+F+r
+  asp18366.t1 1840 ELDENLFKIGHTKLFLR 1856
+                   ***************98 PP
+
+>> asp9697.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  776.7  15.3  2.1e-236  2.9e-235       2     676 ..     398    1062 ..     397    1064 .. 0.96
+   2 ?   -3.0   0.8       1.8        25     536     578 ..    1730    1772 ..    1698    1801 .. 0.71
+   3 ?   -2.6   1.5       1.4        19     268     315 ..    2182    2231 ..    2089    2260 .. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 776.7 bits;  conditional E-value: 2.1e-236
+  Myosin_head    2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAG 97  
+                   +d++ L+ l+e s+l nlk Ry++++iYty+g +l++vnPyk  +iy+ +++++y+++    l PH+fai  +ay +ml+++++q i+isGEsGAG
+   asp9697.t1  398 DDMICLTDLTEGSLLWNLKARYENNQIYTYIGSILISVNPYKMFDIYNLNMVRKYENHLFGTLSPHLFAIGSTAYSKMLKENSDQVIVISGESGAG 493 
+                   8*********************************************************************************************** PP
+
+  Myosin_head   98 KteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHi 193 
+                   KteatK ++q+la+ + s +    +++ e+il++nP+lE+fGnAkt+rn+nssRFGKy+ei f k+g i+gaki++YLLEksR+v qa +ERnyH+
+   asp9697.t1  494 KTEATKLIMQFLAALNRSPT----NTITEQILEANPLLESFGNAKTIRNDNSSRFGKYLEIFF-KDGVITGAKISEYLLEKSRIVSQAFDERNYHV 584 
+                   ***************99888....69***********************************88.6899**************************** PP
+
+  Myosin_head  194 FYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkea...keeqavskde 286 
+                   FY+llag+see+k+++ l++ ++y yl+q++++++++ +d+e+f+++++a+d+lg+s+ eq++i++i+a++lh+Gni f+k++   ++e+ +++ e
+   asp9697.t1  585 FYELLAGLSEEHKQKYGLSNSNKYFYLNQGETVRIKSKEDKEDFHSLQSAIDILGFSKCEQETIYKILASVLHIGNIVFNKSQdlyNHESVEIECE 680 
+                   ********************************************************************************9985545666678888 PP
+
+  Myosin_head  287 eklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsF 382 
+                   ++++ ++ ll++++  l++ l+ ++ +t++e+v+++ln+ qa  arda+aka+y+rlF+wlv+k+n  ++k++ ek++ i +LDi+GFE f  n+F
+   asp9697.t1  681 TEMKWCSFLLCINKDCLRRNLTFKTTETKEEKVKTPLNMAQALDARDAIAKALYSRLFTWLVQKLNAIICKEN-EKRNSIAILDIFGFENFISNGF 775 
+                   899******************************************************************9999.99999***************** PP
+
+  Myosin_head  383 EqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekhakfeksrlk 478 
+                   Eqlciny+nE+Lq  Fn++++k+EqeeY +E+i+w++id+  dn+a+idLi kkp+Gi+ +Ld+e+ +pk+td +flek +  +++++ + k+r  
+   asp9697.t1  776 EQLCINYANETLQFYFNRHIFKQEQEEYLKENISWKTIDY-PDNRACIDLISKKPNGIIHILDDESSFPKTTDCSFLEKCHFVHGNSSLYGKPR-- 868 
+                   ****************************************.7***************************************************9.. PP
+
+  Myosin_head  479 kseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktle 574 
+                   +s+ +F i+HyAg+v Y+v++fl+Kn+D l  d+ve++ +s+++lla++fk+++ +++ + + s++ +   + k k+ tv++kf++sl++L+++++
+   asp9697.t1  869 MSTPEFSIRHYAGEVIYDVKNFLDKNRDLLRIDVVEMFINSENNLLAKMFKDVRDNTEMQRSMSKSGRF-ITMKPKTPTVAAKFHDSLNSLLDAMS 963 
+                   699*************************************************98766555555555554.45556889****************** PP
+
+  Myosin_head  575 stnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleld.keey 669 
+                   ++np +vRCikpn++k++++++ ++vleql  +G+le+irir+ Gfp R +f +f+++Y++l+ k+  +     ++ k+ +  il+kl+   k +y
+   asp9697.t1  964 KCNPWFVRCIKPNNSKEPMSFEIKIVLEQLCNTGMLETIRIRKLGFPIRYKFINFTSKYRVLMGKKPSN----IDTPKELSYFILSKLNPAyKTMY 1055
+                   ****************************************************************99644....4789999********8764889* PP
+
+  Myosin_head  670 kiGktKi 676 
+                   +iG +K+
+   asp9697.t1 1056 QIGLSKV 1062
+                   ****998 PP
+
+  == domain 2  score: -3.0 bits;  conditional E-value: 1.8
+  Myosin_head  536 kaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnp 578 
+                    +    ++  +++++k ++ +t++ k k+ l ++ ++l++t++
+   asp9697.t1 1730 IKGRGFAGGLNQRQTKDTNERTISNKVKDGLRKMCSSLNETDT 1772
+                   233344555677888888999*************999999875 PP
+
+  == domain 3  score: -2.6 bits;  conditional E-value: 1.4
+  Myosin_head  268 Gniefkkeakeeqavskdeeklekaaellgvdaee..lekalvkrriktg 315 
+                    n++fk+++ke++   +++++ ek+ +++ +d++   l++alv+r+ +  
+   asp9697.t1 2182 KNLKFKQQSKENKKNNNKRTHEEKVKKIIVTDETRkcLTRALVNRSTSIT 2231
+                   46777777777766666666667777777666543235666666665544 PP
+
+>> asp6302.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  753.4  21.1  2.4e-229  3.3e-228       2     679 .]      12     697 ..      11     697 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 753.4 bits;  conditional E-value: 2.4e-229
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGKt 99 
+                   d+v L +++ +++++nlk R++k++iYty+g+v+v+vnPyk+l+i+ +d +++ykg++  e pPHifaia+ ay+ m+++ ++ +i+isGEsG GKt
+   asp6302.t1  12 GDFVLLDQITIDEFMKNLKLRFEKNKIYTYIGEVVVSVNPYKQLDIFGNDYVREYKGREIFERPPHIFAIAEAAYKVMKRQVKDSCIVISGESGSGKT 109
+                  59999********************************************************************************************* PP
+
+  Myosin_head 100 eatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYql 197
+                  ea+K +l+y++ +++s+ +++ e+v++ +lqsn ilE fGnAkt rn+nssRFGKy++i fd kg+++g+k+ +YLLEksRvv+q+++ERn+H FY+l
+   asp6302.t1 110 EASKIILKYISEITNSSGKNDIEQVKNILLQSNVILECFGNAKTNRNDNSSRFGKYMDIIFDFKGDPIGGKLISYLLEKSRVVNQQTGERNFHSFYYL 207
+                  ************************************************************************************************** PP
+
+  Myosin_head 198 lagaseeekkelkle..dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqa.........vsk 284
+                  ++g se  ++e+ l+  d  +++yl+q+g+   +  dd+++f+ +++a+ + +++    k+i++++aa++ lGn++f++++k+ +          +s+
+   asp6302.t1 208 VHGGSEADLREYGLKasDGASFNYLNQGGSNLSNKPDDQKNFRLVNDAMRIANFEPALVKTIWQMIAAVILLGNVNFEENEKDLNNnsdesstkiKSS 305
+                  **************9778889*********************************************************99865443334444544444 PP
+
+  Myosin_head 285 deeklekaaellgvdaeelekalvkrriktg.kevvskalnveqakvardalakaiyerlFdwlvekinkslekkk......eekksfiGvLDiaGFE 375
+                  + e+++ +a+ll+++++el++al++r ++tg k+vv++  ++++a++arda+akaiy++lF+++ +k+n+ l+ k+      + k+++iGvLDi+GFE
+   asp6302.t1 306 SLENVKSIAKLLKINEMELKNALTSRLLATGrKDVVTTYHSTTEASYARDAFAKAIYDQLFSFIFSKVNEILDIKNtikanvNCKNTVIGVLDIYGFE 403
+                  5567999***********************967888999999****************************99988866666667899*********** PP
+
+  Myosin_head 376 ifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecl.lpkatdetfleklvkefekhakf 472
+                  if++n+FEq+ciny+nEkLqqlF+elvlk+EqeeY+rE+i+w++id+ ++n++i+dL+e+  +G++s++de++  + k +de +l++l k+ ++h++f
+   asp6302.t1 404 IFDTNGFEQFCINYCNEKLQQLFIELVLKQEQEEYQREKINWQHIDY-FNNKIICDLVEQPHKGMISIIDEASFsVGKVNDEILLDHLSKQLKEHKHF 500
+                  ***********************************************.************99*********99626789******************* PP
+
+  Myosin_head 473 eksrl......kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfke 564
+                  ++ ++        ++++F+i+HyAg+v+Y++++f++KnkD+l++d  +ll +s ++l++++++e +             ++ ++ +k++ tv+++fk+
+   asp6302.t1 501 TSRSTnlgdknLAMKTEFRISHYAGDVKYQIKNFIDKNKDSLYQDFKRLLYSSANPLIKSMWPEGA-------------QSVTEVTKRPLTVATRFKN 585
+                  988666899888999************************************************933.............4556667799********* PP
+
+  Myosin_head 565 slaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkl 662
+                  s+  L+++l++++p yvRCikpnekk++++ld+++v++q+ +lG+le++r+rraGf++R +fe+f+qrYk++++k++++    ++  +++v  +lk+l
+   asp6302.t1 586 SMIGLVQNLSTKDPFYVRCIKPNEKKSPNDLDSEKVKNQVFYLGLLENVRVRRAGFAYRLLFEKFLQRYKCISSKTWPNP--RRGRPQENVALVLKEL 681
+                  *****************************************************************************877..6899999********* PP
+
+  Myosin_head 663 eldkeeykiGktKiFfr 679
+                  +l+k ++k+G +K+F++
+   asp6302.t1 682 NLEK-DVKYGVSKVFIK 697
+                  **86.68********97 PP
+
+>> asp15858.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  667.6   0.9  2.1e-203  2.9e-202       1     679 []     182     878 ..     182     878 .. 0.93
+   2 ?   -4.0   0.1       3.5        47     600     629 ..     980    1012 ..     969    1020 .. 0.75
+   3 ?   -2.2   0.7         1        14     505     548 ..    1196    1239 ..    1147    1254 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 667.6 bits;  conditional E-value: 2.1e-203
+  Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGK 98 
+                  v+dl++L++ +e+s+++ l +R+ + +iYty+g +l+avnP+ +l iy+e+ +  ++++     pPHifa+ad  y++m++++ nq+++isGEsG GK
+  asp15858.t1 182 VDDLATLETFDEDSIVTQLFNRFVQGQIYTYIGDILLAVNPFTNLGIYNEEKL--FEER----EPPHIFALADFTYQAMMHSHANQCVIISGESGSGK 273
+                  69************************************************965..5554....49********************************* PP
+
+  Myosin_head  99 teatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYq 196
+                  te++  +lq l++     +    + +eekilq nP++EafGnAktv n+nssRFGKy+++ f  +g+++ga++++YLLEksRvv qa++ERn+HiFY+
+  asp15858.t1 274 TESANLLLQQLTILGRAPT----KCLEEKILQVNPLMEAFGNAKTVINDNSSRFGKYLDMVFTRNGRVVGAQLHEYLLEKSRVVSQAPGERNFHIFYY 367
+                  ***********98877666....589************************************************************************ PP
+
+  Myosin_head 197 llaga.seeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkea...keeqavskdeekle 290
+                  +++g+ s+ +k++++l++ ++y+yls+    + +++ + ++f ++++ ++++g++++e ++i++++a+ilhlGn++f++++   ++ +  ++++++l+
+  asp15858.t1 368 MYDGLvSDTQKRKYHLSHETKYKYLSE--VDSGQSVANRSKFYSIHHCFETIGFKSQEVNSIYSLLAGILHLGNLAFSQDEdvhSDGKCAVANKASLA 463
+                  ****73567889**************9..5677899******************************************987443455567888889** PP
+
+  Myosin_head 291 kaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkk..eekksfiGvLDiaGFEifeknsFEqlc 386
+                  ++a+l+gvd++el++al++ ++ t+ e+++ + ++++ + ard+++k +y rlF+w+v+kin  l+ ++  +e++  i +LDi+GFE f  nsFEqlc
+  asp15858.t1 464 IIAQLFGVDEKELQHALTQCSLVTRGETLIRPNSLQECQAARDSMSKGLYGRLFSWIVNKINLLLQPSEfdSEESASISLLDIFGFENFARNSFEQLC 561
+                  *****************************************************************988866788999********************* PP
+
+  Myosin_head 387 inyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekhakfeksrlkkseakF 484
+                  in +nE++q  Fn++v+  E +eYv+Eg++ ++++f +dn++++d+  +kp+G+l+lLdee+++pkatd t+++k++++ +    f k++   +e +F
+  asp15858.t1 562 INIANEQIQYYFNQHVFAWEMQEYVNEGVDGSEVTF-IDNRPVLDMFLAKPMGLLALLDEESRFPKATDATLVDKFHRNIKAFCYF-KPK--SNELTF 655
+                  ************************************.9***************************************999888877.454..5899** PP
+
+  Myosin_head 485 iikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek.................................eakaeakksekkkkkk 549
+                   ++HyAg+v+Y+++gfleKn D +  +++ ll++s+ +l+++lf++                                    ++ +  ++ ++kk+++
+  asp15858.t1 656 SVQHYAGQVQYDAKGFLEKNSDYVPPEIILLLQQSEISLIRSLFRSPLSktgehpspilsicnltyatmrtsasfdsldssiNKINYVRSPGSKKSNS 753
+                  ********************************************996657899*************************98874444555555555555 PP
+
+  Myosin_head 550 k.kkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkelek 646
+                  + +++ ++tv++ f+ sl +L++++ +  ph++RC++pn++k ++ +d+++v  qlr++Gvle+ rirr Gf++R++f ef++rY++l+  +  +l  
+  asp15858.t1 754 TsQSRAQATVATYFRYSLMDLLSKMVAGAPHFIRCLRPNKDKIPGFFDAETVGVQLRYTGVLETTRIRRLGFSHRVAFVEFLKRYSLLVLPAHSNL-- 849
+                  40555679********************************************************************************99997555.. PP
+
+  Myosin_head 647 lkedakkaveailkkleldkeeykiGktKiFfr 679
+                      +++ + +il+kl    +++kiGktK+F++
+  asp15858.t1 850 --VVSRDSCAEILQKLGF--QNWKIGKTKVFLK 878
+                  ..678999******9877..57*********97 PP
+
+  == domain 2  score: -4.0 bits;  conditional E-value: 3.5
+  Myosin_head  600 vleqlrclGvlegirirr...aGfpnRitfeef 629 
+                     +  ++ G++ +++i +   +G++ R +f+e+
+  asp15858.t1  980 RRRRTNYEGIMHSVKIIQsfwRGYTVRKIFREM 1012
+                   556678999**999998744469****999987 PP
+
+  == domain 3  score: -2.2 bits;  conditional E-value: 1
+  Myosin_head  505 kDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkk 548 
+                   + +++ +++++++k ++++l+++f+++ + +k+++++ ++++ k
+  asp15858.t1 1196 NSSVSLSTIHVITKNDDSVLNQIFPNALNLEKKSQDDRNNNRLK 1239
+                   55677788999999999999999999665333333333333333 PP
+
+>> asp10095.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  474.2  16.2  7.3e-145    1e-143       2     679 .]      79     790 ..      78     790 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 474.2 bits;  conditional E-value: 7.3e-145
+  Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikayk.gkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAGK 98 
+                  +dl+++ +++++s+l+ +k+++++++ Y y+g+vlva nP ++l+iy++++++ y+ +k ++  + H+f    + yr+  +++++  ++isGEsG GK
+  asp10095.t1  79 DDLSMIPVIDDKSLLSCFKSKFEARKYYSYVGEVLVAFNPRENLNIYTDEIMELYAkSKCRSSQDSHLFWTCSDIYRNAFERQKSHVMVISGESGSGK 176
+                  89*****************************************************625778999********************************** PP
+
+  Myosin_head  99 teatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYq 196
+                  te+ K+ ++y+a v+ ++e      ++++i ++  ilEafG A t+ n  s R  Ky++++++ +g+++gak++ ++LEksRv    ++ERn+ iFY+
+  asp10095.t1 177 TETFKHAVKYFARVTCKNE-----ILRNNINEALLILEAFGHAPTLYNSSSTRLAKYLDLRYNLSGELIGAKLHDFMLEKSRVTLEFPHERNFLIFYY 269
+                  ***************9998.....56666666777*************************************************************** PP
+
+  Myosin_head 197 llagaseeekkelkledvkdyayls.qsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqa...vskdeekle 290
+                  +lag+++++++++kl++++++++++  +g ++ +  + +e+f ++++ +   g+++e+ k++fr++a+++ l ++ef+k ++e++     +k+e+ l 
+  asp10095.t1 270 MLAGLDKNTLDAFKLSEIQKHRITTlPDGLTQYQHRQWNENFLNLRQKMLNFGFTDEDLKTLFRLLAVVILLCDVEFEKLENENNReicYVKNEKVLI 367
+                  *********************998734678889999999**************************************9987766543336788888** PP
+
+  Myosin_head 291 kaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkk...eekksfiGvLDiaGFEifeknsFEql 385
+                  k+aell+v   +l++ l++ +i+t +   + + ++e+a+  rd+lak+iy+rlF wl++ +n++++ ++   ++++  iGvLDi+GFE f+ ns Eql
+  asp10095.t1 368 KVAELLCVHPDDLTSVLISTNINTSTGSHAWPRSIEDANSNRDSLAKNIYARLFGWLLKTLNNNISDDSicqRQTAFSIGVLDIFGFEGFKLNSLEQL 465
+                  *****************************************************************9987665788889******************** PP
+
+  Myosin_head 386 cinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekhakfeksrlkkseak 483
+                  ++n +nE Lq++F +++++ +q  Y++Eg+++++++f  dn++++dL+ +kp+G++++L + c+ +k++d ++++k+++ f++h+ +  ++   +  +
+  asp10095.t1 466 MVNTTNEELQNTFYRHLFQYNQLTYQQEGLSYHQVNF-KDNRKTVDLLLEKPIGLFNVLKDSCKSAKSDDLSLVQKFNEYFGHHSDYVAHK--SHPGS 560
+                  *************************************.8*********999************************************8887..6999* PP
+
+  Myosin_head 484 FiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek......................................eakaeakkse 543
+                  F i+HyA kv+Y+ + fl+K ++ l+++++e+l++s + ++a++f+                                          +    +k ++
+  asp10095.t1 561 FSINHYAAKVKYNSKMFLSKAREILSKEALECLQRSGDCFVADIFSTLPApngsfsnvrvrvsnqpfkkflysqnqndnsatnrslvlAYDILNKINH 658
+                  ***********************************************98899**********************999999888877542222223333 PP
+
+  Myosin_head 544 kkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkel 641
+                   ++ + + + + +    +f  sl+e+++++e+ +p +++C+kpne+  ++++ +++vl+q r +G++e  r r+  ++ +  f+ fv+r++ la+++ 
+  asp10095.t1 659 LTSFNPDLTPTNANNILQFSASLSEIISKIENSKPVFIKCVKPNENSFSNQFVDNVVLKQTRESGLVEFARARKFNHSLKLDFSAFVKRFERLARHNG 756
+                  333444444455556689*******************************************************************************8 PP
+
+  Myosin_head 642 keleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                   +l   k +a++a+  il+++ +   +++iG  K+F+r
+  asp10095.t1 757 INL--EKLNARDACVRILQHTGI--RNFRIGLNKVFLR 790
+                  777..688999********9987..57*********98 PP
+
+>> asp17080.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  454.3   0.1  7.7e-139  1.1e-137       1     376 [.      60     465 ..      60     476 .. 0.96
+   2 ?   -1.0   0.5      0.43       5.9     502     574 ..    1297    1371 ..    1284    1378 .. 0.64
+   3 ?   -1.8   0.2      0.74        10     412     470 ..    2571    2639 ..    2474    2650 .. 0.57
+
+  Alignments for each domain:
+  == domain 1  score: 454.3 bits;  conditional E-value: 7.7e-139
+  Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklk.iysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGAG 97 
+                  v+d ++L++lnea++l+n++ Rykkd+iYty++++l+a+nPyk l  +ys+dvi+ y+gk+   l+PH+faiad+ yr+m++++ +qsi++sGEsGAG
+  asp17080.t1  60 VDDNCALMYLNEANLLQNIRIRYKKDTIYTYVANILIAINPYKDLSrLYSSDVIRSYQGKSLGVLQPHVFAIADKSYRDMKAHRLSQSIIVSGESGAG 157
+                  69*******************************************99*************************************************** PP
+
+  Myosin_head  98 KteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFY 195
+                  Kte++K++l+yl+   + k+    + +e ++ +snP+lEafGnAkt+rnnnssRFGK+ie++f++k ++ag+ +++YLLEksRv++q++eERnyHiFY
+  asp17080.t1 158 KTESAKYLLRYLTESYGVKS----GLIEARLNESNPLLEAFGNAKTTRNNNSSRFGKFIELHFNEKHRVAGGFVSHYLLEKSRVCFQSKEERNYHIFY 251
+                  ************98888776....89************************************************************************ PP
+
+  Myosin_head 196 qllagaseeekkelkledvkdyaylsqsgeltv...........................dgiddseefketkkaldvlglseeeqkeifrivaailh 266
+                  +l+aga+e+++++l l+++++++yl++ g+++                            + +dd+++f+e ++a+d +gls+e++++i+ +va +lh
+  asp17080.t1 252 RLCAGAPEKLRNDLLLSTPDNFNYLNR-GCTQYflsgpnekslpanrkskehslkgalqdPQLDDAKDFMECDRAMDHIGLSNEDKMNIYLTVALVLH 348
+                  **************************9.5665558*************************9************************************* PP
+
+  Myosin_head 267 lGniefkkeakeeqa....vskdeeklekaaellgvdaeelekalvkrriktg.....kevvskalnveqakvardalakaiyerlFdwlvekinksl 355
+                  +Gnief+++++ +++    + + +++l+ +a++lg+da+elekalv+r ++++      +v++++l+v +a++ardalakaiy +lFd +v+ +nk++
+  asp17080.t1 349 IGNIEFEEDPDSSKGgcrvSGRGRQALQVCAKMLGLDASELEKALVSRVMQAHrggrlGTVIMVPLKVGEAQNARDALAKAIYVKLFDQIVSYVNKAI 446
+                  *********99888767655667778**************************98999999************************************** PP
+
+  Myosin_head 356 ekkkeekksfiGvLDiaGFEi 376
+                    ++  ++sfiG+LDiaGF +
+  asp17080.t1 447 PFST--SASFIGLLDIAGFGV 465
+                  **99..9************54 PP
+
+  == domain 2  score: -1.0 bits;  conditional E-value: 0.43
+  Myosin_head  502 eKnkDtlnedlvellkkskk..kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktle 574 
+                    Kn D +++++ ++  +  k  + l ++++e++k+a  ++++++ +k +  ++k + +  s+  +s+++L+++l+
+  asp17080.t1 1297 IKNGDIISSQIERVNVDNIKetSNLLKILDEVTKQAVDQKERASGQKDAPYSQKDTPSNVSTQSNSVENLIDQLR 1371
+                   489999988877664433221366788999988876666655555555554444554545555799999999997 PP
+
+  == domain 3  score: -1.8 bits;  conditional E-value: 0.74
+  Myosin_head  412 rEgiewefidfgldnq...aiidLiek......kplGilslLdeecllpka.tdetfleklvkefekha 470 
+                   +E i+w+ +d  +d+    + +d i k      +++ i++ L+e +++ +a  d+ f +k +++ +k +
+  asp17080.t1 2571 KETINWKIMDQMYDSPeklQKVDTIKKfinglkEEKPIMDKLNEPSKVFDAfIDKAFSDKCKERLKKAN 2639
+                   455555555444433200112232222111122233455555555555444445555555555555555 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (679 nodes)
+Target sequences:                        288  (415501 residues searched)
+Passed MSV filter:                        74  (0.256944); expected 5.8 (0.02)
+Passed bias filter:                       21  (0.0729167); expected 5.8 (0.02)
+Passed Vit filter:                        21  (0.0729167); expected 0.3 (0.001)
+Passed Fwd filter:                        21  (0.0729167); expected 0.0 (1e-05)
+Initial search space (Z):                288  [actual number of targets]
+Domain search space  (domZ):              21  [number of targets reported over threshold]
+# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.27
+# Mc/sec: 1033.18
+//
+[ok]

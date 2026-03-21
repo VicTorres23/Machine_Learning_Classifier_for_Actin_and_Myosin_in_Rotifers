@@ -1,0 +1,1653 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  PF00063.hmm
+# target sequence database:        Predicted_Myosins.fasta
+# per-seq hits tabular output:     pfam_outputs/pf00063_hits.tbl
+# per-dom hits tabular output:     pfam_outputs/pf00063_domtblout.tbl
+# sequence reporting threshold:    E-value <= 1e-05
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       Myosin_head  [M=679]
+Accession:   PF00063.28
+Description: Myosin head (motor domain)
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence        Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------        -----------
+   4.9e-296  980.8   3.0   4.9e-296  980.8   3.0    3.8  1  pv_moon1924.t1   
+   4.6e-291  964.4  10.6   3.4e-222  736.8   1.6    4.4  2  pv_moon7712.t1   
+   1.7e-273  906.3   2.8   1.7e-273  906.3   2.8    2.9  1  pv_moon7715.t1   
+   2.4e-273  905.8   7.2   2.4e-273  905.8   7.2    3.2  2  pv_moon7713.t1   
+   3.5e-270  895.4   0.9   3.5e-270  895.4   0.9    4.6  3  pv_moon7717.t1   
+   1.1e-269  893.7   6.2   1.1e-269  893.7   6.2    3.6  3  pv_moon7589.t1   
+   3.8e-268  888.7  22.9   3.8e-268  888.7  22.9    3.8  3  pv_moon417.t1    
+   1.6e-267  886.6   3.8   1.6e-267  886.6   3.8    2.6  2  pv_moon3874.t1   
+   1.4e-266  883.5   3.0   1.4e-266  883.5   3.0    2.3  1  pv_moon7209.t1   
+   1.1e-265  880.5   4.9   1.1e-265  880.5   4.9    4.0  4  pv_moon4286.t1   
+   1.7e-265  879.9   3.6   1.7e-265  879.9   3.6    2.3  2  pv_moon4389.t1   
+     2e-265  879.7   3.5     2e-265  879.7   3.5    1.7  1  pv_moon4391.t1   
+   2.7e-265  879.2   6.8   3.1e-265  879.0   6.8    1.0  1  pv_moon11469.t1  
+   1.7e-264  876.6   5.7   1.7e-264  876.6   5.7    3.7  3  pv_moon4285.t1   
+     2e-264  876.3   8.4     2e-264  876.3   8.4    2.0  1  pv_moon7587.t1   
+   3.1e-264  875.7   3.8   3.1e-264  875.7   3.8    4.2  3  pv_moon1296.t1   
+     1e-261  867.4   5.6   1.6e-261  866.7   5.6    1.3  1  pv_moon15015.t1  
+     1e-261  867.4   5.6   1.6e-261  866.7   5.6    1.3  1  pv_moon8717.t1   
+   1.2e-247  820.8  13.3   2.5e-247  819.9  13.3    1.5  1  pv_moon2026.t1   
+   1.6e-245  813.9  18.3   2.9e-245  813.0  18.3    1.4  1  pv_moon6487.t1   
+   1.7e-232  770.8   6.4   1.7e-232  770.8   6.4    2.0  1  pv_moon16476.t1  
+   7.3e-227  752.2  18.3   8.4e-227  752.0  18.3    1.0  1  pv_moon10494.t1  
+   1.9e-226  750.8  16.5   1.9e-226  750.8  16.5    2.1  2  pv_moon14912.t1  
+   2.8e-225  747.0  28.6   4.3e-225  746.3  28.6    1.3  1  pv_moon18315.t1  
+   4.5e-198  657.1  33.8   5.6e-198  656.7  33.8    1.1  1  pv_moon5603.t1   
+   6.5e-186  616.9  35.9   1.3e-169  563.0  23.2    3.4  3  pv_moon6310.t1   
+   2.5e-184  611.7  22.1   1.6e-118  394.2   5.6    3.0  3  pv_moon13982.t1  
+   7.4e-152  504.3  26.7   7.4e-152  504.3  26.7    2.5  1  pv_moon7184.t1   
+   1.4e-144  480.2   1.4   1.4e-144  480.2   1.4    4.2  4  pv_moon8107.t1   
+      9e-81  269.4  17.1      9e-81  269.4  17.1    2.7  1  pv_moon8431.t1   
+
+
+Domain annotation for each sequence (and alignments):
+>> pv_moon1924.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  980.8   3.0  5.2e-298  4.9e-296       1     679 []     126     858 ..     126     858 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 980.8 bits;  conditional E-value: 5.2e-298
+     Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                     ved++eL++lneasvl nlk+Ry++ liYtysgl++v+vnPyk+l+iy+e++i+ ykgkk++e+pPH++aiad+ayrsml+++e+qsil++GEsG
+  pv_moon1924.t1 126 VEDMAELTCLNEASVLYNLKDRYYSGLIYTYSGLFCVVVNPYKNLPIYTEKIIDLYKGKKRHEMPPHVYAIADKAYRSMLTEREDQSILCTGESG 220
+                     69********************************************************************************************* PP
+
+     Myosin_head  96 AGKteatKkvlqylasvseskee.......................................vekeeveekilqsnPilEafGnAktvrnnnssR 151
+                     AGKte+tKkv+qyla v+++ ++                                       +  +e+e ++lq+nPilEafGnAktv+n+nssR
+  pv_moon1924.t1 221 AGKTENTKKVIQYLAHVAAKMNKtsshirdalnsnialispsastgglffsenspfqsaagaFLCGELEAQLLQANPILEAFGNAKTVKNDNSSR 315
+                     *******************99999************************************998889***************************** PP
+
+     Myosin_head 152 FGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldv 246
+                     FGK+i+i+fd++g+iaga+ietYLLEksR ++qa++ER++HiFYqll ga+++e+ ++ led+k+y+yls+ + + ++gid++ee+++t ka+++
+  pv_moon1924.t1 316 FGKFIRINFDQSGFIAGANIETYLLEKSRAIRQAKDERTFHIFYQLLRGATPKERVDYLLEDMKSYHYLSN-TYVPIQGIDEVEEYNNTIKAMHI 409
+                     ***********************************************************************.89********************* PP
+
+     Myosin_head 247 lglseeeqkeifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiye 341
+                     +g+++e+  +i r+v+++l++Gn++fk+e++++qa+  d++ ++k+++l+g+++ +++++l+k+++k+g+++v+ka+n+eq+++a++a+akaiye
+  pv_moon1924.t1 410 MGINNEDIISIVRTVSGVLQMGNLQFKQERSNDQATLPDNTVAQKVCHLFGLNVLDFTRSLLKPKLKVGRDFVTKAQNKEQVEFAVEAIAKAIYE 504
+                     *********************************************************************************************** PP
+
+     Myosin_head 342 rlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekk 436
+                     r+F+w+v++inksl+++k++ +sfiG+LDiaGFEif+ nsFEqlciny+nEkLqqlFn+++++lEqeeY+rEg+ew++idfgld+q++idLiek 
+  pv_moon1924.t1 505 RMFKWIVQRINKSLDRSKRQGASFIGILDIAGFEIFQLNSFEQLCINYTNEKLQQLFNHTMFVLEQEEYKREGLEWKYIDFGLDLQPTIDLIEK- 598
+                     **********************************************************************************************. PP
+
+     Myosin_head 437 plGilslLdeecllpkatdetfleklvkefekhakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkee 531
+                     +lGilslLdeecl+pkatd+t+ +kl+ +++ h+kf k+++ ks+ +F i HyAgkv+Y+++++l+Kn+D+ln+++v+ll++s++++ +e++k++
+  pv_moon1924.t1 599 QLGILSLLDEECLFPKATDKTYCDKLIASHSLHPKFGKPSF-KSSYDFSILHYAGKVDYSADQWLMKNMDPLNDNIVALLQASSDSFTREIWKDV 692
+                     6**************************************96.9999************************************************9 PP
+
+     Myosin_head 532 ek.....................eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlr 605
+                      +                      a +e +++++  ++++kk +f+tvg+ +ke+l++Lm+tl++tnp++vRCi+pn++kka+k+d+ lvl+qlr
+  pv_moon1924.t1 693 IIwgitprhitrslvpdfteivgMAVTEGSDNSTFGTQRTKKGMFRTVGQLYKEQLSKLMSTLRNTNPNFVRCIIPNHEKKAGKIDSPLVLDQLR 787
+                     889****************99877777777788888999999***************************************************** PP
+
+     Myosin_head 606 clGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                     c+Gvlegiri+r+GfpnRi f+ef+qrY+il+++ +++     +dak a+e+++k+leld++ y++G++K+Ffr
+  pv_moon1924.t1 788 CNGVLEGIRICRQGFPNRIPFQEFRQRYEILCPNVIPKG---FMDAKLACEKMIKDLELDENLYRVGQSKLFFR 858
+                     ************************************777...8******************************8 PP
+
+>> pv_moon7712.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  242.7   2.0   1.2e-74   1.1e-72       2     152 ..      88     244 ..      87     246 .. 0.98
+   2 !  736.8   1.6  3.6e-224  3.4e-222     120     679 .]     247     799 ..     245     799 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 242.7 bits;  conditional E-value: 1.2e-74
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     ed++ L++ln+a+vl+nl++Ry+++liYtysgl++va+nPyk+l++y+ ++++ y+gkkk+e+pPH++ iad+ay+sm +d+enqs+li+GEsGA
+  pv_moon7712.t1  88 EDMADLTYLNDATVLHNLRSRYMDWLIYTYSGLFCVAINPYKRLPVYTLQMVNYYRGKKKTEVPPHLYYIADNAYQSMIRDRENQSMLITGESGA 182
+                     9********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee......vekeeveekilqsnPilEafGnAktvrnnnssRF 152
+                     GKte+tKkv+qy+a+v++s+ +      v+++++e++i+ +nP+lEa+GnAkt+rnnnssRF
+  pv_moon7712.t1 183 GKTENTKKVIQYFAFVAASSVSkkeettVKQANLEDQIVSANPVLEAYGNAKTTRNNNSSRF 244
+                     ****************9988777788999999*****************************9 PP
+
+  == domain 2  score: 736.8 bits;  conditional E-value: 3.6e-224
+     Myosin_head 120 ekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkle.d 213
+                     +k+++e++i+qsnP+lEafGnAktvrnnnssRFGK+i+i+f  +gkiaga+ie+YLLEksRv +q+++ERnyHiFYqll+ a ++ +kel +e d
+  pv_moon7712.t1 247 KKQNLEDQIVQSNPVLEAFGNAKTVRNNNSSRFGKFIRIHFGPTGKIAGADIESYLLEKSRVTFQQPAERNYHIFYQLLSPAFPQYHKELLVEqD 341
+                     6789****************************************************************************************999 PP
+
+     Myosin_head 214 vkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalv 308
+                     +k y ++sq g lt+dg+dd+ee+k t++a+d+l++++ee+ ++f+ +aai+h Gn + k++++e+qa+ + +e+ ek++ llgv++++l k l+
+  pv_moon7712.t1 342 PKLYFFISQ-GMLTIDGVDDAEEMKLTDEAFDILNFKQEEKLNLFKCTAAIMHWGNAKWKQRPREDQAEADGTEENEKVSYLLGVETSDLIKGLL 435
+                     *********.9************************************************************************************ PP
+
+     Myosin_head 309 krriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvl 403
+                     k+rik+g+e+v+k +n+ q+ +a+ al+k iy+r F+wlve++n++l++k+ ++++fiGvLDiaGFEif+ n+FEqlciny+nE+Lqq+Fn++++
+  pv_moon7712.t1 436 KPRIKVGNEYVNKGQNKDQVINAIGALSKSIYSRCFNWLVERVNQTLDVKT-KRQYFIGVLDIAGFEIFDYNGFEQLCINYTNERLQQFFNHHMF 529
+                     ***************************************************.9****************************************** PP
+
+     Myosin_head 404 klEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.ekhakfeksrl..kkseakFiikHyAgkveY 495
+                     +lEqeeY++Egi we+++fg+d+qa+idLiek p+Gi+s+L+eec++pka+d+tf ekl++++ +kh++f k++   +k ea+F ++HyAg+v+Y
+  pv_moon7712.t1 530 VLEQEEYAKEGIVWEMMNFGMDLQACIDLIEK-PMGIMSILEEECIVPKASDKTFQEKLYNNHlGKHPNFGKPKPskNKAEAHFDLHHYAGTVSY 623
+                     *******************************9.9*****************************9*******99875578899************* PP
+
+     Myosin_head 496 evegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnek 589
+                     +v+g+leKnkD++n+++ +l+k skk  ll +l++++ +       +++kk+ k+kk   ++t++s ++e+l++Lm+tl+st+ph+vRCi+pne 
+  pv_moon7712.t1 624 SVTGWLEKNKDPINTTVAALFKGSKKnALLGHLYQDMGE-------DDDKKSGKAKKGGGMQTISSGHREQLNKLMTTLKSTHPHFVRCIIPNEI 711
+                     ************************9868999*****664.......667777888888999********************************** PP
+
+     Myosin_head 590 kkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                     k+ + ld +lv++ql+c+Gvlegiri+r+GfpnR++++ef qrY+ila+++++++     da+ka+ ailk++ l++e y++G+tK+Ff+
+  pv_moon7712.t1 712 KTGGVLDPHLVMHQLHCNGVLEGIRICRKGFPNRMIYAEFKQRYSILAPNAVPNT--GFIDATKATGAILKEIALNEELYRLGTTKVFFK 799
+                     ***************************************************9888..689*****************************8 PP
+
+>> pv_moon7715.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  906.3   2.8  1.8e-275  1.7e-273       2     679 .]      90     763 ..      89     763 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 906.3 bits;  conditional E-value: 1.8e-275
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ +++ln+a+vl+nl++Ryk++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+pPH++ +ad+ay+sml+d+enqs+li+GEsGA
+  pv_moon7715.t1  90 DDMADMTYLNDATVLHNLRSRYKDWLIYTYSGLFCVVINPYKRLPVYTMKMVHYYRGKKKNEVPPHLYYVADNAYQSMLKDRENQSMLITGESGA 184
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee........vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvk 183
+                     GKte+tKkv+qy+a+v+   +         ++k ++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f+++g iaga+ie+YLLEksRv +
+  pv_moon7715.t1 185 GKTENTKKVIQYFAFVALAVAPkkqqqvedANKPSLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFSSNGAIAGADIESYLLEKSRVTF 279
+                     **************997554444556788888999************************************************************ PP
+
+     Myosin_head 184 qaeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                     q+++ERnyHiFYqlla + ++ + +l +  d+k+y y+sq g lt+d ++d+ee+k+t++a+dvl++s++e+ ++f+++ ai+h Gn + k++++
+  pv_moon7715.t1 280 QQPAERNYHIFYQLLAPKYPKYHADLLIVpDAKNYYYISQ-GVLTIDNVNDAEEMKATDEAFDVLNFSKDEKLNLFKLTGAIMHWGNSKWKQRPR 373
+                     ******************999999998888**********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+ + +++++k+a+llgv+  el k l+k+rik+g+e+v+  +n+ q+++a+ al+k iy+r F wlv+++n++l++k+ ++++fiGvLDia
+  pv_moon7715.t1 374 EEQAEADGTDEINKVATLLGVNIDELLKGLLKPRIKVGNEFVNRGQNKDQVTNAIGALSKSIYSRCFGWLVDRVNQTLDVKTVKRAYFIGVLDIA 468
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFEif+ n+FEqlciny+nEkLqq+Fn+++++lEqeeY++Egi we+++fg+d+q +idLiek plGi+s+L+eec++pk+td+tf +kl+ ++ 
+  pv_moon7715.t1 469 GFEIFDYNGFEQLCINYTNEKLQQFFNHHMFVLEQEEYAKEGIVWEMMNFGMDLQGCIDLIEK-PLGIMSILEEECIVPKGTDKTFQDKLYANHl 562
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                     +k+++f k++    k+ea+F ++HyAg+v+Y+v+g+leKn+D++n ++ +l+k+sk++lla l+++  +         +++k+ k+kk + +t++
+  pv_moon7715.t1 563 GKNPSFGKPKPqrGKTEAHFDLHHYAGTVSYSVTGWLEKNRDPINITVATLFKSSKNSLLALLYQDIGE---------DDTKSGKAKKGSLMTIS 648
+                     *******998744677899***********************************************664.........5667788888899**** PP
+
+     Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakka 654
+                     + ++e+l +Lm+tl+ t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+GfpnR ++++f +rY+ila+++ k++       k++
+  pv_moon7715.t1 649 AGHREQLYKLMNTLKMTSPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPNRLLYSDFKHRYSILAPNASKST-----VLKDV 738
+                     *********************************************************************************8555.....78899 PP
+
+     Myosin_head 655 veailkkleldkeeykiGktKiFfr 679
+                     +++ilk+++  +++y++GktKiFf+
+  pv_moon7715.t1 739 ASTILKEVNFPDDNYRLGKTKIFFK 763
+                     9***********************8 PP
+
+>> pv_moon7713.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  905.8   7.2  2.6e-275  2.4e-273       2     679 .]      90     767 ..      89     767 .. 0.97
+   2 ?   -1.8   9.0       1.1     1e+02     516     605 ..    1212    1294 ..    1181    1298 .. 0.66
+
+  Alignments for each domain:
+  == domain 1  score: 905.8 bits;  conditional E-value: 2.6e-275
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ +++ln+a+vl+nl++Ryk++liYtysgl++v++nPyk+l++y+ ++++ y+gkkk+e+pPH++ +ad+ay+sml+d+enqs+li+GEsGA
+  pv_moon7713.t1  90 DDMADMTYLNDATVLHNLRSRYKDWLIYTYSGLFCVVINPYKRLPVYTMKMVHYYRGKKKNEVPPHLYYVADNAYQSMLKDRENQSMLITGESGA 184
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee........vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvk 183
+                     GKte+tKkv+qy+a+v+   +         ++k ++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f+++g iaga+ie+YLLEksRv +
+  pv_moon7713.t1 185 GKTENTKKVIQYFAFVALAVAPkkqqqvedANKPSLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFSSNGAIAGADIESYLLEKSRVTF 279
+                     **************997554444556788888999************************************************************ PP
+
+     Myosin_head 184 qaeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                     q+++ERnyHiFYqll+ + ++ +k++ +e d+k+y +++q g lt+d +dd+ee++ t++a+d+l++s++e+ ++f+++aai+h Gn + k++++
+  pv_moon7713.t1 280 QQPAERNYHIFYQLLDKNFPKYHKDMLVEpDPKEYFFTNQ-GVLTIDNVDDAEEMRVTDEAFDILNFSKDEKLNLFKLTAAIMHWGNSKWKQRPR 373
+                     *****************9999999999999**********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+ +++e+lek++ l+gv + el k l+k+rik+g+e+v+k +n+ q+ +++ al+k iy+r F+wlv+++n++l++k+ +++ fiGvLDia
+  pv_moon7713.t1 374 EEQAEADSTEELEKVSLLVGVHVDELLKGLLKPRIKVGNEYVNKGQNKDQVINSIGALSKSIYSRSFNWLVDRVNETLDVKTVKRSFFIGVLDIA 468
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFEif+ n+FEqlciny+nE+Lqq+Fn+++++lEqeeY++Egi we+++fg+d+qa+idLiek plGi+s+L+eec++pka+d+tf ekl+ ++ 
+  pv_moon7713.t1 469 GFEIFDYNGFEQLCINYTNERLQQFFNHHMFVLEQEEYTKEGIVWEMMNFGMDLQACIDLIEK-PLGIMSILEEECIVPKASDKTFQEKLYANHl 562
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                     +kh++f k++l   k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ + +k+s+++ll+ l++++         ++++k+ k+kk  +++t++
+  pv_moon7713.t1 563 GKHSNFGKPKLikGKPEAHFDLHHYAGTVSYSVTGWLEKNKDPINTTVATSFKTSSNQLLSLLYQDMG--------DDDAKSGKAKKGGSMMTIS 649
+                     *********996667789************************************************55........46677788889999***** PP
+
+     Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakka 654
+                     + ++e+l++Lm+tl+ t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+GfpnR ++++f +rY+ila+ ++++      + +ka
+  pv_moon7713.t1 650 AGHREQLNKLMNTLKMTSPHFVRCIIPNEIKTGGIIDAHLVMHQLHCNGVLEGIRICRKGFPNRLLYNDFKHRYSILAAYAANQP--SDPTGNKA 742
+                     ********************************************************************************98555..67788999 PP
+
+     Myosin_head 655 veailkkleldkeeykiGktKiFfr 679
+                     + ailk+++ ++++y++G+tK+Ff+
+  pv_moon7713.t1 743 TAAILKEINFQEDNYRLGHTKVFFK 767
+                     ************************8 PP
+
+  == domain 2  score: -1.8 bits;  conditional E-value: 1.1
+     Myosin_head  516 lkkskkkllaelfkeeekeakaeakkse.kkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlr 605 
+                      l+k ++kl +e       + k+e ++++ +++ ++k+k++ + ++++  ++l+eLm++l + + +    i  n+ k++ + ++s  l+q++
+  pv_moon7713.t1 1212 LQKIRSKLEKEK-----LQVKSELEENKlQHELTTKSKANVEKLAKQLEQQLQELMSKLDDSHRQI---IELNSLKNKIQNENSALLKQIE 1294
+                      333333322222.....23344444444144455666778899*****************999864...6789999999999999999986 PP
+
+>> pv_moon7717.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  895.4   0.9  3.7e-272  3.5e-270       2     679 .]      90     768 ..      89     768 .. 0.97
+   2 ?   -4.2   5.1       5.7   5.4e+02     240     306 ..    1187    1255 ..    1147    1290 .. 0.56
+   3 ?   -2.8   0.6       2.2   2.1e+02     517     558 ..    1391    1432 ..    1322    1504 .. 0.48
+
+  Alignments for each domain:
+  == domain 1  score: 895.4 bits;  conditional E-value: 3.7e-272
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     ed++ L++ln+a++l+nl++Ry ++ iYtysgl++va+nPyk+l++y+ ++++ y+gkkk+e+pPH++ +ad+ay  m++d+enqs+li+GEsGA
+  pv_moon7717.t1  90 EDMADLTYLNDATILHNLRQRYISWYIYTYSGLFCVAINPYKRLPVYTMKMVHFYRGKKKNEVPPHLYLVADNAYSCMMRDRENQSMLITGESGA 184
+                     9********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++ ++        ++k ++ee+i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f+++  iaga+ie+YLLEksR+ +q
+  pv_moon7717.t1 185 GKTENTKKVIQYFAFVAAANAPkkqqaevSNKPSLEEQIVSTNPVLEAYGNAKTTRNNNSSRFGKFIRIHFSNTFAIAGADIESYLLEKSRITFQ 279
+                     ****************998887788999888899************************************************************* PP
+
+     Myosin_head 185 aeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeake 278
+                      + ERnyHiFYql + a +++ kel+le d+ +y ++sq g l++dg+dd +e+k+tkka+d+l +s+eeq+++fr +aa+   Gn + k++++e
+  pv_moon7717.t1 280 LPIERNYHIFYQLTSAAFPDLCKELTLEqDPGKYFFISQ-GVLSIDGVDDCQEMKDTKKAFDTLMFSQEEQMQLFRCTAAVAIWGNSKWKQKPRE 373
+                     ****************************99*********.9****************************************************** PP
+
+     Myosin_head 279 eqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaG 373
+                     eqa+ + +++ ek+a+llg+++ +l k l+k+rik+g+e+v+k +n  q+++++ al+ka+y+r F wlv+k+n++l++k+ +++++iGvLDiaG
+  pv_moon7717.t1 374 EQAEADGTDECEKVANLLGISCDDLLKGLLKPRIKVGNEFVNKGQNQAQVTNSVGALSKAMYSRCFVWLVDKCNETLDVKTIKRQYYIGVLDIAG 468
+                     *********************************************************************************************** PP
+
+     Myosin_head 374 FEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.e 467
+                     FE+f+ n+FEqlciny+nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLiek p+Gi+s+L+eec++pkatd+tf ekl+ ++ +
+  pv_moon7717.t1 469 FETFDYNGFEQLCINYTNERLQQFFNNFMFVLEQEEYKKEGIVWEMMSFGADLQATIDLIEK-PMGIMSILEEECIVPKATDKTFQEKLYAQHlG 562
+                     *************************************************************9.9*****************************9* PP
+
+     Myosin_head 468 khakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                     kh++f k++    k ea+F ++HyAg+v+Y+v+g+leKnkD++n+++ +l+k sk   lla+lf++         ++++ +  kk k+ +++t++
+  pv_moon7717.t1 563 KHPSFGKPKPqkGKPEAHFDLHHYAGTVSYSVTGWLEKNKDPINTTVAALFKGSKGnALLASLFQDIGA------EEEKGAGGKKGKSGSQQTIS 651
+                     ******99874356689*************************************97689*******654......5566677788889999**** PP
+
+     Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakka 654
+                     s ++e+l++Lmktl st+ph+vRCi+pne k+ + ld++lv++ql+c+Gvlegiri+r+Gfp+R +++ef+qrY+il++ ++k +   +++ +ka
+  pv_moon7717.t1 652 SGHREQLSKLMKTLGSTHPHFVRCIIPNEIKTGGILDAHLVMHQLHCNGVLEGIRICRKGFPSRLIYSEFIQRYSILSPVAVKAH---EKEPNKA 743
+                     *********************************************************************************9555...899999* PP
+
+     Myosin_head 655 veailkkleldkeeykiGktKiFfr 679
+                     + +ilk++ ld+e +++G tK+ f+
+  pv_moon7717.t1 744 TAEILKDIALDSELFRLGITKVLFK 768
+                     **********************997 PP
+
+  == domain 2  score: -4.2 bits;  conditional E-value: 5.7
+     Myosin_head  240 tkkaldvlglseeeqkeifrivaai..lhlGniefkkeakeeqavskdeek.lekaaellgvdaeeleka 306 
+                      t++  + + l +++q+ + +++  i  l+  +i+++ke+++++++ ++ ++ +e++++  + ++  l+k 
+  pv_moon7717.t1 1187 TQHEATAVQLRKKHQEAVSELTQQIdlLQKAKIKLEKEKQQSKSEAEEAKSqIENFSK-AKANSDRLAKQ 1255
+                      4444445555555555555555544223333444444444443333333221333322.22333333333 PP
+
+  == domain 3  score: -2.8 bits;  conditional E-value: 2.2
+     Myosin_head  517 kkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558 
+                      +++k+kl ++l + ee+ ++a  k s+ +k+k++ +++++ +
+  pv_moon7717.t1 1391 EEAKRKLASKLAEAEEQVNQAVVKCSSLEKTKQRLQTEMEEL 1432
+                      444444444444443332222222222111111111111111 PP
+
+>> pv_moon7589.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  893.7   6.2  1.2e-271  1.1e-269       2     679 .]      90     773 ..      89     773 .. 0.97
+   2 ?   -4.1   3.0       5.6   5.3e+02     288     342 ..    1206    1266 ..    1187    1288 .. 0.48
+   3 ?   -4.2   1.9       5.9   5.5e+02     313     313 ..    1630    1630 ..    1534    1698 .. 0.52
+
+  Alignments for each domain:
+  == domain 1  score: 893.7 bits;  conditional E-value: 1.2e-271
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v+vnP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon7589.t1  90 DDMADLTYLNDATVLHNLRERYISWYIYTYSGLFCVTVNPFRRLPVYTMKMVHYYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 184
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f++++ iaga+ie+YLLEksR+ +q
+  pv_moon7589.t1 185 GKTENTKKVIQYFAFVAAGVTGkkvavedANKPTLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFSSNYGIAGADIESYLLEKSRITYQ 279
+                     ****************98776667889888999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeake 278
+                      ++ERnyHiFYql++ a +++ kel +e d+ +y++++q g l++d +dd++e+k+tkka+d+l ++ee+q ++f+i+aa++h Gn + k++++e
+  pv_moon7589.t1 280 MPAERNYHIFYQLCSKAFPDMCKELCIEhDPGKYSFINQ-GMLKIDNVDDEQEMKDTKKAFDILLFTEEQQLDLFKITAAVMHWGNQKWKQKPRE 373
+                     ****************************9**********.9****************************************************** PP
+
+     Myosin_head 279 eqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaG 373
+                     eqa+ + +e+++k+++llg++  ++ + l+k++ik+g+e+v+k +n  q+++a  al+ka+y+r F+w+v+k+n++l++k+ ++++fiGvLDiaG
+  pv_moon7589.t1 374 EQAEADGTEDIAKVSNLLGTELDSFINGLLKPKIKVGNEFVNKGQNQAQVTNACAALSKAMYARAFNWIVDKCNETLDVKTIKRAYFIGVLDIAG 468
+                     *********************************************************************************************** PP
+
+     Myosin_head 374 FEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.e 467
+                     FE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egiewe+++fg d+qa+idLi+k p+Gi+s+L+eec++pkatd+tf ekl+ ++ +
+  pv_moon7589.t1 469 FETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIEWEMMNFGADLQATIDLIDK-PMGIFSILEEECIVPKATDKTFQEKLYAQHlG 562
+                     *************************************************************9.9*****************************9* PP
+
+     Myosin_head 468 khakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                     kh++f k++   +k ea+F ++HyAg v+Y+v+g+leKnkD++n+ + +++k+ kk +ll+ lf+++ +   +e++  +   k k+k+ +++t++
+  pv_moon7589.t1 563 KHPSFGKPKPkkSKYEAHFDLHHYAGVVSYSVTGWLEKNKDPINTFVAAMFKTQKKnQLLSFLFQDVGE---EEKSGGGGGGKGKQKSGSQQTIS 654
+                     *****999764477899****************************9999998776659********765...6667777788888899999**** PP
+
+     Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakka 654
+                     s+++e+l++Lmktl++t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri++ efv rY+il+++++k + + ke+akka
+  pv_moon7589.t1 655 SNHREQLNKLMKTLNATHPHFVRCIIPNEIKTGGIIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIYPEFVIRYSILNPTACKGV-NDKESAKKA 748
+                     ********************************************************************************98555.899****** PP
+
+     Myosin_head 655 veailkkleldkeeykiGktKiFfr 679
+                     + ail++++ld+  y++G tK+ f+
+  pv_moon7589.t1 749 TAAILEEVKLDAALYRLGLTKVLFK 773
+                     **********************997 PP
+
+  == domain 2  score: -4.1 bits;  conditional E-value: 5.6
+     Myosin_head  288 klekaaellgvdaeelekalvkrriktg......kevvskalnveqakvardalakaiyer 342 
+                      k ++a + l v+  +l+ka +k + + +       e  s++ +v++ak   + lak++ ++
+  pv_moon7589.t1 1206 KHQEAVSELSVQIDQLQKAKIKLEKEKQlakseiDEAKSQTESVSKAKANAERLAKQLEQQ 1266
+                      2333334444444444444332222222222333333444444455555555555554443 PP
+
+  == domain 3  score: -4.2 bits;  conditional E-value: 5.9
+     Myosin_head  313 k 313 
+                      +
+  pv_moon7589.t1 1630 E 1630
+                      2 PP
+
+>> pv_moon417.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  888.7  22.9    4e-270  3.8e-268       2     679 .]      76     754 ..      75     754 .. 0.95
+   2 ?   -2.8   1.7       2.1     2e+02     478     569 ..     856     949 ..     831     994 .. 0.66
+   3 ?   -1.1   3.3      0.66        62     455     525 ..    1397    1466 ..    1321    1506 .. 0.72
+
+  Alignments for each domain:
+  == domain 1  score: 888.7 bits;  conditional E-value: 4e-270
+    Myosin_head   2 edlveLsllneasvlenlkkRyk.kdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                    +dl++Ls+lne++vl nl+ R+  +++iYty+g+vlva+nPy++l+iy +++i+ay+g   ++++PHifa+++ea+++m++ ++nqsi++sGEsGA
+  pv_moon417.t1  76 NDLTALSYLNEPEVLYNLEVRFLnNNQIYTYCGIVLVAINPYEQLDIYGNEIIQAYNGGDVQNMDPHIFAVSEEAFQEMVKFDHNQSIIVSGESGA 171
+                    79********************74789********************************************************************* PP
+
+    Myosin_head  97 GKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERnyH 192
+                    GKt+++K+ ++y+a v +s+e   +++ve+k+l+snPi+EafGnAkt+rn+nssRFGK+i+i+f+ + +i+ga+++tYLLEksRvv+qa++ERnyH
+  pv_moon417.t1 172 GKTVSAKYTMRYFANVGGSSE---ETQVEKKVLASNPIMEAFGNAKTTRNDNSSRFGKFIQIDFNRSHHIVGASMKTYLLEKSRVVFQAPQERNYH 264
+                    *******************99...578********************************************************************* PP
+
+    Myosin_head 193 iFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqa.vskdee 287
+                    iFYql+++ +++e   l+l  ++++ y++q++  +++ ++dse f++t +a+++l +++++q++if +++ai+hlGn+++ +e+ +e++ v  +++
+  pv_moon417.t1 265 IFYQLCSQHNKKEYAYLNLMPATEFYYTNQGEAEQIPNVNDSEVFNDTLDAFKLLDIKKSDQQTIFALLSAIMHLGNVKIVNEKPNESSsVDMNDS 360
+                    *******************************************************************************99888666661555566 PP
+
+    Myosin_head 288 klekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFE 383
+                    +++++++ll++d++ ++++l+++rikt ++ v+++l ++qa +ardalak++y++lF+w+v++in+ l++   +++sfiGvLDi+GFE+fe+nsFE
+  pv_moon417.t1 361 SISIMCDLLKIDESRMRTWLCNKRIKTVTDAVNTPLPLSQAIFARDALAKHMYSQLFNWIVQQINNCLKSPV-KTHSFIGVLDIYGFETFEINSFE 455
+                    6**********************************************************************9.9********************** PP
+
+    Myosin_head 384 qlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekha.......kf 472
+                    q+ciny+nEkLqq+F ++v+klEqeeY+rE+i+w+fi+f +dnq++i+Lie   +Gil+lLdeec++pk++d t+ +kl++++ k +       +f
+  pv_moon417.t1 456 QFCINYANEKLQQQFCQHVFKLEQEEYMREQIKWSFIEF-YDNQPCIELIEG-RIGILDLLDEECKMPKGSDLTWCNKLYEKHLKPSqsqvptnHF 549
+                    ***************************************.9***********.5*****************************5554345666677 PP
+
+    Myosin_head 473 eksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek...eakaeakks.ekkkkkkkkkkkfktvgskfke 564
+                    +k+r  +s+++Fii+H+A+kveY+v+gfleKn+Dt+ e+++++lk+s+ +++aelf ee+     ++ + k+s +  + +k++ +++ktvgs+f+e
+  pv_moon417.t1 550 SKPR--MSSKAFIIHHFAEKVEYQVDGFLEKNRDTVLEEQLKVLKSSNIDFIAELFTEETDeqkPKSYDIKRSnTLVTPTKTQVTRKKTVGSQFRE 643
+                    7776..799***********************************************9987754433334444404456788899999********* PP
+
+    Myosin_head 565 slaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailk 660
+                    sl++Lm++l+st+phyvRCikpn+ k++ k+++++++eqlr++Gvle++ri++aG+p+R+t++ef+qrYk+l++++  +    +++ k+++e+il 
+  pv_moon417.t1 644 SLNNLMTALNSTTPHYVRCIKPNDLKAPFKFQAKRAVEQLRACGVLETVRISAAGYPSRWTYQEFFQRYKMLINSRKIN----RKAFKETCEHILV 735
+                    *************************************************************************999644....4899********* PP
+
+    Myosin_head 661 kleldkeeykiGktKiFfr 679
+                    +l  d+ +y++GktKiFf+
+  pv_moon417.t1 736 NLIKDETKYQFGKTKIFFQ 754
+                    *****************96 PP
+
+  == domain 2  score: -2.8 bits;  conditional E-value: 2.1
+    Myosin_head 478 kkseakFiikHy.AgkveYevegfleKnkD.tlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeL 569
+                    +++  + +ikH+ A  ++ +v+g+l++ +  ++ + +++l ++ ++   +++fk  + ea++ +++ + +k  ++k  + +    k+ ++ ++L
+  pv_moon417.t1 856 ARQYRQLRIKHFkATIIQAHVRGWLQRRRYlKIRKGIIQLQAHVRRRKARKVFKTLKLEARSVEHQRQLNKGLENKIISLQQNIEKINKEREQL 949
+                    5667788899994455678899999988762577888888888888888888888777444443333333333333333333333333333333 PP
+
+  == domain 3  score: -1.1 bits;  conditional E-value: 0.66
+    Myosin_head  455 detfleklvkefekhakfeksrl....kkseakFiikHyA...gkveYevegfleKnkDtlnedlvellkkskkklla 525 
+                     d        k  e+ +k++k  +    + ++++  ++ yA    + + +++gf + n+  +n+++++++++s++ l +
+  pv_moon417.t1 1397 D--------KCNEEIKKYKKMLKvyikRSKTTNIQVERYAplnSSSTVSINGFTNGNHSDMNRSITSVMNHSTNTLTN 1466
+                     2........22222333333322234456789999999995544678899**********************998865 PP
+
+>> pv_moon3874.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  886.6   3.8  1.7e-269  1.6e-267       2     679 .]      91     768 ..      90     768 .. 0.96
+   2 ?   -4.8   3.0       8.8   8.3e+02     313     576 ..    1227    1277 ..    1183    1305 .. 0.57
+
+  Alignments for each domain:
+  == domain 1  score: 886.6 bits;  conditional E-value: 1.7e-269
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon3874.t1  91 DDMADLTYLNDATVLHNLRTRYVSWYIYTYSGLFCVTINPFRRLPVYTMKMVHYYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 185
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon3874.t1 186 GKTENTKKVIQYFAFVAAGVSGkkvtaeeANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTSSYGIAGADIESYLLEKSRITYQ 280
+                     ****************98766667888888999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeake 278
+                      ++ERnyHiFYql++ a +++ kel le d+ +y++++q g lt+d +dd++e+k+tkka+dvl +++e+q+++f+i+aa++h Gn + k++++e
+  pv_moon3874.t1 281 MPAERNYHIFYQLCSKAFPDMCKELFLEhDAGKYNFINQ-GMLTIDKVDDEQEMKDTKKAFDVLLFTQESQMDLFKITAAVMHWGNQKWKQKPRE 374
+                     ****************************99*********.9****************************************************** PP
+
+     Myosin_head 279 eqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaG 373
+                     eqa+ + +e+++k+a+llg+d   + + l+k++ik+g+e+v+k +n  q+++a  al+ka+y+r F+w+v+k+n++l++k+ ++++fiGvLDiaG
+  pv_moon3874.t1 375 EQAEADGNEDITKVANLLGLDLDPFINGLLKPKIKVGREFVNKGQNQAQVTNACAALSKAMYARAFNWIVDKCNETLDVKTVKRAYFIGVLDIAG 469
+                     *********************************************************************************************** PP
+
+     Myosin_head 374 FEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.e 467
+                     FE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ ekl+ ++ +
+  pv_moon3874.t1 470 FETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYTKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDTTYKEKLYAQHlG 563
+                     *************************************************************9.9*****************************9* PP
+
+     Myosin_head 468 khakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                     kh++f k++   +k ea+F ++HyAg v+Y+v+g+l+KnkD++ne + +++k+ kk +lla lfk+  +         e++    k kk  +t++
+  pv_moon3874.t1 564 KHPSFGKPKPkkSKYEAHFDLNHYAGVVSYSVTGWLDKNKDPINEFVAAMFKAQKKnELLAFLFKDIGE---------EQAGGGGKGKKGSQTIS 649
+                     *****999764477899******************************99999877659********664.........22333334444678*** PP
+
+     Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakka 654
+                     ++++e+l++Lmktl++t+ph+vRCi+pne k+ + +d+ lv++ql+c+Gvlegiri+r+Gfp+Ri++ ef+qrY+il++++  +  +  ++akka
+  pv_moon3874.t1 650 ANHREQLNKLMKTLNATHPHFVRCIIPNEIKTGGIIDAPLVMHQLHCNGVLEGIRICRKGFPSRILYMEFIQRYSILNPEAS-KGATDPASAKKA 743
+                     ********************************************************************************98.55588899**** PP
+
+     Myosin_head 655 veailkkleldkeeykiGktKiFfr 679
+                     +++il++++ld+e +++G tK+ f+
+  pv_moon3874.t1 744 TDTILQTIKLDAELFRLGLTKVLFK 768
+                     **********************997 PP
+
+  == domain 2  score: -4.8 bits;  conditional E-value: 8.8
+     Myosin_head  313 ktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlkl 405 
+                      k +ke+   + ++ +ak                                                                            
+  pv_moon3874.t1 1227 KLEKEKQFAKSEIDEAKSH-------------------------------------------------------------------------- 1245
+                      2222222222222222222.......................................................................... PP
+
+     Myosin_head  406 EqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekhakfeksrlkkseakFiikHyAgkveYeve 498 
+                                                                                                                   
+  pv_moon3874.t1    - ---------------------------------------------------------------------------------------------    -
+                      ............................................................................................. PP
+
+     Myosin_head  499 gfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlest 576 
+                                                                    +++ +k k + + v+++  ++l+eL ++l + 
+  pv_moon3874.t1 1246 ----------------------------------------------ADSLAKAKLNAEKVSKQLEHQLHELNSKLDES 1277
+                      ..............................................23333444455666666666666666666554 PP
+
+>> pv_moon7209.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  883.5   3.0  1.5e-268  1.4e-266       2     679 .]      89     765 ..      88     765 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 883.5 bits;  conditional E-value: 1.5e-268
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ +++  y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon7209.t1  89 DDMADLTYLNDATVLHNLRTRYVSWYIYTYSGLFCVTINPFRRLPVYTMKMVYFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 183
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon7209.t1 184 GKTENTKKVIQYFAYVAAGVSGkkqsaedANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTSSYGIAGADIESYLLEKSRITYQ 278
+                     ***************987655445677888999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeake 278
+                      ++ERnyHiFYql++ a +++ ++l le d+ +y++++q g lt+d +dd++e+k+tkka+dvl +++e+q ++f+i+aa++h Gn + k++++e
+  pv_moon7209.t1 279 MPAERNYHIFYQLCSKAFPDMVSALFLEnDAGKYNFINQ-GMLTIDKVDDEQEMKDTKKAFDVLLFTQESQLDLFKITAAVMHWGNQKWKQKPRE 372
+                     ****************************999********.9****************************************************** PP
+
+     Myosin_head 279 eqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaG 373
+                     eqa+ + +++++k+a+llg+d+  + + l+k++ik+g+e+v+k +n  q+++a  al+ka+y+r F w+v+k+n++l++k+ ++++fiGvLDiaG
+  pv_moon7209.t1 373 EQAEADGTDDISKVANLLGLDMDPFINGLLKPKIKVGREFVNKGQNQAQVTNACAALSKAMYARAFMWIVDKCNETLDVKTVKRAYFIGVLDIAG 467
+                     *********************************************************************************************** PP
+
+     Myosin_head 374 FEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef.e 467
+                     FE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ ekl+ ++ +
+  pv_moon7209.t1 468 FETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDTTYKEKLYAQHlG 561
+                     *************************************************************9.9*****************************9* PP
+
+     Myosin_head 468 khakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                     kh++f k++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++ne + +++k+ kk +lla lfk+  +          ++    k kk  +t++
+  pv_moon7209.t1 562 KHSSFGKPKPkkSKYEAHFDLHHYAGTVSYSVTGWLEKNKDPINEFVAAMFKAQKKnELLAFLFKDIGE----------EQGGGGKGKKGSQTIS 646
+                     *****999764477899******************************99999877659********654..........2333334444678*** PP
+
+     Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakka 654
+                     ++++e+l++Lmktl++t+ph+vRCi+pne k+ + +d+ lv++ql+c+Gvlegiri+r+Gfp+Ri++ efvqrY+il++++  +  +  ++akka
+  pv_moon7209.t1 647 ANHREQLNKLMKTLNATHPHFVRCIIPNEIKTGGVIDAPLVMHQLHCNGVLEGIRICRKGFPSRIIYVEFVQRYSILNPEAS-KGATDPASAKKA 740
+                     ********************************************************************************98.55588899**** PP
+
+     Myosin_head 655 veailkkleldkeeykiGktKiFfr 679
+                     ++ail++++ld e +++G tK+ f+
+  pv_moon7209.t1 741 TDAILQTIKLDPELFRLGLTKVLFK 765
+                     **********************997 PP
+
+>> pv_moon4286.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  880.5   4.9  1.2e-267  1.1e-265       2     679 .]      93     767 ..      92     767 .. 0.97
+   2 ?   -2.4   1.8       1.7   1.6e+02     259     324 ..     872     936 ..     802     975 .. 0.77
+   3 ?   -3.3   3.3       3.2     3e+02     520     576 ..    1201    1260 ..    1185    1324 .. 0.53
+   4 ?   -4.0   3.4       4.9   4.6e+02     256     337 ..    1559    1646 ..    1501    1671 .. 0.60
+
+  Alignments for each domain:
+  == domain 1  score: 880.5 bits;  conditional E-value: 1.2e-267
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ +++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon4286.t1  93 DDMADMTYLNDATVLHNLRERYLSWYIYTYSGLFCVTINPFRRLPVYTMKMVSFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 187
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon4286.t1 188 GKTENTKKVIQYFAFVAAGVTGkkvsaedANKPSLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFTTNYGIAGADIESYLLEKSRITYQ 282
+                     ****************98766557788889999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYql++ a ++  k++l l+ d+  y++++q g lt+d +dd++e+k+tkka+d+l ++ee+q ++f+ +aa++h Gn + k++++
+  pv_moon4286.t1 283 MPAERNYHIFYQLCSKAfPDMVKNDLFLDhDPGLYSFINQ-GMLTIDKVDDEQEMKDTKKAFDILLFTEEQQLDLFKCTAAVMHWGNQKWKQKPR 376
+                     **************98725567899***999*********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+++ +e++ek+a+llg+d   + + l+k++ik+gke+v+k +n +q+++a  al+ka+y+rlF+wlve++n +l++k+ ++++fiGvLDia
+  pv_moon4286.t1 377 EEQAEVDGTEDIEKVAKLLGLDIDAFINGLLKPKIKVGKEFVNKGQNQSQVTNACAALSKAVYARLFNWLVERVNVTLDVKTVKRAYFIGVLDIA 471
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ +kl+ ++ 
+  pv_moon4286.t1 472 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKDKLYAQHl 565
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++ne + +++k+ k+ +lla lf++                  ++kkk  +t+
+  pv_moon4286.t1 566 GKHPSFGKPKPskSKYEAHFDLHHYAGTVSYSVTGWLEKNKDPINEFVAAMFKSQKNnSLLAYLFQDIGA--------------DENKKKGSQTI 646
+                     *******99875578899****************************9999999988779********553..............455666789** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri++ ef+qrY+il+++++ke+ + +++akk
+  pv_moon4286.t1 647 SANHREQLNRLMKTLGATHPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPSRILYLEFIQRYSILNPEACKEVGTDRDKAKK 741
+                     **************************************************************************************99999**** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ il+ ++ld+e y+iG tK+ f+
+  pv_moon4286.t1 742 ATQDILEGVKLDSELYRIGLTKVLFK 767
+                     ***********************997 PP
+
+  == domain 2  score: -2.4 bits;  conditional E-value: 1.7
+     Myosin_head 259 rivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskaln 324
+                       +aa l+l n e++ e++  +a+ ++ ++++  ae + +++++++k+ ++ rik  ++ +s++  
+  pv_moon4286.t1 872 AALAAQLELANAELTAEKERLTAELTALKQISGNAEEM-INQMNIQKSSMEARIKELESRISQSEA 936
+                     46899999999999999999999998888888888776.788888888888888887777776655 PP
+
+  == domain 3  score: -3.3 bits;  conditional E-value: 3.2
+     Myosin_head  520 kkkllaelfkeeek..eakaeakksekk.kkkkkkkkkfktvgskfkeslaeLmktlest 576 
+                      +++ ++el ++ e+  ++k++ +k++++ ++++++ ++++  ++k k +  +L k+le++
+  pv_moon4286.t1 1201 HQDAVTELSQQLEQvqKSKNKLEKEKQAaRAEADDARSQIESSQKAKLNADKLAKQLEQQ 1260
+                      333333333333332211111111111101111222222233333333333333333332 PP
+
+  == domain 4  score: -4.0 bits;  conditional E-value: 4.9
+     Myosin_head  256 eifrivaailhlGniefkkeakeeqavskdeeklekaaellg.......vdaeelekalvkrriktgkevvskalnveqakvardalak 337 
+                      +  +++ a l++Gn++++ e++ ++ + + e++ ++ a+ l         +++  ++a+ +++ + ++++ + + ++ qa+ + + l k
+  pv_moon4286.t1 1559 QEAKVLNAQLEVGNVRLEIERRLHEKEEEFENTRRNHARALEsmqasleAESKGKAEAIRQKK-AIEQSLAQAEASIDQANRSNSELQK 1646
+                      345788999999999998777544443333333333333333000000033333333332222.2334555555555666555555544 PP
+
+>> pv_moon4389.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  879.9   3.6  1.8e-267  1.7e-265       2     679 .]      89     766 ..      88     766 .. 0.96
+   2 ?   -3.2   5.9       2.9   2.7e+02     444     572 ..     888    1021 ..     881    1027 .. 0.68
+
+  Alignments for each domain:
+  == domain 1  score: 879.9 bits;  conditional E-value: 1.8e-267
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+k+l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon4389.t1  89 DDMADLTYLNDATVLHNLRTRYLSWYIYTYSGLFCVTINPFKRLPVYTMKMVSYYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 183
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon4389.t1 184 GKTENTKKVIQYFAFVAAGVSGkkvtaedANKPSLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFASNYGIAGADIESYLLEKSRITYQ 278
+                     ****************98766667888889999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYql++ a ++   k+l le d+  y+y++q g lt+d +dd++e+k+tkka+d+l ++e +q ++f+ +aa++h Gn + k++++
+  pv_moon4389.t1 279 MPAERNYHIFYQLCSKAfTDMVTKDLLLEhDAGLYNYINQ-GMLTIDRVDDEQEMKDTKKAFDILLFTEAQQLDLFKCTAAVMHWGNAKWKQKPR 372
+                     **************987255678999999999********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+++  e+ ek+a+llg++  ++   l+k++ik+gke+v+k +n +q+k+a  al+ka+y+r F+wlve++n +l++k+ ++++fiGvLDia
+  pv_moon4389.t1 373 EEQAEVDGPEECEKVAKLLGLEIDSFIMGLLKPKIKVGKEFVNKGQNEQQVKNACAALSKAVYARCFNWLVERVNVTLDVKTVKRAYFIGVLDIA 467
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ +kl+ ++ 
+  pv_moon4389.t1 468 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKDKLYAQHl 561
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F ++HyAg v+Y+v+g+l+KnkD++ne +  ++k+ +k  lla lf++             +++++k  kk  +t+
+  pv_moon4389.t1 562 GKHPSFGKPKPskSKYEAHFDLNHYAGVVSYSVTGWLDKNKDPINEYVAGMFKQQNKnALLAYLFQDIGA----------EEAQQKGGKKGSQTI 646
+                     *******99875578899********************************9987665499*******654..........3344445555678** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri+f efv rY+il++++  +  ++ ++akk
+  pv_moon4389.t1 647 SANHREQLNRLMKTLGATHPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIFVEFVLRYSILNPEAS-KGATTPDAAKK 740
+                     *********************************************************************************97.56689999*** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ail+++++d e y+iG tK+ f+
+  pv_moon4389.t1 741 ATQAILETVKMDPELYRIGLTKVLFK 766
+                     ***********************997 PP
+
+  == domain 2  score: -3.2 bits;  conditional E-value: 2.9
+     Myosin_head  444 Ldeecllpkatdetfleklvkefekhakfeksrl..kkseakFiikHyAgk..veYevegfleKnkDtlnedlvel.lkkskkkllaelfkee 531 
+                      ++ +c  ++ +  +++e+++   ekh  +e + +  + ++akF  +    +   + + ++  +  ++ + e++ ++ + k++++l  +l   +
+  pv_moon4389.t1  888 MESKCAAAEQEKARMAEEIAAMREKHRAYEAKIQqlHGERAKFDGEFNSLQqrLNEQEQQVADMRNELIRESVEKAkIDKTRHQLEGTLRTAN 980 
+                      567888888899999999999999999998774334566677765555444004444445555555555555555413455555555665555 PP
+
+     Myosin_head  532 ekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmkt 572 
+                      ++ ++ e ++++ ++  k+++++ +t++sk+ e+ +eL++ 
+  pv_moon4389.t1  981 AQIENIERHNTKLENLVKRQEEEVNTLSSKYEEEHNELLRV 1021
+                      55666677777888888999999**************9975 PP
+
+>> pv_moon4391.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  879.7   3.5  2.1e-267    2e-265       2     679 .]      89     766 ..      88     766 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 879.7 bits;  conditional E-value: 2.1e-267
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+k+l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon4391.t1  89 DDMADLTYLNDATVLHNLRTRYLSWYIYTYSGLFCVTINPFKRLPVYTMKMVSYYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 183
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP+lEa+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon4391.t1 184 GKTENTKKVIQYFAFVAAGVSGkkvsaedANKPSLEDQIVSANPVLEAYGNAKTTRNNNSSRFGKFIRIHFASNYGIAGADIESYLLEKSRITYQ 278
+                     ****************98766667888889999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYql++ a ++   k+l le d+  y+y++q g lt+d +dd++e+k+tkka+d+l ++e +q ++f+ +aa++h Gn + k++++
+  pv_moon4391.t1 279 MPAERNYHIFYQLCSKAfTDMVTKDLLLEhDAGLYNYINQ-GMLTIDRVDDEQEMKDTKKAFDILLFTEAQQLDLFKCTAAVMHWGNAKWKQKPR 372
+                     **************987255678999999999********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+++  e+ ek+a+llg++  ++   l+k++ik+gke+v+k +n +q+k+a  al+ka+y+r F+wlve++n +l++k+ ++++fiGvLDia
+  pv_moon4391.t1 373 EEQAEVDGPEECEKVAKLLGLEIDSFIMGLLKPKIKVGKEFVNKGQNEQQVKNACAALSKAVYARCFNWLVERVNVTLDVKTVKRAYFIGVLDIA 467
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ +kl+ ++ 
+  pv_moon4391.t1 468 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKDKLYAQHl 561
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F ++HyAg v+Y+v+g+l+KnkD++ne +  ++k+ +k  lla lf++             +++++k  kk  +t+
+  pv_moon4391.t1 562 GKHPSFGKPKPskSKYEAHFDLNHYAGVVSYSVTGWLDKNKDPINEYVAGMFKQQNKnALLAYLFQDIGA----------EEAQQKGGKKGSQTI 646
+                     *******99875578899********************************9987665499*******654..........3344445555678** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri+f efv rY+il++++  +  ++ ++akk
+  pv_moon4391.t1 647 SANHREQLNRLMKTLGATHPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIFVEFVLRYSILNPEAS-KGATTPDAAKK 740
+                     *********************************************************************************97.56689999*** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ail+++++d e y+iG tK+ f+
+  pv_moon4391.t1 741 ATQAILETVKMDPELYRIGLTKVLFK 766
+                     ***********************997 PP
+
+>> pv_moon11469.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  879.0   6.8  3.3e-267  3.1e-265       2     679 .]      91     768 ..      90     768 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 879.0 bits;  conditional E-value: 3.3e-267
+      Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                      ed++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsG
+  pv_moon11469.t1  91 EDMADLTYLNDATVLHNLRERYLSWYIYTYSGLFCVTINPFRRLPVYTMKMVHFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESG 184
+                      9********************************************************************************************* PP
+
+      Myosin_head  96 AGKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvv 182
+                      AGKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ 
+  pv_moon11469.t1 185 AGKTENTKKVIQYFAFVAAGVTGkkvsaedANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTSQYGIAGADIESYLLEKSRIT 278
+                      *****************98766557788889999************************************************************ PP
+
+      Myosin_head 183 kqaeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkk 274
+                      +q ++ERnyHiFYql++ a ++  k++l le d+  y++++q g lt+d +dd++e+++tkka+dvl +++e+q ++f+i+aa++h Gn + k+
+  pv_moon11469.t1 279 YQMPAERNYHIFYQLVSKAfPDMVKNQLLLEhDAGLYNFVNQ-GMLTIDRVDDEQEMRDTKKAFDVLLFTQESQLDLFKITAAVMHWGNQKWKQ 371
+                      ****************9872456688999999999*******.9************************************************** PP
+
+      Myosin_head 275 eakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGv 368
+                      +++eeqa+ + ++++ek+a+llg++  ++   l+k++ik+g+e+v+k +n +q++++  al+ka+y+r F w+v+k+n++l++k+ ++++fiGv
+  pv_moon11469.t1 372 KPREEQAEADGTDEVEKVAKLLGLEIDSFIMGLLKPKIKVGREFVNKGQNQSQVTNSCAALSKAMYARAFMWIVDKCNETLDVKTVKRAYFIGV 465
+                      ********************************************************************************************** PP
+
+      Myosin_head 369 LDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetflekl 462
+                      LDiaGFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ ekl
+  pv_moon11469.t1 466 LDIAGFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKEKL 558
+                      ******************************************************************9.9************************* PP
+
+      Myosin_head 463 vkef.ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkk 552
+                      + ++ +kh++f k++   +k ea+F + HyAg v+Y+v+g+l+KnkD++ne + +++k+ ++ klla lf++             +++++k  k
+  pv_moon11469.t1 559 YAKHlGKHPSFGKPKPskSKYEAHFDLFHYAGVVSYSVTGWLDKNKDPINEFVAAMFKNQQHnKLLAYLFQDIGA----------EEAQQKGGK 642
+                      ***99*******99875577899*********************************99887769********654..........334444555 PP
+
+      Myosin_head 553 kkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkelek 646
+                      k  +t++++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri+f ef+qrY+il+++++ +  +
+  pv_moon11469.t1 643 KGSQTISANHREQLNKLMKTLGATHPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIFVEFIQRYSILNPTAC-KGAT 735
+                      5678**********************************************************************************998.5558 PP
+
+      Myosin_head 647 lkedakkaveailkkleldkeeykiGktKiFfr 679
+                       k++akka++a+l+++++d e y+iG tK+ f+
+  pv_moon11469.t1 736 DKDKAKKATQAVLETVKMDPELYRIGLTKVLFK 768
+                      9999**************************997 PP
+
+>> pv_moon4285.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  876.6   5.7  1.8e-266  1.7e-264       2     679 .]      91     768 ..      90     768 .. 0.96
+   2 ?   -3.4   3.4       3.3   3.1e+02     519     576 ..    1201    1261 ..    1185    1325 .. 0.54
+   3 ?   -4.0   3.4       4.9   4.6e+02     256     337 ..    1560    1647 ..    1502    1672 .. 0.60
+
+  Alignments for each domain:
+  == domain 1  score: 876.6 bits;  conditional E-value: 1.8e-266
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon4285.t1  91 DDMADLTYLNDATVLHNLRERYLSWYIYTYSGLFCVTINPFRRLPVYTMKMVHFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 185
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon4285.t1 186 GKTENTKKVIQYFAFVAAGVTGkkvsaedANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTSQYGIAGADIESYLLEKSRITYQ 280
+                     ****************98766557788889999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYql++ a ++  k++l le d+  y++++q g lt+d +dd++e+k+tkka+dvl +s+e+q ++f+i+aa++h Gn + k++++
+  pv_moon4285.t1 281 MPAERNYHIFYQLVSKAfPDMVKNQLLLEhDAGLYSFVNQ-GMLTIDRVDDEQEMKDTKKAFDVLLFSQESQLDLFKITAAVMHWGNQKWKQKPR 374
+                     **************9872456688999999999*******.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+ + ++++e +++llg++  ++   l+k++ik+g+e+v+k +n +q++++  al+ka+y+r F+w+v+k+n++l++k+ ++++fiGvLDia
+  pv_moon4285.t1 375 EEQAEADGTDEVERVSKLLGLELDSFIMGLLKPKIKVGREFVNKGQNQSQVTNSCAALSKAMYARAFNWIVDKCNETLDVKTVKRAYFIGVLDIA 469
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ ekl+ ++ 
+  pv_moon4285.t1 470 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKEKLYAKHl 563
+                     **************************************************************9.9****************************99 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F ++HyAg v+Y+v+g+l+KnkD++ne + +++k+ ++ klla lf++             +++++k  kk  +t+
+  pv_moon4285.t1 564 GKHPSFGKPKPskSKYEAHFDLSHYAGVVSYSVTGWLDKNKDPINEFVAAMFKNQQQnKLLAFLFQDIGV----------EDTQQKGGKKGSQTI 648
+                     *******99875578899********************************999876659********665..........3344445555678** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri++ ef+qrY+il+++++ +  + k++akk
+  pv_moon4285.t1 649 SANHREQLNKLMKTLGATHPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPSRILYLEFIQRYSILNPTAC-KGATDKDKAKK 742
+                     ********************************************************************************998.55589999*** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ail+ ++ld+e y+iG tK+ f+
+  pv_moon4285.t1 743 ATQAILEGVKLDAELYRIGLTKVLFK 768
+                     ***********************997 PP
+
+  == domain 2  score: -3.4 bits;  conditional E-value: 3.3
+     Myosin_head  519 skkkllaelfkeeek..eakaeakksekk.kkkkkkkkkfktvgskfkeslaeLmktlest 576 
+                       +++ ++el ++ e+  ++k++ +k++++ ++++++ ++++  ++k k +  +L k+le++
+  pv_moon4285.t1 1201 KHQDAVTELSQQLEQvqKSKNKLEKEKQAaRAEADDARSQIESSQKAKLNADKLAKQLEQQ 1261
+                      3333333333333332211111111111101111222222333333333333444443332 PP
+
+  == domain 3  score: -4.0 bits;  conditional E-value: 4.9
+     Myosin_head  256 eifrivaailhlGniefkkeakeeqavskdeeklekaaellg.......vdaeelekalvkrriktgkevvskalnveqakvardalak 337 
+                      +  +++ a l++Gn++++ e++ ++ + + e++ ++ a+ l         +++  ++a+ +++ + ++++ + + ++ qa+ + + l k
+  pv_moon4285.t1 1560 QEAKVLNAQLEVGNVRLEIERRLHEKEEEFENTRRNHARALEsmqasleAESKGKAEAIRQKK-AIEQSLAQAEASIDQANRSNSELQK 1647
+                      345788999999999998777544443333333333333333000000033333333332222.2334555555555666555555544 PP
+
+>> pv_moon7587.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  876.3   8.4  2.1e-266    2e-264       2     679 .]      91     768 ..      90     768 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 876.3 bits;  conditional E-value: 2.1e-266
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon7587.t1  91 DDMADLTYLNDATVLHNLRERYISWYIYTYSGLFCVTINPFRRLPVYTMKMVHYYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 185
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon7587.t1 186 GKTENTKKVIQYFAFVAAGVTGkkitaedANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTSQYGIAGADIESYLLEKSRITYQ 280
+                     ****************98766667888889999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYql++ a ++  k++l le d+  y++++q g lt+d +dd++e+k+tkka+dvl +s+e+q ++f+i+aa++h Gn + k++++
+  pv_moon7587.t1 281 MPAERNYHIFYQLCSKAfPDMVKNQLFLEhDAGLYNFINQ-GMLTIDKVDDEQEMKDTKKAFDVLLFSQESQLDLFKITAAVMHWGNQKWKQKPR 374
+                     **************987255678999**9999********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+ +  ++++k+a+llg++  ++   l+k++ik+g+e+v+k +n  q+++a  al+ka+y+r F w+v+k+n++l++k+ ++++fiGvLDia
+  pv_moon7587.t1 375 EEQAEADGVDDVTKVANLLGLELDSFIMGLLKPKIKVGREFVNKGQNQAQVTNACAALSKAMYARAFMWIVDKCNETLDVKTVKRAYFIGVLDIA 469
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ +kl+ ++ 
+  pv_moon7587.t1 470 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKDKLYAQHl 563
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F ++HyAg v+Y+v+g+l+KnkD++ne + +++k+ kk +ll+ lf++             +++++k  kk  +t+
+  pv_moon7587.t1 564 GKHPSFGKPKPkkSKYEAHFDLSHYAGVVSYSVTGWLDKNKDPINEFVAAMFKAQKKnQLLSFLFDNIGA----------EEAQQKGGKKGSQTI 648
+                     ******999764477899*******************************999987765999999999553..........3344445555678** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl++t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri+f ef+qrY+il++ + k+  k k++akk
+  pv_moon7587.t1 649 SANHREQLNKLMKTLNATHPHFVRCIIPNEIKTGGIIDAHLVMHQLHCNGVLEGIRICRKGFPSRILFMEFIQRYSILNPVASKSA-KDKDTAKK 742
+                     *********************************************************************************98666.8999**** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ail+ ++ld+e y+iG tK+ f+
+  pv_moon7587.t1 743 ATQAILEGIKLDSELYRIGLTKVLFK 768
+                     ***********************997 PP
+
+>> pv_moon1296.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  875.7   3.8  3.3e-266  3.1e-264       2     679 .]      95     770 ..      94     770 .. 0.96
+   2 ?   -3.5   4.6       3.6   3.4e+02     289     339 ..    1191    1241 ..    1164    1267 .. 0.54
+   3 ?   -3.5   2.4       3.7   3.5e+02     548     663 ..    1441    1467 ..    1317    1499 .. 0.59
+
+  Alignments for each domain:
+  == domain 1  score: 875.7 bits;  conditional E-value: 3.3e-266
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon1296.t1  95 DDMADLTYLNDATVLHNLRQRYVSWYIYTYSGLFCVTINPFRRLPVYTMKMVSFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 189
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon1296.t1 190 GKTENTKKVIQYFAFVAAGVSGkkvsaeeANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTANYGIAGADIESYLLEKSRITYQ 284
+                     ****************98766556788878999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYq+++ a ++  k++l l+ d+  y++++q g lt+d +dd++e+++tkka+dvl + +e q ++f+i++a++h Gn + k++++
+  pv_moon1296.t1 285 MPAERNYHIFYQICSKAfPDMVKNDLLLDhDPGLYNFINQ-GMLTIDKVDDEQEMRDTKKAFDVLLFPQEAQLDLFKITSAVMHWGNQKWKQKPR 378
+                     **************98725567889999999*********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+ + ++++ k+a++lg+++ ++   l+k+rik+gke+v+k +n +q+++a  al+ka+y+r F+w+v+k+n++l++k+ ++++fiGvLDia
+  pv_moon1296.t1 379 EEQAEADGTDDIGKVATMLGLEMDSFIMGLLKPRIKVGKEFVNKGQNQSQVTNACAALSKAMYARSFNWIVDKCNETLDVKTVKRAYFIGVLDIA 473
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ +kl+ ++ 
+  pv_moon1296.t1 474 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKDKLYAQHl 567
+                     **************************************************************9.9*****************************9 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F ++HyAg+v+Y+v+g+leKnkD++ne + +++k+ +k kll+ lf++               + ++k kk  +t+
+  pv_moon1296.t1 568 GKHPSFGKPKPkkSKYEAHFDLHHYAGTVSYSVTGWLEKNKDPINEFVAAMFKTQQKnKLLSFLFQDIGA------------DDNQKGKKGSQTI 650
+                     ******999764477899*****************************999999776659********654............33344445678** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+G+p+Ri++ efv rY+il+++++k++ + k++akk
+  pv_moon1296.t1 651 SANHREQLNKLMKTLGATHPHFVRCIIPNEIKTGGIIDAHLVMHQLHCNGVLEGIRICRKGYPSRIIYPEFVLRYSILNPEACKSV-TDKDTAKK 744
+                     **********************************************************************************9777.78999*** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ail+ ++ld+e y+iG tK+ f+
+  pv_moon1296.t1 745 ATSAILEGVKLDAELYRIGITKVLFK 770
+                     ***********************997 PP
+
+  == domain 2  score: -3.5 bits;  conditional E-value: 3.6
+     Myosin_head  289 lekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakai 339 
+                      l+k  +   v+++     l k +ik +ke+ +++ +ve+ak   +a++ka 
+  pv_moon1296.t1 1191 LRKKHQEAVVEMSAQIDQLQKAKIKLEKEKQMSKSEVEEAKAQTEAVSKAK 1241
+                      333333334444444445555556666666666666666666666665543 PP
+
+  == domain 3  score: -3.5 bits;  conditional E-value: 3.7
+     Myosin_head  548 kkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakke 640 
+                       +kk+k+f  + +                                                                                
+  pv_moon1296.t1 1441 MEKKQKQFDRLIA-------------------------------------------------------------------------------- 1453
+                      2222222222222................................................................................ PP
+
+     Myosin_head  641 lkeleklkedakkaveailkkle 663 
+                               + k+ +e+i ++le
+  pv_moon1296.t1 1454 ---------EWKQKCENITQELE 1467
+                      .........33333333333333 PP
+
+>> pv_moon15015.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  866.7   5.6  1.7e-263  1.6e-261       2     679 .]      90     765 ..      89     765 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 866.7 bits;  conditional E-value: 1.7e-263
+      Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                      +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsG
+  pv_moon15015.t1  90 DDMADLTYLNDATVLHNLRTRYVSWYIYTYSGLFCVTINPFRRLPVYTMKMVHFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESG 183
+                      8********************************************************************************************* PP
+
+      Myosin_head  96 AGKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvv 182
+                      AGKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ 
+  pv_moon15015.t1 184 AGKTENTKKVIQYFAFVAAGVSGkkvsaedANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTAQYGIAGADIESYLLEKSRIT 277
+                      *****************98766667888889999************************************************************ PP
+
+      Myosin_head 183 kqaeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkk 274
+                      +q ++ERnyHiFYql++ a ++  k++l le d+  y++++q g lt+d +dd++e+k+tkka+dvl +++e+q ++f+i+aa++h Gn + k+
+  pv_moon15015.t1 278 YQMPAERNYHIFYQLCSKAfPDMVKNQLFLEhDAGLYSFINQ-GMLTIDKVDDEQEMKDTKKAFDVLLFTQESQLDLFKITAAVMHWGNQKWKQ 370
+                      ****************987255678999**9999********.9************************************************** PP
+
+      Myosin_head 275 eakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGv 368
+                      +++eeqa+ + +e++ek+a+llg++  ++   l+k++ik+gke+v+k +n  q++++  al+ka+y+r F w+v+k+n++l++k+ ++++fiGv
+  pv_moon15015.t1 371 KPREEQAEADGTEDVEKVAKLLGLEIDSFIMGLLKPKIKVGKEFVNKGQNQAQVTNSCAALSKAMYARAFIWIVDKCNETLDVKTVKRAYFIGV 464
+                      ********************************************************************************************** PP
+
+      Myosin_head 369 LDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetflekl 462
+                      LDiaGFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ ekl
+  pv_moon15015.t1 465 LDIAGFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKEKL 557
+                      ******************************************************************9.9************************* PP
+
+      Myosin_head 463 vkef.ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkk 552
+                      + ++ +kh++f k++   +k ea+F i HyAg v+Y v+g+leKnkD++ne + +++k+ ++ kll+ lf++               + ++ +k
+  pv_moon15015.t1 558 YAKHlGKHPSFGKPKPskSKYEAHFDIFHYAGIVSYGVNGWLEKNKDPINEFVAAMFKNQQSnKLLSFLFQDIGA------------EVQAGSK 639
+                      ***99*******99875578899*******************************9999876559********654............3445566 PP
+
+      Myosin_head 553 kkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkelek 646
+                      k  +t++++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri++ efv rY+i++++++k + +
+  pv_moon15015.t1 640 KGSQTISANHREQLNKLMKTLGATHPHFVRCIIPNEIKTGGIIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIYVEFVLRYSIINPTACKGV-T 732
+                      6789**********************************************************************************998555.8 PP
+
+      Myosin_head 647 lkedakkaveailkkleldkeeykiGktKiFfr 679
+                       +++akka++ail++ +ld e +++G tK+ f+
+  pv_moon15015.t1 733 DAASAKKATDAILQTSKLDPELFRLGLTKVLFK 765
+                      8999**************************997 PP
+
+>> pv_moon8717.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  866.7   5.6  1.7e-263  1.6e-261       2     679 .]      90     765 ..      89     765 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 866.7 bits;  conditional E-value: 1.7e-263
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d++ L++ln+a+vl+nl++Ry ++ iYtysgl++v++nP+++l++y+ ++++ y+gkkk+e+pPH++ +ad+ay +m++d+enqs+li+GEsGA
+  pv_moon8717.t1  90 DDMADLTYLNDATVLHNLRTRYVSWYIYTYSGLFCVTINPFRRLPVYTMKMVHFYRGKKKNEVPPHLYLVADNAYAAMMRDRENQSMLITGESGA 184
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskee.......vekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkq 184
+                     GKte+tKkv+qy+a+v++  +        ++k ++e++i+ +nP++Ea+GnAkt+rnnnssRFGK+i+i+f +++ iaga+ie+YLLEksR+ +q
+  pv_moon8717.t1 185 GKTENTKKVIQYFAFVAAGVSGkkvsaedANKPSLEDQIVSANPVMEAYGNAKTTRNNNSSRFGKFIRIHFTAQYGIAGADIESYLLEKSRITYQ 279
+                     ****************98766667888889999************************************************************** PP
+
+     Myosin_head 185 aeeERnyHiFYqllaga.seeekkelkle.dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeak 277
+                      ++ERnyHiFYql++ a ++  k++l le d+  y++++q g lt+d +dd++e+k+tkka+dvl +++e+q ++f+i+aa++h Gn + k++++
+  pv_moon8717.t1 280 MPAERNYHIFYQLCSKAfPDMVKNQLFLEhDAGLYSFINQ-GMLTIDKVDDEQEMKDTKKAFDVLLFTQESQLDLFKITAAVMHWGNQKWKQKPR 373
+                     **************987255678999**9999********.9***************************************************** PP
+
+     Myosin_head 278 eeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDia 372
+                     eeqa+ + +e++ek+a+llg++  ++   l+k++ik+gke+v+k +n  q++++  al+ka+y+r F w+v+k+n++l++k+ ++++fiGvLDia
+  pv_moon8717.t1 374 EEQAEADGTEDVEKVAKLLGLEIDSFIMGLLKPKIKVGKEFVNKGQNQAQVTNSCAALSKAMYARAFIWIVDKCNETLDVKTVKRAYFIGVLDIA 468
+                     *********************************************************************************************** PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkef. 466
+                     GFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+td+t+ ekl+ ++ 
+  pv_moon8717.t1 469 GFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGTDMTYKEKLYAKHl 562
+                     **************************************************************9.9****************************99 PP
+
+     Myosin_head 467 ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekkkkkkkkkkkfktv 558
+                     +kh++f k++   +k ea+F i HyAg v+Y v+g+leKnkD++ne + +++k+ ++ kll+ lf++               + ++ +kk  +t+
+  pv_moon8717.t1 563 GKHPSFGKPKPskSKYEAHFDIFHYAGIVSYGVNGWLEKNKDPINEFVAAMFKNQQSnKLLSFLFQDIGA------------EVQAGSKKGSQTI 645
+                     *******99875578899*******************************9999876559********654............34455666789** PP
+
+     Myosin_head 559 gskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                     +++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri++ efv rY+i++++++k + + +++akk
+  pv_moon8717.t1 646 SANHREQLNKLMKTLGATHPHFVRCIIPNEIKTGGIIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIYVEFVLRYSIINPTACKGV-TDAASAKK 739
+                     ********************************************************************************998555.88999*** PP
+
+     Myosin_head 654 aveailkkleldkeeykiGktKiFfr 679
+                     a++ail++ +ld e +++G tK+ f+
+  pv_moon8717.t1 740 ATDAILQTSKLDPELFRLGLTKVLFK 765
+                     ***********************997 PP
+
+>> pv_moon2026.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  819.9  13.3  2.6e-249  2.5e-247       1     679 []     219     877 ..     219     877 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 819.9 bits;  conditional E-value: 2.6e-249
+     Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                     ved+++L  l+ea +l+nl +Ryk++liYty+g++lvavnPy+ l iy++++i++y++kk  elpPHifai d+ay++ml+ +++q+++isGEsG
+  pv_moon2026.t1 219 VEDMIALGDLHEAGILRNLLMRYKENLIYTYTGTILVAVNPYQILSIYTSEQIQKYRDKKIGELPPHIFAIGDNAYHNMLRYQHDQCVIISGESG 313
+                     69********************************************************************************************* PP
+
+     Myosin_head  96 AGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERn 190
+                     AGKte+tK +lq+la++s++++      +e++il++nPilEafGnAkt+rn+nssRFGKyi+i+fdk+g i+gakie+YLLEksR+v qa++ERn
+  pv_moon2026.t1 314 AGKTESTKLILQFLAAISGQHN-----WIEQQILEANPILEAFGNAKTIRNDNSSRFGKYIDIHFDKRGAIEGAKIEQYLLEKSRLVSQARDERN 403
+                     *******************999.....79****************************************************************** PP
+
+     Myosin_head 191 yHiFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkea.keeqa.vs 283
+                     yHiFY ++ag+s++ek +l+l++++d++yl +++++t dg dd+ ef+++++a++vl +++ee  +i+++++ai+h+Gni++k +a ++  a ++
+  pv_moon2026.t1 404 YHIFYCMIAGLSNDEKVALSLTNARDFEYLRKGECITCDGRDDAVEFSNIRSACKVLTFTDEEIWNIMKLLSAIIHIGNIKYKATAiNNLDAtEI 498
+                     ***********************************************************************************998444344266 PP
+
+     Myosin_head 284 kdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkk..eekksfiGvLDiaGFEi 376
+                      +++ ++++a+ll+ ++++l  al++++i t  e+v+++l  +q+   rda++k iy rlF w+vekin ++ k +   + ++ iGvLDi+GFE 
+  pv_moon2026.t1 499 VNKKVVDIVANLLQFSSKDLIIALTTKTIFTSGETVTSTLAEHQSIDVRDAFVKGIYGRLFIWIVEKINAAIYKPResGSYRKSIGVLDIFGFEN 593
+                     67777*******************************************************************998733567889*********** PP
+
+     Myosin_head 377 feknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekhak 471
+                     fe+nsFEqlciny+nE Lqq+F+++++klEqeeY +E+i+w++i+f +dnq+i+d+i  kp+ i++l+dee+++pk+td++ lekl+k +ekh +
+  pv_moon2026.t1 594 FENNSFEQLCINYANENLQQFFVQHIFKLEQEEYNNENINWKNIEF-VDNQEILDMIAVKPMNIIALIDEESKFPKGTDMSCLEKLHKFHEKHRN 687
+                     **********************************************.9*********************************************** PP
+
+     Myosin_head 472 feksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkesl 566
+                     + k+r +  + +F ++H+Ag+veY++++fleKn+Dt + dl++l+++s++k+l++lf  +              +  ++++k++ t+g++fk+sl
+  pv_moon2026.t1 688 YLKPR-SSATRAFGLVHFAGNVEYNIANFLEKNRDTFSGDLMQLIQTSNNKFLTSLFLTDM-------------SIGSETRKRTPTLGAQFKKSL 768
+                     ****9.69999**********************************************9833.............34455556899********** PP
+
+     Myosin_head 567 aeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkk 661
+                       Lm+tl+s++p +vRCikpne kk++++d++lv++qlr++G++e+irirraG+p R  + +fv rY+il++   +++   ked + a+ +i k+
+  pv_moon2026.t1 769 DLLMTTLNSCSPFFVRCIKPNEFKKPMNFDRQLVVRQLRYSGMMETIRIRRAGYPIRHSYPDFVDRYRILIDGIKPSH---KEDCRAASAKICKA 860
+                     ***********************************************************************9997555...78888888888776 PP
+
+     Myosin_head 662 leldkeeykiGktKiFfr 679
+                     + l + +y++GktK+F++
+  pv_moon2026.t1 861 V-LANADYQLGKTKVFLK 877
+                     5.66789*********97 PP
+
+>> pv_moon6487.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  813.0  18.3  3.1e-247  2.9e-245       2     679 .]      16     674 ..      15     674 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 813.0 bits;  conditional E-value: 3.1e-247
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsGA 96 
+                     +d+v L ++ne+++++nlkkR++++ iYty+g vl++vnPyk+l+ + e+ i++y+g ++ e pPHi+a +d +yr+m  d+enq+++isGEsGA
+  pv_moon6487.t1  16 DDMVLLPKINEQAIYDNLKKRFNDNYIYTYIGPVLISVNPYKELPYFGEKEIEQYRGATQIENPPHIYATSDFMYRNMIIDNENQCVIISGESGA 110
+                     8********************************************************************************************** PP
+
+     Myosin_head  97 GKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERny 191
+                     GKt+ +K++++y++ vs+ ++++++++v++ ilqsnP+lEafGnAkt+rnnnssRFGKy+ei+f  +g++ g+ki+++LLEksRvv q ++ERn+
+  pv_moon6487.t1 111 GKTVCAKYIMNYISKVSGGNQSTKVQHVKNIILQSNPLLEAFGNAKTLRNNNSSRFGKYVEIQFARSGEPDGGKITNFLLEKSRVVGQMKNERNF 205
+                     *********************************************************************************************** PP
+
+     Myosin_head 192 HiFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqavskde 286
+                     HiFYql++ ++e+++k+l + +++++ayl++sg+++vdg++ds++f+++ +a++++++se++q+ i++i+a+ilhlGn++f  + +   ++++++
+  pv_moon6487.t1 206 HIFYQLCSFKNEDLHKQLGILSASRFAYLNKSGCFDVDGVNDSKDFQDVLNAMNTINISERDQSLILKIIAGILHLGNVNFVPDGN--YSQPEHD 298
+                     *********************************************************************************98765..5688888 PP
+
+     Myosin_head 287 eklekaaellgvdaeelekalvkrriktg....kevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEif 377
+                     + le  ++l+g+++e+l++ l++++ +t+     e + + lnveqa+++rdalakaiy+rlFd+lv  in+++e+k+ e+   iG+LDi+GFEif
+  pv_moon6487.t1 299 RLLEYPSHLFGINKENLKNKLTSKTFETKkgleIECIDVLLNVEQAEYTRDALAKAIYSRLFDYLVVVINQAMENKN-ENLLNIGILDIYGFEIF 392
+                     88**************************9999899****************************************99.99999************ PP
+
+     Myosin_head 378 eknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiek..kplGilslLdeecllpka....tdetfleklvkef 466
+                     e n+FEq+cinyvnEkLqq+F+el+lk+EqeeY +Egi+w+ idf ++n++++dLie+   p G++s  d+  ++ +a     d+++l+k++ +f
+  pv_moon6487.t1 393 EDNGFEQFCINYVNEKLQQIFIELTLKAEQEEYRQEGIKWTDIDF-FNNKIVCDLIESksTPPGLFSQCDDVVITMHAinqgADQQLLQKFQGSF 486
+                     *********************************************.***********966799********998776655559999999999999 PP
+
+     Myosin_head 467 ekhakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgsk 561
+                     + h++f++++      +F+ikHyAg+veY+++gf eKn+D l++dl+el+k+s+++++++lf+++ +                   k+++t+gsk
+  pv_moon6487.t1 487 ATHPHFTSNS-----VSFTIKHYAGDVEYNINGFCEKNRDVLFQDLIELMKTSSEPFIKNLFNDTPI----------------GAGKRPTTAGSK 560
+                     9999997775.....69***********************************************554................456689****** PP
+
+     Myosin_head 562 fkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkave 656
+                     +k++ ++L+++l+++ p y+RCikpne+k++++++e++v++q+++lG++e++r+rraGf++R +f++f+qrY i++k++     ++++ +  +++
+  pv_moon6487.t1 561 IKTQANALVEKLKKCYPSYIRCIKPNETKQSNTMEENRVKHQIKYLGLVENVRVRRAGFAYRREFAKFIQRYGIVSKQTR----RWTGPTDVGIK 651
+                     ****************************************************************************9994....799******** PP
+
+     Myosin_head 657 ailkkleldkeeykiGktKiFfr 679
+                     +i+++ ++d+++y++Gk+KiF++
+  pv_moon6487.t1 652 TIMNAANIDQDQYQLGKSKIFIK 674
+                     *********************97 PP
+
+>> pv_moon16476.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  770.8   6.4  1.8e-234  1.7e-232       1     679 []      61     762 ..      61     762 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 770.8 bits;  conditional E-value: 1.8e-234
+      Myosin_head   1 vedlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklk.iysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGE 93 
+                      v+d ++L++lnea++l+n+k Rykkd+iYty++++l+a+nPyk l  +ys+d ik y gk+   +pPH+faiad+ yr+m+++k++qsi++sGE
+  pv_moon16476.t1  61 VDDNCALMYLNEANLLNNIKIRYKKDVIYTYVANILIAINPYKDLSkLYSSDSIKSYIGKSLGIMPPHVFAIADKSYRDMRAHKQSQSIIVSGE 154
+                      69*******************************************99*********************************************** PP
+
+      Myosin_head  94 sGAGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaee 187
+                      sGAGKte++K++l+yl+   +sk+    + +e ++ qsnP+lE+fGnAkt+rnnnssRFGK+ie++f+ + k+ag+ +++YLLEksRv+ q++e
+  pv_moon16476.t1 155 SGAGKTESAKYLLRYLTESYGSKS----GLIEARLNQSNPLLESFGNAKTTRNNNSSRFGKFIELHFNDQHKVAGGFVSHYLLEKSRVCIQSKE 244
+                      *****************9999988....799*************************************************************** PP
+
+      Myosin_head 188 ERnyHiFYqllagaseeekkelkledvkdyaylsqsgeltv...........................dgiddseefketkkaldvlglseeeq 254
+                      ERnyHiFY+l+ ga+e+++k+l l+++++++yl++ g+++                            + +dd+++f e +ka+d +gl+ e++
+  pv_moon16476.t1 245 ERNYHIFYRLCCGAPEKLRKDLLLSTPDNFNYLNR-GCTQYftsatgeknllndrkskdhqlkgglrdPQMDDAKDFLECDKAMDHIGLTTEDK 337
+                      **********************************9.56666689************************************************** PP
+
+      Myosin_head 255 keifrivaailhlGniefkkeakeeqa......vskdeeklekaaellgvdaeelekalvkrriktg.....kevvskalnveqakvardalak 337
+                      ++i+ +vaa+lh+Gnief+++++ +++      ++   ++l+++a++lg++++elekal++r ++++      +v++++l+v++a++ardalak
+  pv_moon16476.t1 338 MNIYLTVAAVLHIGNIEFEDDPDSSKGgcrlssKKGGAQALQICAKMLGLESNELEKALISRVMQAHrggklGTVIMVPLKVSEAQNARDALAK 431
+                      *********************9888777776433334566999***********************98999999******************** PP
+
+      Myosin_head 338 aiyerlFdwlvekinkslekkkeekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiid 431
+                      aiy +lFd++v+ ink++  ++  +++fiG+LDiaGFE+f +nsFEq+ciny+nEkLqq+Fne +lk+Eq+ Y  Eg+  ++i++ +dnq +id
+  pv_moon16476.t1 432 AIYVKLFDYIVSCINKAIPFSS--SSNFIGLLDIAGFEYFPVNSFEQFCINYCNEKLQQFFNERILKEEQNIYEIEGLGLRKIQY-TDNQDCID 522
+                      ********************99..99***********************************************************.8******* PP
+
+      Myosin_head 432 LiekkplGilslLdeecllpkatdetfleklvkefekhakfeksrl........kkseakFiikHyAgkveYevegfleKnkDtlnedlvellk 517
+                      Lie k++Gi++lLdee++lp  + ++f+++++++++kh++++ +r+         ++++ F+ikH+Ag v Y++++f+eKn+D+l+++l  l++
+  pv_moon16476.t1 523 LIEMKNVGIFDLLDEESKLPAPSSQHFTTEVHSKYSKHNRLDVPRKsklkshreIRDDEGFLIKHFAGGVVYTTSQFIEKNNDALHSSLAFLIQ 616
+                      ***************************************7766655556666668899************************************ PP
+
+      Myosin_head 518 kskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvle 611
+                      ++k+ ++++lf +e++           + k+++ k +f++vg kf+++l+ L+++l+st +++vRC+kpn k+ +++++  ++l+ql+c+G+ +
+  pv_moon16476.t1 617 ECKNTFIQNLFASESE-----------SIKQNSGKLNFISVGGKFRTQLTGLLEKLRSTGTNFVRCVKPNLKMVPNDFEGGQILSQLQCSGMTS 699
+                      ************9543...........3444555669********************************************************* PP
+
+      Myosin_head 612 girirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                       + ++++G+p+R+ f++++ +Yk  ++ +l +l     + + +++a++k+l l++ ++k+G tK+Ffr
+  pv_moon16476.t1 700 VLNLMQQGYPSRTSFANLYAMYKNYLPANLAKL-----EPRLFCKALFKALCLKDTDFKFGITKVFFR 762
+                      ****************************99666.....899**************************8 PP
+
+>> pv_moon10494.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  752.0  18.3    9e-229  8.4e-227       1     679 []      66     732 ..      66     732 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 752.0 bits;  conditional E-value: 9e-229
+      Myosin_head   1 vedlveLsllneasvlenlkkRyk.kdliYtysglvlvavnPykklk.iysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisG 92 
+                      v+d++ L+ lne s+l nlk Ry+ k++iYtysg +l+a+nPyk  + +y+ ++++ y+++    l+PHifai   ay +m +d+ nq i+isG
+  pv_moon10494.t1  66 VDDMIFLNDLNEGSILWNLKVRYEnKQQIYTYSGSILIAINPYKMFEnLYDLNTVRLYEDHLLGTLQPHIFAIGSAAYFNMIKDNLNQVIVISG 159
+                      69*********************95679******************99********************************************** PP
+
+      Myosin_head  93 EsGAGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqae 186
+                      EsGAGKte+tK ++qyla+v+ sk+    + + e+il++nP+lE+fGnAkt+rn+nssRFGKy+e+ f k+g i+ga+i++YLLEksR+v q++
+  pv_moon10494.t1 160 ESGAGKTESTKLIMQYLAAVNRSKS----NAITEQILEANPLLESFGNAKTIRNDNSSRFGKYLEVFF-KEGLIVGARISEYLLEKSRIVSQTT 248
+                      *********************9998....589**********************************88.5799********************* PP
+
+      Myosin_head 187 eERnyHiFYqllagaseeekkelkledvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeq 280
+                      +ERnyHiFY+llag+s+++k+++ l ++++y yl+q+++ +++  +d+++f+++++a+d+lg+s++eq +if+i+aa+lhlGni f+++++ee 
+  pv_moon10494.t1 249 DERNYHIFYELLAGLSADHKQKYGLFEANRYFYLNQGNNCKLANKNDANDFHSLVSAIDILGFSKSEQDTIFKILAAVLHLGNIYFNRTQDEED 342
+                      **************************************************************************************99886665 PP
+
+      Myosin_head 281 a...vskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiGvLDi 371
+                          ++ ++++l+ a+ llg+++ +l++ l+++  +++ e + ++l++ +a   rda+aka+y+ lF+wlve+in  ++k++  + + i +LDi
+  pv_moon10494.t1 343 QdmvEIGSDAQLKWASYLLGLNEINLKQKLTHKITEARDERLLTPLDIDHALDVRDAIAKALYSCLFSWLVERINFIICKDT-PNCNSIAILDI 435
+                      43435567778********************************************************************999.99999****** PP
+
+      Myosin_head 372 aGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvke 465
+                      +GFE f++n+FEqlciny+nE+Lq  Fn++++k EqeeY++E+i+w+ id+ +dn+++id+i kkp+Gil +Ld+e++l +++d +flek +  
+  pv_moon10494.t1 436 FGFEKFTTNGFEQLCINYANETLQFYFNKHIFKIEQEEYAKEKINWKAIDY-IDNKPCIDMISKKPNGILHILDDETKLNQTSDFSFLEKCHFL 528
+                      ***************************************************.9***************************************** PP
+
+      Myosin_head 466 fekhakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeekeakaeakksekkkkkkkkkkkfktvg 559
+                      ++ ++ + k+r  +s+ +F ikHyAg+v   v++fl+Kn+D l +d++e+l +s++ +++++fk+ ++  + e++ks +k+   + k k+ tv+
+  pv_moon10494.t1 529 HSANTLYCKPR--MSTPDFSIKHYAGEV---VRNFLDKNRDLLRTDVIEMLINSTNLIISKMFKDLRE--TYENQKSVSKTGYVTMKPKMPTVA 615
+                      **********9..699***********9...799*******************************776..55666677777778888899**** PP
+
+      Myosin_head 560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakk 653
+                      +kf++sl++L+++++++np ++RCikpn++k+a+k++ ++vleql+++G++e++rir+ Gfp R +f+ f +r+++l+ k+      + e+ak+
+  pv_moon10494.t1 616 AKFHDSLKNLLEEMSKCNPWFIRCIKPNNNKQAMKFEMRVVLEQLNYTGMIETVRIRKLGFPIRYKFTIFNERFRMLIGKKP----GYIESAKD 705
+                      ******************************************************************************9995....456999** PP
+
+      Myosin_head 654 aveailkkleld.keeykiGktKiFfr 679
+                       +  il+kl+ + + +y++G tK+F+r
+  pv_moon10494.t1 706 LSIYILSKLDPKyRFMYQVGLTKVFLR 732
+                      *********8773679*********98 PP
+
+>> pv_moon14912.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  750.8  16.5    2e-228  1.9e-226       2     679 .]      14     702 ..      13     702 .. 0.94
+   2 ?    0.5   0.6      0.23        21     609     669 ..     721     784 ..     708     789 .. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 750.8 bits;  conditional E-value: 2e-228
+      Myosin_head   2 edlveLslln.easvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEs 94 
+                      +d+v L++ +  ++++enl+ Ry++d iYty+g vl++vnPyk+l+iy+++++++yk  +  e pPHifaiad+ y++ml+++++ +ilisGEs
+  pv_moon14912.t1  14 DDFVLLEKFDsREAFVENLRLRYEADIIYTYIGPVLISVNPYKRLNIYDDSFVSMYKKSNLFEHPPHIFAIADHSYQNMLRENHDECILISGES 107
+                      788999888625799******************************************************************************* PP
+
+      Myosin_head  95 GAGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeE 188
+                      GAGKte++K +l+y+a++s+s++    +e++ek+l+sn ilE+fGnAktvrn+nssRFGKy++i+fd kg+++g+ i +YLLEksRvv qa++E
+  pv_moon14912.t1 108 GAGKTETSKFILEYIAAISSSDA---INEIKEKLLKSNTILESFGNAKTVRNDNSSRFGKYMDIRFDFKGTPSGGCILKYLLEKSRVVLQANSE 198
+                      ********************999...679***************************************************************** PP
+
+      Myosin_head 189 RnyHiFYqllagaseeekkelkle.dvkdyaylsqsgeltv........dgiddseefketkkaldvlglseeeqkeifrivaailhlGniefk 273
+                      RnyHiFYql+ g s+++++el+l+ d ++y yl+++++ +v        + +dd+++f+ + +al++  +se++q+++++i+++ilhlGni+fk
+  pv_moon14912.t1 199 RNYHIFYQLITGGSDDLLSELHLQrDLDKYFYLTHGKNANVdiengeilNYLDDKNNFNLMMNALKICDFSEQQQMDLLKIISGILHLGNIKFK 292
+                      ************************9**********9999988899999999******************************************* PP
+
+      Myosin_head 274 keakeeqa........vskdeeklekaaellgvdaeelekalvkrriktg.kevvskalnveqakvardalakaiyerlFdwlvekinkslekk 358
+                      ++++ +++         + ++++le+++++l ++  +++k l++r+ + g +e v+++lnveqa++ardalak +yer F+wl+++in sle++
+  pv_moon14912.t1 293 SKDDSSKGitylinddNQLSQKSLETFSDMLSLSRDSVAKGLISRTFHIGnNEDVASPLNVEQAYYARDALAKDLYERTFNWLLKMINISLESS 386
+                      ***99998777654433334556999**********************997899*************************************998 PP
+
+      Myosin_head 359 k......eekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLde 446
+                      k      + + + +G+LDi+GFE+fe+nsFEq+ciny+nEkL +lF+el+lk+EqeeY  Egi+we +++ +dn++i+ Lie++pl i++++de
+  pv_moon14912.t1 387 KvnttvkTMHGNCVGILDIYGFEVFEQNSFEQFCINYCNEKLHELFIELTLKSEQEEYLTEGITWEPVKY-FDNKPICKLIESRPLSIIDIMDE 479
+                      8665554556789*********************************************************.*********************** PP
+
+      Myosin_head 447 ecllp.katdetfleklvkefekhakfeksrl......kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek 533
+                      ec  p +a+d+t+++kl ++f  +++fe +r+      + + ++F+ikHyA  v+Y+v+gfl+Kn++ l+++l el+ +s++++++++++ +e 
+  pv_moon14912.t1 480 ECSRPgQANDMTLIDKLSEKFVTNSHFECNRTskakwkTIQPHDFVIKHYAAPVTYTVHGFLDKNNNDLYRNLKELMLSSQNSIVKSIYSLAEL 573
+                      ****94569************99999998877777887788899*********************************************99554 PP
+
+      Myosin_head 534 eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfe 627
+                                       + k+ +tvgs+f++ l++Lm+ l+s++p yvRCik+n+ k+++++d++l+ +q+++l ++e++r+rraGf++R +fe
+  pv_moon14912.t1 574 ----------------GEIKRAETVGSQFRTGLKKLMQILYSKEPSYVRCIKSNHLKRSNNFDNELIEHQVEYLSLMENLRVRRAGFAYRREFE 651
+                      ................4556789*********************************************************************** PP
+
+      Myosin_head 628 efvqrYkilakkelkeleklkedakkaveailkklel.dkeeykiGktKiFfr 679
+                       f++rYk l++k++++    +++ ++av    +++ l ++e+y +G+ KiF+r
+  pv_moon14912.t1 652 TFLKRYKSLCPKTWPNY--NQANPREAVIDFCTHIGLtQNEDYCLGNNKIFIR 702
+                      **************888..45666677777777775515789*********98 PP
+
+  == domain 2  score: 0.5 bits;  conditional E-value: 0.23
+      Myosin_head 609 vlegirirraGfpnRitfeefvqrYkilakkelkeleklked...akkaveailkkleldkeey 669
+                      ++ +i+   +G+ +R++f+++++   i++++ +  l+k+k++   +k+  ++ l+++ + ++++
+  pv_moon14912.t1 721 LVTKIKAYYKGYKKRQLFKRIRRAADIISRNVCAWLKKIKQErelQKERDRQFLEQIAIREKRF 784
+                      567899999****************999999865444333331114555566777776666665 PP
+
+>> pv_moon18315.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  746.3  28.6  4.6e-227  4.3e-225       2     679 .]      13     704 ..      12     704 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 746.3 bits;  conditional E-value: 4.6e-227
+      Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                       d+v L++++ +++++nlk R++kd+iYt++g+v+v+vnPyk+l+iy  ++ik yk+ + +e pPH+fa+a+ ay+ m+++ +n +i+isGEsG
+  pv_moon18315.t1  13 GDFVLLNEISLDEFMKNLKLRFEKDKIYTFIGEVVVSVNPYKELNIYGPEHIKLYKSSEIYERPPHLFAVAEAAYKVMKRQVKNSCIVISGESG 106
+                      5999****************************************************************************************** PP
+
+      Myosin_head  96 AGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeER 189
+                       GKtea+K++l+y++++++ + +++ e+v++ ++qsn ilE fGnAkt rn+nssRFGKy++i fd k++++g+++ +YLLEksRvv+q+++ER
+  pv_moon18315.t1 107 SGKTEASKYILKYISAITNLSGRNDIEKVKNILIQSNIILECFGNAKTNRNDNSSRFGKYMDILFDFKCDPIGGQLINYLLEKSRVVYQQSGER 200
+                      ********************************************************************************************** PP
+
+      Myosin_head 190 nyHiFYqllagasee.ekkelkle..dvkdyaylsqsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeq 280
+                      n+H FY+l+ gase+ + ke+ l+  d+ +y+y++q+g    + ++d+++fk++++a+ + +++ +  k+i++iva+i+hlGn++f+  +++ +
+  pv_moon18315.t1 201 NFHSFYNLILGASESdLAKEYGLKqsDFMSYNYINQGGAHLNSNMNDKQNFKQVNEAMRIANFEPQLIKTIWQIVASIIHLGNLKFEPIDTDMN 294
+                      *********99987626789999877899*********************************************************86553322 PP
+
+      Myosin_head 281 a............vskdeeklekaaellgvdaeelekalvkrriktg.kevvskalnveqakvardalakaiyerlFdwlvekinkslekkk.. 359
+                                   + ++ ++++++a++l++++ +l kal++r+i++g k++v++al+v++a +ard+laka+ye+lF ++ +kin+ l+ k+  
+  pv_moon18315.t1 295 NnssskhsnqtklTNDSMKSVREIARMLKINEVNLVKALTSRTIASGnKDIVQTALSVKDALYARDSLAKAMYEQLFAFIFTKINEILDIKNti 388
+                      22235555555534444556999**********************997889999**********************************998877 PP
+
+      Myosin_head 360 ......eekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdee 447
+                             + +++iGvLDi+GFEif++n+FEq+ciny+nEkLqqlF+elvlk+EqeeY+rE+i+w++id+ ++n++i+dL+e   +Gi+s+Lde+
+  pv_moon18315.t1 389 ksndysAKDTTVIGVLDIYGFEIFDQNGFEQFCINYCNEKLQQLFIELVLKQEQEEYQRENINWQHIDY-FNNKIICDLVEMPHKGIISILDEA 481
+                      77766667789**********************************************************.************99*********9 PP
+
+      Myosin_head 448 cl.lpkatdetfleklvkefekhakfeksrl......kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeeke 534
+                      +  + k +de +l++l k+ + h++f +  +       +++++F+i+HyAg+v+Y++++f++Kn+D l++d  ++l +s++  l+++++e +  
+  pv_moon18315.t1 482 SYnVGKIDDEILLDHLSKKLKDHKHFASRATnltdktLTMKTEFRINHYAGDVKYQIKNFIDKNRDLLYQDFKRVLYSSENAYLKQMWPEGA-- 573
+                      9626678999****************98866688888899*************************************************933.. PP
+
+      Myosin_head 535 akaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfee 628
+                                 ++ ++ +k++++v+++fk+s+  L+++l++++p yvRCikpne+k+++ +d ++v++q+ +lG+le++r+rraGf++R ++e+
+  pv_moon18315.t1 574 -----------QSINEITKRPTSVATRFKNSMIGLVQNLSTKDPFYVRCIKPNETKSPHLFDYEKVKNQVFYLGLLENVRVRRAGFAYRLAYEK 656
+                      ...........3555666799************************************************************************* PP
+
+      Myosin_head 629 fvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                      f+qrYk+l+kk++++    +++ak++v+ ilk+ + d+ + ++G tKiF++
+  pv_moon18315.t1 657 FLQRYKCLSKKTWPNP--KSGKAKDNVSIILKECNYDT-DCRYGVTKIFIK 704
+                      *************877..68999*************97.58********97 PP
+
+>> pv_moon5603.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  656.7  33.8    6e-200  5.6e-198       2     679 .]       9     690 ..       8     690 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 656.7 bits;  conditional E-value: 6e-200
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqd.kenqsilisGEsG 95 
+                     +dl++L  lne+ +l+ lk Ryk++liYty+g +l+a+nP+k+l iy+ ++ k y++ +++  +PH+fa+ad ay+ ++++  ++q+ +isGEsG
+  pv_moon5603.t1   9 NDLATLPNLNEEIILNHLKARYKHNLIYTYIGDILLAINPFKQLGIYNLQHHKLYSNANRNAEKPHVFALADYAYECLKNNiYKSQCCVISGESG 103
+                     89****************************************************************************9874699********** PP
+
+     Myosin_head  96 AGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERn 190
+                      GKte++K+ +q+l + ++ ++     ++e +ilq nP+lEafGnA t+ n+nssRFGKyie++f +  +++ga+i++YLLEksRvv+q+++E n
+  pv_moon5603.t1 104 SGKTESAKHFIQHLIYLCAGNS-----RLELQILQVNPLLEAFGNATTLMNDNSSRFGKYIELSFYN-NRVVGAEISEYLLEKSRVVFQQKNEQN 192
+                     ******************9999.....89************************************75.6899*********************** PP
+
+     Myosin_head 191 yHiFYqllagaseee.kkelkle....dvkdyaylsqsgeltvdgidd.seefketkkaldvlglseeeqkeifrivaailhlGniefkkeakee 279
+                     +H+FY l+ag++e++  +++ l+    +  +++yl+q ++ +++  +  ++++ e+++a++ + + e+eq+e+f+ + +ilh+Gn+ f++++++ 
+  pv_moon5603.t1 193 FHVFYFLIAGLQEQNeSRKYFLTndleQSVKFNYLNQLSQNNLKHQNGlKQKYDELVNAMNYVAFMENEQTELFSALIGILHIGNLCFESNDEGY 287
+                     **********988751456655532226779************999974678****************************************999 PP
+
+     Myosin_head 280 qa..vskdeek...lekaaellgvdaeelekalvkrriktg..kevvskalnveqakvardalakaiyerlFdwlvekinkslekkk..eekksf 365
+                     ++     ++++   l+++++llg+d++ l ++l++ + ++   ++ +  + ++e   +ard+l k++y++lF+wl++kink+l ++k  + + + 
+  pv_moon5603.t1 288 STfiH--SKDSkftLNAISNLLGIDTNMLIESLTSCKTTSPslRDEIFRNYTIEYCINARDSLIKHVYSKLFSWLISKINKTLLCDKptNLNLKK 380
+                     88532..33222469******************98777665669**************************************9877733566789 PP
+
+     Myosin_head 366 iGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfle 460
+                     iG+LDi+GFE+f+knsFEqlcin +nE++q +Fn++++ lE+eeY rE+i+   i+f  dnq+ +dL    + Gil+ Ld+ ++lpk td++++e
+  pv_moon5603.t1 381 IGILDIYGFEHFQKNSFEQLCINLANEQIQYFFNKHIFSLEKEEYNREEINSIAITF-NDNQPLLDLFMG-SSGILKKLDDLSKLPKFTDKSLVE 473
+                     *********************************************************.6*********99.69********************** PP
+
+     Myosin_head 461 klvkefekhakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek.......eakaeakksekk.kk 547
+                      ++kef+k++ ++ ++  +s+ +F+i+HyAg+v+Y++++fleKn+D+l + + ellk+s +++++e+f+++ +       +   + ++s+ + ++
+  pv_moon5603.t1 474 VFNKEFAKNQYYQVNK--RSDLCFTINHYAGRVTYTAANFLEKNRDSLPHRVAELLKNSYNEVISEIFSNTPTetcgresSVYFSYNNSNYNfRN 566
+                     **********998886..79*************************************************98888899976333333444433144 PP
+
+     Myosin_head 548 kkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelk 642
+                     + +k++++++v++++++sl+ Lmk +++ +p ++RCikpn++k+a ++de+ vl qlr++Gvle+ rir++G++ R tf+efv+rYk l+++e++
+  pv_moon5603.t1 567 NIEKQSSKQSVSAQYRNSLEVLMKRMSESKPIFLRCIKPNSSKQADNFDEKFVLLQLRYCGVLETTRIRKEGYSLRLTFQEFVERYKYLSPNECN 661
+                     455667889************************************************************************************84 PP
+
+     Myosin_head 643 eleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                     +       + +++ +il++++l  +++++Gk+K+F++
+  pv_moon5603.t1 662 H------YDANTCIKILNNTNL--KNWRVGKSKVFLK 690
+                     4......4788999****9988..68*********97 PP
+
+>> pv_moon6310.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  563.0  23.2  1.4e-171  1.3e-169       2     590 ..      15     662 ..      14     676 .. 0.93
+   2 !   61.0   0.2   1.1e-19     1e-17     571     679 .]     771     873 ..     701     873 .. 0.78
+   3 ?   -0.0   0.7      0.31        30     559     603 ..     900     947 ..     883     951 .. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: 563.0 bits;  conditional E-value: 1.4e-171
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykg.kkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                     +dl++L l++e++++ +l+ Rykk++iYty+g +l+a+nP+++l+iy  ++ +ayk+ k ++ + PHif iad+ay++m ++k  q+i+isGEsG
+  pv_moon6310.t1  15 NDLSKLVLIDESKLIIELRARYKKKKIYTYIGDILLAINPFEQLNIYGIEHHEAYKNvKVRNSIMPHIFWIADRAYQRMINEKVLQCIVISGESG 109
+                     79*****************************************************98466899******************************** PP
+
+     Myosin_head  96 AGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERn 190
+                      GKte+tK +++++ + +++++   ++e+++kil+ n +lEafGnA+t  n nssRFGKy++++f  +g+i+gak+  YLLEksRvv+  ++ERn
+  pv_moon6310.t1 110 SGKTESTKLIVEHIIYLCKNNA---NNELQKKILDVNTLLEAFGNAQTSMNSNSSRFGKYLKMNFTPDGRIIGAKVFDYLLEKSRVVQHGSDERN 201
+                     ******************9999...578******************************************************************* PP
+
+     Myosin_head 191 yHiFYqllagaseeekkelkledvkdyaylsqsgeltv...........dgiddseefketkk.aldvlglseeeqkeifrivaailhlGniefk 273
+                     yHiFY+l+ g++++e++ + l++++++++l +++  +            + i+  +e+++++k  ++ +g+++e+ + if ++a+ilhl ni+f 
+  pv_moon6310.t1 202 YHIFYYLFYGLTKSELEYYYLDKPENHRILYRNSMGENdsgyclgfkdrNEINKCKEMHQIQKdIMKRVGFTDEDINLIFTLLASILHLTNIKFL 296
+                     *************************99988775444335589999999999999999999875279***************************** PP
+
+     Myosin_head 274 keakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkk......... 359
+                     ++++ +   ++de  l+ +++llg+d+e l++al++    t+ e v++ +n++qa+  rdalaka+yerlF w+v++in+ l+ ++         
+  pv_moon6310.t1 297 HDDESDGVYIEDEYPLAVVSNLLGLDQEILATALISTYCITRGERVVSLKNIHQANDCRDALAKALYERLFGWIVRQINNLLQPHNnyyyyflkd 391
+                     ***999999999999******************************************************************98776677777776 PP
+
+     Myosin_head 360 ...eekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllp 451
+                        e k+  i +LDi GFE f +nsFEqlcin +nE+Lq  Fn++++ +E +eY  Egie++ ++f  +n+  i++    plG+++lLdee+++p
+  pv_moon6310.t1 392 ktrEPKHISISILDISGFENFRVNSFEQLCINVANEHLQYYFNHHIFLQEEQEYLLEGIEFKSVEF-QNNEDLIEVFMG-PLGLFALLDEESKFP 484
+                     665677889*********************************************************.799999999888.9************** PP
+
+     Myosin_head 452 katdetfleklvkefekhakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek............. 533
+                     katd ++++kl+++f+ ++++ +s+   ++a+F+i+HyAg+v Y+++gfleKn+D l+++lv+++k sk +l++elf  e +             
+  pv_moon6310.t1 485 KATDCSLINKLHSNFKFTQRYVRSK--GNDASFAINHYAGRVVYNANGFLEKNRDNLSSNLVDCMKMSKIELISELFAAELTksgslsrsnstiv 577
+                     *********************9997..799***********************************************9977789*********** PP
+
+     Myosin_head 534 ............................eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekk 590
+                                                 + k+++++ + k +  ++k +++tv s f++sl+eL+++l++++p +vR +   +++
+  pv_moon6310.t1 578 arpnilprpkksyyaikqdtsftqskakTLKKSMQQLNLKYTMIRDKWNQTTVVSYFRNSLTELLDKLKEAEPLFVRILNETNRN 662
+                     ********************999876554444445555555666777899***************************88654333 PP
+
+  == domain 2  score: 61.0 bits;  conditional E-value: 1.1e-19
+     Myosin_head 571 ktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleld 665
+                     + ++  +    RC+kpn+++ + ++d++++ eql+++G+++   i+++G+p R+ f++f+++Ykil  +   +     e++ +a+e+i++k  ++
+  pv_moon6310.t1 771 DYISISSLTSTRCLKPNNERVESEFDDDMIREQLKYNGIVDIGNIKNQGWPFRMNFDHFLNKYKILFYSMNDQ----IEANGHACEQIIRKYGIT 861
+                     34444444557********************************************************998633....588899*******99875 PP
+
+     Myosin_head 666 keeykiGktKiFfr 679
+                       +y+iGktK+F++
+  pv_moon6310.t1 862 --DYEIGKTKVFLK 873
+                     ..79********97 PP
+
+  == domain 3  score: -0.0 bits;  conditional E-value: 0.31
+     Myosin_head 559 gskfkeslaeLmktlest...nphyvRCikpnekkkakkldeslvleq 603
+                     g   +++l +L++++e++   n +++R i  n+ +++ k+d++   +q
+  pv_moon6310.t1 900 GYLCRKHLLTLLNQVEKQkeeNYQFIRQIHTNSLMTHDKMDQTNQQRQ 947
+                     5667889999999987642226789****************9877766 PP
+
+>> pv_moon13982.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  229.4   0.4   1.2e-70   1.1e-68       2     186 ..     347     527 ..     346     532 .. 0.97
+   2 !  394.2   5.6  1.7e-120  1.6e-118     231     679 .]     538    1015 ..     528    1015 .. 0.93
+   3 ?   -2.7   2.8         2   1.9e+02     385     470 ..    1150    1234 ..    1147    1325 .. 0.80
+
+  Alignments for each domain:
+  == domain 1  score: 229.4 bits;  conditional E-value: 1.2e-70
+      Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykgkkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                      +dl+ L+  +e+++++ l +R+++ +iYty+g +l++vnP+ +l iy+++  ++y++  k++ pPHifa+ad+ y++m +++++q+i+isGEsG
+  pv_moon13982.t1 347 DDLALLEIFDEETIVNQLYNRFMQGQIYTYIGDILLSVNPFTNLSIYTDKWSQKYMNALKNDNPPHIFAVADMTYQAMIHNQSSQCIIISGESG 440
+                      89******************************************************************************************** PP
+
+      Myosin_head  96 AGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqae 186
+                       GKt ++  ++q l+   +  +    +++eekil  nP++EafGnAktv n+nssRFGKy+++ f k+g+++ga++++YLLEksRvv qa+
+  pv_moon13982.t1 441 SGKTMSANFLVQQLTLLGKAPT----TSLEEKILLVNPLMEAFGNAKTVINDNSSRFGKYLDMIFTKNGRVIGAQLHEYLLEKSRVVSQAP 527
+                      **************99987766....69*************************************************************86 PP
+
+  == domain 2  score: 394.2 bits;  conditional E-value: 1.7e-120
+      Myosin_head  231 iddseefketkkaldvlglseeeqkeifrivaailhlGniefkkea...keeqavskdeeklekaaellgvdaeelekalvkrriktgkevv 319 
+                       +++ ++f ++++ ++++g++++e ++i++++a+ilhlGn++f +++   ++ +  ++++++l+++++llg+d++el+ al++r i t+ e++
+  pv_moon13982.t1  538 LSNRTKFVAIHNCFETIGFKSQEVNSIYSLLAGILHLGNLTFFQDEgihNDGKCHVTNKNSLTIISQLLGIDKKELQDALTQRGIVTRGETL 629 
+                       567889************************************9987665788889999999******************************* PP
+
+      Myosin_head  320 skalnveqakvardalakaiyerlFdwlvekinkslekkkeekksfiG..vLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqee 409 
+                       + + ++++   ard++ak +y rlF+w+v+kin  l+ +++e++ +i   +LDi+GFE f +nsFEqlcin +nE++q  Fn++v+  E +e
+  pv_moon13982.t1  630 IRTNSMQECISARDSMAKGLYGRLFSWIVNKINLLLKPSEKETEDVISvsILDIFGFENFAQNSFEQLCINIANEQIQYYFNQHVFAWEMQE 721 
+                       *************************************99999999885227***************************************** PP
+
+      Myosin_head  410 YvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefekhakfeksrlkkseakFiikHyAgkveYevegfl 501 
+                       Y +E+i+ ++i f  dn+ ++d+  +kp+G+lslLdee+++pkatd+t++ek+++++++ + + k++   +e +F+i+HyAg v+Y+v+gfl
+  pv_moon13982.t1  722 YLNEEIDGSEIAF-ADNRHVLDMFLAKPMGLLSLLDEESRFPKATDTTLVEKFHSNMKS-SCYIKPK--SNELTFTIQHYAGLVQYDVKGFL 809 
+                       *************.8***************************************99865.5677887..6999******************* PP
+
+      Myosin_head  502 eKnkDtlnedlvellkkskkkllaelfkeeek..................................eakaeakksekkkkkkkkkkkfktvg 559 
+                       eKn D ++ ++++ll++s+ +l+++lf++  +                                   ++++ +++  ++ +++++++++tv+
+  pv_moon13982.t1  810 EKNFDYVSPEIISLLRQSEISLIRSLFRNPLTkigehqnnilsicnlpyetlkdsfdqsrnstlnyFKNSKPSRKPGSNYSTSQNRTQATVS 901 
+                       ***************************9977789************************9999887634444444444455556666889*** PP
+
+      Myosin_head  560 skfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkeleklkeda 651 
+                       + f+ sl +L++++ + +ph+vRCi+pn +k +  +d+++v  ql+++Gvle+ +irr G+++Ri f +fv+rY+ila    ++     +++
+  pv_moon13982.t1  902 TYFRYSLMDLLSKMVTGQPHFVRCIRPNTDKIPSYFDSEIVSIQLKYTGVLETTKIRRLGYSHRISFVDFVKRYAILAYPVKTNI----SET 989 
+                       *****************************************************************************99986554....789 PP
+
+      Myosin_head  652 kkaveailkkleldkeeykiGktKiFfr 679 
+                       ++ +  il+kl+l+  ++k+GktK+F++
+  pv_moon13982.t1  990 QESCIDILSKLSLT--NWKVGKTKVFLK 1015
+                       999******99885..79********97 PP
+
+  == domain 3  score: -2.7 bits;  conditional E-value: 2
+      Myosin_head  385 lcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpka.tdetfleklvkefekha 470 
+                       + + y n ++  l ne  + + + +Y+ ++ e e ++++l n+ +i+  ++k+   + +L  e + pk  + ++++++++k+ e++a
+  pv_moon13982.t1 1150 MQVHYFNQQIELLGNEAFMCAMKTNYQINKPEIEPVKYNLKNKVTIETSQTKNSD-F-VLKSENQHPKFgDFKEVVDQIKKSLERKA 1234
+                       5678999999999999999999999**99999*************9998886444.3.35555556664155677777777775444 PP
+
+>> pv_moon7184.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  504.3  26.7  7.9e-154  7.4e-152       2     679 .]     129     844 ..     128     844 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 504.3 bits;  conditional E-value: 7.9e-154
+     Myosin_head   2 edlveLsllneasvlenlkkRykkdliYtysglvlvavnPykklkiysedvikaykg.kkkeelpPHifaiadeayrsmlqdkenqsilisGEsG 95 
+                     +dl+ L l++++++l nlk+++++++ Y y+g++lva+nP ++lkiys+++i+ y++ k +++ +PH+f    e yr+  ++++n  ++++GEsG
+  pv_moon7184.t1 129 DDLSLLPLIDDKAILANLKTKFETQKYYSYVGELLVAINPRENLKIYSDQHIDFYANsKIRSNQDPHLFWTCSETYRNAIEKQKNHVMILTGESG 223
+                     89*****************************************************86266899******************************** PP
+
+     Myosin_head  96 AGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnnssRFGKyieiefdkkgkiagakietYLLEksRvvkqaeeERn 190
+                      GKte+ K+ +q+l+ v+++++     +++ ki qs  ilEafG A t+ n ns RF Ky+e+++ ++g++++ak++ ++LEk+Rv    ++ERn
+  pv_moon7184.t1 224 SGKTETFKYAVQFLTKVKSKND-----SLRLKINQSLSILEAFGHAPTLFNSNSTRFAKYFEMRYTSNGELISAKLNDFMLEKARVPLEFPHERN 313
+                     ******************9999.....79999*************************************************************** PP
+
+     Myosin_head 191 yHiFYqllagaseeekkelkledvkdyayls.qsgeltvdgiddseefketkkaldvlglseeeqkeifrivaailhlGniefkkeakeeqa... 281
+                     + iFY+llag++++ +++lkl+d+++++++   +g ++ +  + se+f+e++k +   g++e++ ++ifr++aai+ l +ief++ +k+++    
+  pv_moon7184.t1 314 FLIFYYLLAGLDKSVLENLKLKDIQKHKITMlPEGLTNYQYRQWSENFQELSKKMLSFGFTEDDLTTIFRLLAAIILLCDIEFEQVEKNSTPhes 408
+                     ***********************999998652567888999999****************************************98877654333 PP
+
+     Myosin_head 282 vskdeek.lekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkkeek...ksfiGvLDia 372
+                     v+ ++e+ + k+aell+vd+ +l + l++ +++t + ++  + n+e+a+++r+ lak+iy+rlF w+v+++n++++++ +++   +  iG+LD++
+  pv_moon7184.t1 409 VYIKNESiAIKVAELLCVDSDDLITILLSSNVATSSGTLLWPRNLENAMNSRNCLAKNIYARLFGWIVKQLNTQMNSEDSSQyrpAFTIGLLDMF 503
+                     55566664889****************************************************************9988443222678******* PP
+
+     Myosin_head 373 GFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkatdetfleklvkefe 467
+                     GFE f++nsFEql+in +nE Lq  F ++ +  +q+ Y++Eg++++++++  dn++++dL+ +kp+Gi+s+L + c++ k +d+ f++kl++ f+
+  pv_moon7184.t1 504 GFENFKINSFEQLMINTANEELQSAFYRTQISYNQQAYQQEGLSYHQVNY-KDNRKTVDLLLQKPIGIFSVLKDSCKTIKPDDNLFVQKLNEYFS 597
+                     **************************************************.8******************************************* PP
+
+     Myosin_head 468 khakfeksrlkkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskkkllaelfkeeek............................. 533
+                     +h+ + +++   s ++F i+H  g+v+Y+ ++f+eK k+ l++++ e+lkksk++l+a+lf +                                
+  pv_moon7184.t1 598 HHSDYVQNK--SSANSFSINHCYGRVKYNGSKFIEKSKECLTKNVFECLKKSKDSLVADLFASLPSpngsfsnvrarqsnqpfkkflnstlnstt 690
+                     *****8887..699*************************************************98899*************************** PP
+
+     Myosin_head 534 ............eakaeakksekkkkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirir 616
+                                  ++  ++ ++ ++ + +   + ++    f  sl+e+++++e++++ ++RCikpne+  ++++ +++v +q+r +G++e  r+r
+  pv_moon7184.t1 691 nstndynksifiVNEILKRIKGVTQVQPDLALNNASNLLYFSVSLNEIVSKIENAKTVFIRCIKPNENSFSTQFVTNVVQKQIRDSGLVEYSRVR 785
+                     9999998888642222223333333333444455666678999**************************************************** PP
+
+     Myosin_head 617 raGfpnRitfeefvqrYkilakkelkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                     +  ++ + +f +++ r++ la++  ++l  +k++ k+a+  +l+ + +   ++++G+tKiF+r
+  pv_moon7184.t1 786 KFNYSIKFEFVNLLYRFTNLAQSYGVDL--IKTQPKDACVRLLQMTGI--RNFRVGSTKIFMR 844
+                     **********************998666..899***********9887..58*********98 PP
+
+>> pv_moon8107.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  480.2   1.4  1.5e-146  1.4e-144     265     679 .]       1     407 [.       1     407 [. 0.96
+   2 ?   -3.9   4.6       4.7   4.5e+02     515     576 ..     836     900 ..     824     924 .. 0.56
+   3 ?   -3.0   0.0       2.5   2.3e+02     135     169 ..     925     960 ..     904     962 .. 0.72
+   4 ?   -3.4   1.9       3.4   3.2e+02     257     306 ..    1200    1249 ..    1143    1311 .. 0.58
+
+  Alignments for each domain:
+  == domain 1  score: 480.2 bits;  conditional E-value: 1.5e-146
+     Myosin_head 265 lhlGniefkkeakeeqavskdeeklekaaellgvdaeelekalvkrriktgkevvskalnveqakvardalakaiyerlFdwlvekinkslekkk 359
+                     +h Gn + k++++eeqa+ + ++++ek+a+llg++  ++   l+k++ik+g+e+v+k +n +q++++  al+ka+y+r F w+v+k+n++l++k+
+  pv_moon8107.t1   1 MHWGNQKWKQKPREEQAEADGTDEVEKVAKLLGLEIDSFIMGLLKPKIKVGREFVNKGQNQSQVTNSCAALSKAMYARAFMWIVDKCNETLDVKT 95 
+                     799******************************************************************************************** PP
+
+     Myosin_head 360 eekksfiGvLDiaGFEifeknsFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgiewefidfgldnqaiidLiekkplGilslLdeecllpkat 454
+                      ++++fiGvLDiaGFE+fe+n+FEqlcin++nE+Lqq+Fn+ +++lEqeeY++Egi we++ fg d+qa+idLi+k p+Gi+s+L+eec++pk+t
+  pv_moon8107.t1  96 VKRAYFIGVLDIAGFETFEENGFEQLCINFTNERLQQFFNNFMFVLEQEEYAKEGIVWEMMSFGADLQATIDLIDK-PMGIFSMLEEECVVPKGT 189
+                     ***************************************************************************9.9***************** PP
+
+     Myosin_head 455 detfleklvkef.ekhakfeksrl..kkseakFiikHyAgkveYevegfleKnkDtlnedlvellkkskk.kllaelfkeeekeakaeakksekk 545
+                     d+t+ ekl+ ++ +kh++f k++   +k ea+F + HyAg v+Y+v+g+l+KnkD++ne + +++k+ ++ klla lf++             ++
+  pv_moon8107.t1 190 DMTYKEKLYAKHlGKHPSFGKPKPskSKYEAHFDLFHYAGVVSYSVTGWLDKNKDPINEFVAAMFKNQQHnKLLAYLFQDIGA----------EE 274
+                     ***********99*******99875577899*********************************99887769********654..........33 PP
+
+     Myosin_head 546 kkkkkkkkkfktvgskfkeslaeLmktlestnphyvRCikpnekkkakkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakke 640
+                     +++k  kk  +t++++++e+l++Lmktl +t+ph+vRCi+pne k+ + +d++lv++ql+c+Gvlegiri+r+Gfp+Ri+f ef+qrY+il++++
+  pv_moon8107.t1 275 AQQKGGKKGSQTISANHREQLNKLMKTLGATHPHFVRCIIPNEIKTGGVIDAHLVMHQLHCNGVLEGIRICRKGFPSRIIFVEFIQRYSILNPTA 369
+                     44445555678**********************************************************************************99 PP
+
+     Myosin_head 641 lkeleklkedakkaveailkkleldkeeykiGktKiFfr 679
+                     + +  + k++akka++a+l+++++d e y+iG tK+ f+
+  pv_moon8107.t1 370 C-KGATDKDKAKKATQAVLETVKMDPELYRIGLTKVLFK 407
+                     8.55589999**************************997 PP
+
+  == domain 2  score: -3.9 bits;  conditional E-value: 4.7
+     Myosin_head 515 llkkskkkllaelfkeeek..eakaeakksekkkk.kkkkkkkfktvgskfkeslaeLmktlest 576
+                      l+k +++ +ael ++ ++  ++k++ +k++++++ +++++++++  ++k + + ++L k+le++
+  pv_moon8107.t1 836 QLRKKHQDAVAELSQQIDQlqKSKNKLEKEKQAARvEADESRSQIESSHKARANAEKLAKQLEQQ 900
+                     44555555666666655554322233333333222033333344555666666666666666653 PP
+
+  == domain 3  score: -3.0 bits;  conditional E-value: 2.5
+     Myosin_head 135 lEaf.GnAktvrnnnssRFGKyieiefdkkgkiaga 169
+                     lE++ Gn      +  sRFG + +++ + +g+i+ a
+  pv_moon8107.t1 925 LESVnGNLASQLEEAESRFGGFAKVRSQLQGQIEEA 960
+                     4443388888888999*********99999999866 PP
+
+  == domain 4  score: -3.4 bits;  conditional E-value: 3.4
+     Myosin_head  257 ifrivaailhlGniefkkeakeeqavskdeeklekaaellgvdaeeleka 306 
+                        +++ a l++Gn++++ e++ ++ + + e++ ++ a+ l   +++le  
+  pv_moon8107.t1 1200 EAKVLNAQLEVGNVRLEIERRLHEKEEEFENTRRNHARALESMQASLEAE 1249
+                      35778889999999888776544333333333333333333333333222 PP
+
+>> pv_moon8431.t1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  269.4  17.1   9.6e-83     9e-81       2     679 .]     433    1200 ..     432    1200 .. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: 269.4 bits;  conditional E-value: 9.6e-83
+     Myosin_head    2 edlveLsllneasvlenlkkRyk.kdliYtysglvlvav.nP.........ykkl......kiysedvikaykgkkkeelpPHifaiadeayr 77  
+                      edl++L ++ne+s+++ l++Ry+  +li t++g  ++ +  P         y  l       +y++++++++kgk+ +e+pPHi++ ++++yr
+  pv_moon8431.t1  433 EDLSKLRFINESSLIHILRQRYHtLKLIHTNIGSNCMIIlQPpvnsncassYLDLlssspfSVYNDRIVAKFKGKRLDEMPPHIYSYTQNVYR 525 
+                      8*********************94589******866543233233333444443334332269****************************** PP
+
+     Myosin_head   78 smlqdkenqsilisGEsGAGKteatKkvlqylasvseskeevekeeveekilqsnPilEafGnAktvrnnn.ssRFGKyieiefdkkgkiaga 169 
+                      +ml+ +++qsi++sG sG GK  ++K vl+yl s ++ ++++ ++  e k+ + n +++af    t +n   + RF     +ef+++g++a+ 
+  pv_moon8431.t1  526 TMLTTRQDQSIILSGHSGSGKSFNSKLVLNYLFSLASPSNNKFNNFTEIKLNALNCLINAFCCVSTDKNTFgANRFLNIYLLEFNHSGQLASI 618 
+                      **********************************99999977777888889999***************952689*999999*********** PP
+
+     Myosin_head  170 kietYLLEksRvvkqaeeERnyHiFYqllagaseeekkelkledvk....dyaylsqsgeltvdgidds.eefketkkaldvlglseeeqkei 257 
+                       ++   L+  R+++q ++E ny iFY+ll+g+++  k+el+l++++    + + l + ++l+ +  d s + f+++ ++++ l++s++e k+i
+  pv_moon8431.t1  619 LLQLIQLDFTRLIYQPNNESNYLIFYYLLHGSDALIKSELQLNQISlgqnAANLLFH-SDLNSKITDSSkQLFQNVLDSFKHLNFSDSEIKSI 710 
+                      *****************************************9966411112233333.455555555541559******************** PP
+
+     Myosin_head  258 frivaailhlGniefkkeakeeqa.vskdeeklekaaellgvdaeelekalvk...rriktg.........kevvskalnveqakvardal.. 335 
+                      ++i+aai+hl   e +k+++ +++ +  + ++++kaa+llg++ ++l+ a+ +   ++ +t+         +  +s   nv+ +   ++ l  
+  pv_moon8431.t1  711 LSILAAIIHLSRAEATKSQQSTRSgQFLNPNEAHKAANLLGISFQQLTDAVFTilnNSSQTNsakyghlsnSAHISPDPNVNLSLDPVECLqg 803 
+                      *************9988776655537778888****************997541115555557788888766666666777766666666622 PP
+
+     Myosin_head  336 .akaiyerlFdwlvekinkslekkk...eekksfiGvLDiaGFEifekn.........sFEqlcinyvnEkLqqlFnelvlklEqeeYvrEgi 415 
+                          +y++  ++lv+ in+s++ ++   +  ++ i ++D  GF +  +n         s+  l+ ny  E+Lq +F +  +++  e+ ++Eg+
+  pv_moon8431.t1  804 yCLGLYQECLNMLVNFINRSFKLNSfnqQPISNSILLIDPPGFQYHPINainikthaaSYSDLMCNYLSERLQLMFYQINFINPIEKCAQEGL 896 
+                      25678***************98776433667889999*******98777555555555899******************************** PP
+
+     Myosin_head  416 ewefidfgldn.qaiidLiek....kplGilslLdeecllpkatdetfleklvkefekhakfeksrlkkseakFiikHyAg..kveYevegfl 501 
+                      + + +++  ++    ++  ek    + +G+lsl++e ++  + + + f++kl ++ +k+ +f + +   s+++F+i+H  g   veY+ + +l
+  pv_moon8431.t1  897 DIDLVEHIPESpSSLVNWFEKtnlkQANGLLSLIEEYSNKEN-QSKDFMQKLFDSDQKQ-NFISFN---SDENFTIHHEFGlfPVEYNLSRWL 984 
+                      *******544425689999997776789*******9998655.5678******986655.565554...6899*****776347********* PP
+
+     Myosin_head  502 eK.nkDtln.edlvellkkskk.kllaelfkeeek......................eakaeakksekkkkkkkkkkkfktvgskfkeslaeL 569 
+                      +   kD l+ +++++ l++skk  ll+++ ++ +                         +a++ k +++ +k  + +k+k+   +fk +l ++
+  pv_moon8431.t1  985 DYyCKDFLThRNALNSLNESKKdYLLSSVKQSLNLsnaaatfnssnlnslntlitndLGQASSLKRQASVRKMLTMSKRKSFRVNFKLQLDSI 1077
+                      96369998626789999999984567777777666999************9999875334444455556666667778899999********* PP
+
+     Myosin_head  570 mktlestnphyvRCikpnekkk..........akkldeslvleqlrclGvlegirirraGfpnRitfeefvqrYkilakkelkel...eklke 649 
+                      ++++++t +++v C+ p ++++          +++ld  l  +ql++  +l + ri r+G+p+   feef +r+++ + ++l +    ++ ++
+  pv_moon8431.t1 1078 FDSMRRTRANFVYCVLPVQSHQlhqahqslmlSERLDVPLLRSQLKAHQLLAACRIYRQGYPEHLSFEEFERRFAMFLVHNLDSInngTNSSD 1170
+                      *****************88766111111111134466677889*********************************99888765544578899 PP
+
+     Myosin_head  650 dakkaveailkkleldkeeykiGktKiFfr 679 
+                      d+++a+ ++++  ++d+  yk+G+t+iFf+
+  pv_moon8431.t1 1171 DHRQACLSLIRLFDIDQAFYKLGTTQIFFK 1200
+                      9****************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (679 nodes)
+Target sequences:                       2827  (2871382 residues searched)
+Passed MSV filter:                       557  (0.197029); expected 56.5 (0.02)
+Passed bias filter:                       46  (0.0162717); expected 56.5 (0.02)
+Passed Vit filter:                        31  (0.0109657); expected 2.8 (0.001)
+Passed Fwd filter:                        30  (0.010612); expected 0.0 (1e-05)
+Initial search space (Z):               2827  [actual number of targets]
+Domain search space  (domZ):              30  [number of targets reported over threshold]
+# CPU time: 0.80u 0.02s 00:00:00.82 Elapsed: 00:00:00.60
+# Mc/sec: 3221.72
+//
+[ok]

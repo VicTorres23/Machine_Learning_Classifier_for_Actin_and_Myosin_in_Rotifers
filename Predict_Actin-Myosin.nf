@@ -9,9 +9,6 @@ params.hmm_evalue = 1e-5
 params.min_fragment_length = 500
 params.hard_negative_score_cutoff = 4
 params.test_fasta = null
-params.n_runs = 100
-params.myosin_threshold = 80
-params.class_threshold = 80
 
 if( !params.training_dataset ) {
     error "Please specify --training_dataset"
@@ -74,31 +71,6 @@ process CROSS_VALIDATION {
     """
 }
 
-process MONTE_CARLO {
-    tag "MonteCarlo_ActinMyosin"
-
-    publishDir "${params.outdir}/montecarlo_results", mode: 'copy'
-
-    input:
-    path training_dataset
-    path test_dataset
-
-    output:
-    path "montecarlo_outputs/MonteCarlo_Prediction_Percentages.csv", emit:montecarlo_csv
-    path "montecarlo_outputs/*"
-
-    script:
-    """
-    mkdir -p montecarlo_outputs
-
-    python3 ${projectDir}/bin/MonteCarlo_Predictions.py \
-        --training_dataset ${training_dataset} \
-        --test_dataset ${test_dataset} \
-        --n_runs ${params.n_runs} \
-        --output_csv montecarlo_outputs/MonteCarlo_Prediction_Percentages.csv
-    """
-}
-
 process FILTER_CONFIRMED_PREDICTIONS {
     tag "Filter_Confirmed_Predictions"
 
@@ -122,9 +94,7 @@ process FILTER_CONFIRMED_PREDICTIONS {
         --input_fasta ${test_fasta} \
         --output_actin_csv confirmed_outputs/Predicted_Actins.csv \
         --output_myosin_csv confirmed_outputs/Predicted_Myosins.csv \
-        --output_myosin_fasta confirmed_outputs/Predicted_Myosins.fasta \
-        --class_threshold ${params.class_threshold} \
-        --myosin_threshold ${params.myosin_threshold}
+        --output_myosin_fasta confirmed_outputs/Predicted_Myosins.fasta
     """
 }
 
@@ -161,6 +131,7 @@ process BUILD_MYOSIN_FEEDBACK {
     publishDir "${params.outdir}/feedback_builder", mode: 'copy'
 
     input:
+    path prediction_csv
     path myosin_csv
     path domtblout
 
@@ -172,6 +143,7 @@ process BUILD_MYOSIN_FEEDBACK {
     mkdir -p feedback_outputs
 
     python3 ${projectDir}/bin/Build_Myosin_Feedback.py \
+        --prediction_csv ${prediction_csv} \
         --myosin_csv ${myosin_csv} \
         --hmmer_domtblout ${domtblout} \
         --output_feedback_csv feedback_outputs/Myosin_Feedback_Table.csv \
@@ -192,11 +164,9 @@ workflow {
     predictions = TRAIN_AND_PREDICT_ACTIN_MYOSIN(training_ch, test_ch)
     CROSS_VALIDATION(training_ch)
     
-    montecarlo = MONTE_CARLO(training_ch, test_ch)
-
-    confirmed = FILTER_CONFIRMED_PREDICTIONS(montecarlo.montecarlo_csv, test_fasta_ch)
+    confirmed = FILTER_CONFIRMED_PREDICTIONS(predictions.prediction_csv, test_fasta_ch)
 
     pfam_results = RUN_HMMSEARCH_PF00063(confirmed.myosin_fasta, pf00063_hmm_ch)
 
-    BUILD_MYOSIN_FEEDBACK(confirmed.myosin_csv, pfam_results.domtblout)
+    BUILD_MYOSIN_FEEDBACK(predictions.prediction_csv, confirmed.myosin_csv, pfam_results.domtblout)
 }

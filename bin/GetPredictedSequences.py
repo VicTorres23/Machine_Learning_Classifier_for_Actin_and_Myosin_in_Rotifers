@@ -5,14 +5,12 @@ import argparse
 import os
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Extract predicted Actins and Myosins from Monte Carlo results using minimum ocurrence thresholds.")
+    parser = argparse.ArgumentParser(description="Filter only confirmed predictions where all models agree and prediction is not Not_Target.")
     parser.add_argument("--input_csv", required=True, help="Input prediction CSV")
     parser.add_argument("--input_fasta", required=True, help="Original FASTA file")
     parser.add_argument("--output_actin_csv", required=True, help="Output CSV for predicted Actins")
     parser.add_argument("--output_myosin_csv", required=True, help="Output CSV for predicted Myosins")
     parser.add_argument("--output_myosin_fasta", required=True, help="Output FASTA for predicted Myosins (used for PFAM search)")
-    parser.add_argument("--class_threshold", type=float, default=80.0, help="Minimum percentage required to keep a Actin prediction (default: 80.0)")
-    parser.add_argument("--myosin_threshold", type=float, default=80.0, help="Minimum percentage required to keep a Myosin prediction (default: 80.0")
     return parser.parse_args()
 
 def read_fasta(fasta_file):
@@ -37,28 +35,24 @@ def read_fasta(fasta_file):
             sequences[header] = "".join(seq_lines)
     return sequences
 
-def SelectBest(df):
-    if df.empty:
-        return df.copy()
-
-    return (df.sort_values(["Title", "Percentage"], ascending=[True, False]).drop_duplicates(subset=["Title"], keep="first").copy())
-
 def main():
     args = parse_args()
 
     df = pd.read_csv(args.input_csv)
     print(f"Total rows in input CSV: {len(df)}")
 
-    required_cols = {"Title", "Model", "Class", "Percentage"}
-    missing_cols = required_cols - set(df.columns)
-    if missing_cols:
-        raise ValueError(f"Input CSV is missing required columns: {missing_cols}")
+    consensus = df[
+        (df["Logistic_Regression"] != "Not_Target") &
+        (df["Logistic_Regression"] == df["MLP"]) &
+        (df["MLP"] == df["XGBoost"])
+    ].copy()
+    print(f"Consensus rows: {len(consensus)}")
 
-    actins = df[(df["Class"] == "Actin") & (df["Percentage"] >= args.class_threshold)].copy()
-    actins = SelectBest(actins)
+    actins = consensus[consensus["XGBoost"] == "Actin"].copy()
+    myosins = consensus[consensus["XGBoost"].astype(str).str.startswith("Myosin_")].copy()
 
-    myosins = df[df["Class"].astype(str).str.startswith("Myosin_") & (df["Percentage"] >= args.myosin_threshold)].copy()
-    myosins = SelectBest(myosins)
+    print(f"Actin rows: {len(actins)}")
+    print(f"Myosin rows: {len(myosins)}")
 
     fasta_sequences = read_fasta(args.input_fasta)
     print(f"Sequences loaded from FASTA: {len(fasta_sequences)}")
@@ -82,6 +76,6 @@ def main():
             else:
                 missing += 1
     print(f"Sequences written: {written}")
-    print(f"Sequences missing: {missing}")
+    print(f"Sequences written: {missing}")
 if __name__ == "__main__":
     main()

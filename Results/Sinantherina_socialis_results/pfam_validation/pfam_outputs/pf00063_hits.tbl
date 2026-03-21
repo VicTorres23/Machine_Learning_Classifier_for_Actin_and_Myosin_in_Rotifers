@@ -1,0 +1,29 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ssocau2687.t1        -          Myosin_head          PF00063.28  2.7e-271  896.2   7.1  2.7e-271  896.2   7.1   5.0   4   2   1   5   5   2   1 -
+ssocau18926.t1       -          Myosin_head          PF00063.28  3.8e-269  889.1  12.9  9.2e-218  719.3   1.9   5.2   3   3   3   6   6   5   2 -
+ssocau1879.t1        -          Myosin_head          PF00063.28  1.8e-245  810.9  18.6  7.8e-154  508.0   2.6   3.2   1   1   2   3   3   3   3 -
+ssocau8840.t1        -          Myosin_head          PF00063.28  5.6e-228  753.1  21.0  3.6e-136  449.6   7.3   7.0   3   1   3   6   6   4   4 -
+ssocau1638.t1        -          Myosin_head          PF00063.28  7.6e-225  742.7  22.7  7.6e-225  742.7  22.7   2.8   3   0   0   3   3   3   1 -
+ssocau5446.t1        -          Myosin_head          PF00063.28  1.7e-217  718.4  17.3    6e-177  584.4   5.1   6.1   4   1   2   6   6   4   3 -
+ssocau9456.t1        -          Myosin_head          PF00063.28    9e-214  706.1  56.7  5.4e-129  425.9  20.5   5.7   2   2   2   4   4   3   3 -
+ssocau12227.t1       -          Myosin_head          PF00063.28  1.3e-209  692.3  45.6  3.4e-151  499.3  15.5   3.9   3   1   2   5   5   5   3 -
+ssocau8600.t1        -          Myosin_head          PF00063.28  5.5e-199  657.2  25.0  3.6e-163  538.9  12.1   6.0   2   1   1   3   3   2   2 -
+ssocau19570.t1       -          Myosin_head          PF00063.28    4e-182  601.5  13.2  4.1e-168  555.2  10.3   4.6   3   1   1   4   4   4   2 -
+ssocau21188.t1       -          Myosin_head          PF00063.28    4e-181  598.2  14.0    4e-181  598.2  14.0   2.5   2   1   0   2   2   2   1 -
+ssocau1881.t1        -          Myosin_head          PF00063.28  1.2e-156  517.4  10.8   1.8e-91  302.0   3.5   5.3   4   1   2   6   6   4   3 -
+ssocau22000.t1       -          Myosin_head          PF00063.28  2.1e-133  440.5  44.1     6e-75  247.3   4.4   4.1   2   1   1   3   3   3   2 -
+ssocau13931.t1       -          Myosin_head          PF00063.28  2.8e-119  393.8  15.9   1.8e-84  278.8   5.3   3.3   1   1   1   2   2   2   2 -
+ssocau5914.t1        -          Myosin_head          PF00063.28   4.7e-85  280.7  15.3   4.7e-85  280.7  15.3   3.1   2   1   0   2   2   1   1 -
+ssocau18929.t1       -          Myosin_head          PF00063.28   9.3e-46  150.8   0.1   9.3e-46  150.8   0.1   1.8   2   0   0   2   2   2   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      PF00063.hmm
+# Target file:     Predicted_Myosins.fasta
+# Option settings: hmmsearch --tblout pfam_outputs/pf00063_hits.tbl --domtblout pfam_outputs/pf00063_domtblout.tbl -E 0.00001 PF00063.hmm Predicted_Myosins.fasta 
+# Current dir:     /var/folders/yr/g6c26bjj21s7_mwb1xxfychw0000gn/T/nxf.Jfq3SmE1vW
+# Date:            Sat Mar 21 19:03:43 2026
+# [ok]

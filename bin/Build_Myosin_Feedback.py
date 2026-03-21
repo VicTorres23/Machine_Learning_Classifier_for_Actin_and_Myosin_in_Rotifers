@@ -3,6 +3,7 @@ import pandas as pd
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Build feedback dataset using PFAM validation of predicted myosins.")
+    parser.add_argument("--prediction_csv", required=True)
     parser.add_argument("--myosin_csv", required=True)
     parser.add_argument("--hmmer_domtblout", required=True)
     parser.add_argument("--output_feedback_csv", required=True)

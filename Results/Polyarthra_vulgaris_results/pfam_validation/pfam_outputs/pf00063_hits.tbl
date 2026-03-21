@@ -1,0 +1,43 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+pv_moon1924.t1       -          Myosin_head          PF00063.28  4.9e-296  980.8   3.0  4.9e-296  980.8   3.0   3.8   3   1   0   3   3   1   1 -
+pv_moon7712.t1       -          Myosin_head          PF00063.28  4.6e-291  964.4  10.6  3.4e-222  736.8   1.6   4.4   3   1   1   4   4   2   2 -
+pv_moon7715.t1       -          Myosin_head          PF00063.28  1.7e-273  906.3   2.8  1.7e-273  906.3   2.8   2.9   2   0   0   2   2   1   1 -
+pv_moon7713.t1       -          Myosin_head          PF00063.28  2.4e-273  905.8   7.2  2.4e-273  905.8   7.2   3.2   3   0   0   3   3   2   1 -
+pv_moon7717.t1       -          Myosin_head          PF00063.28  3.5e-270  895.4   0.9  3.5e-270  895.4   0.9   4.6   4   1   0   6   6   3   1 -
+pv_moon7589.t1       -          Myosin_head          PF00063.28  1.1e-269  893.7   6.2  1.1e-269  893.7   6.2   3.6   4   2   0   4   4   3   1 -
+pv_moon417.t1        -          Myosin_head          PF00063.28  3.8e-268  888.7  22.9  3.8e-268  888.7  22.9   3.8   3   1   1   4   4   3   1 -
+pv_moon3874.t1       -          Myosin_head          PF00063.28  1.6e-267  886.6   3.8  1.6e-267  886.6   3.8   2.6   2   0   0   2   2   2   1 -
+pv_moon7209.t1       -          Myosin_head          PF00063.28  1.4e-266  883.5   3.0  1.4e-266  883.5   3.0   2.3   2   1   0   2   2   1   1 -
+pv_moon4286.t1       -          Myosin_head          PF00063.28  1.1e-265  880.5   4.9  1.1e-265  880.5   4.9   4.0   4   1   0   4   4   4   1 -
+pv_moon4389.t1       -          Myosin_head          PF00063.28  1.7e-265  879.9   3.6  1.7e-265  879.9   3.6   2.3   2   0   0   2   2   2   1 -
+pv_moon4391.t1       -          Myosin_head          PF00063.28    2e-265  879.7   3.5    2e-265  879.7   3.5   1.7   2   0   0   2   2   1   1 -
+pv_moon11469.t1      -          Myosin_head          PF00063.28  2.7e-265  879.2   6.8  3.1e-265  879.0   6.8   1.0   1   0   0   1   1   1   1 -
+pv_moon4285.t1       -          Myosin_head          PF00063.28  1.7e-264  876.6   5.7  1.7e-264  876.6   5.7   3.7   3   1   0   3   3   3   1 -
+pv_moon7587.t1       -          Myosin_head          PF00063.28    2e-264  876.3   8.4    2e-264  876.3   8.4   2.0   2   1   0   2   2   1   1 -
+pv_moon1296.t1       -          Myosin_head          PF00063.28  3.1e-264  875.7   3.8  3.1e-264  875.7   3.8   4.2   4   2   0   5   5   3   1 -
+pv_moon15015.t1      -          Myosin_head          PF00063.28    1e-261  867.4   5.6  1.6e-261  866.7   5.6   1.3   1   0   0   1   1   1   1 -
+pv_moon8717.t1       -          Myosin_head          PF00063.28    1e-261  867.4   5.6  1.6e-261  866.7   5.6   1.3   1   0   0   1   1   1   1 -
+pv_moon2026.t1       -          Myosin_head          PF00063.28  1.2e-247  820.8  13.3  2.5e-247  819.9  13.3   1.5   1   0   0   1   1   1   1 -
+pv_moon6487.t1       -          Myosin_head          PF00063.28  1.6e-245  813.9  18.3  2.9e-245  813.0  18.3   1.4   1   0   0   1   1   1   1 -
+pv_moon16476.t1      -          Myosin_head          PF00063.28  1.7e-232  770.8   6.4  1.7e-232  770.8   6.4   2.0   2   0   0   2   2   1   1 -
+pv_moon10494.t1      -          Myosin_head          PF00063.28  7.3e-227  752.2  18.3  8.4e-227  752.0  18.3   1.0   1   0   0   1   1   1   1 -
+pv_moon14912.t1      -          Myosin_head          PF00063.28  1.9e-226  750.8  16.5  1.9e-226  750.8  16.5   2.1   2   0   0   2   2   2   1 -
+pv_moon18315.t1      -          Myosin_head          PF00063.28  2.8e-225  747.0  28.6  4.3e-225  746.3  28.6   1.3   1   0   0   1   1   1   1 -
+pv_moon5603.t1       -          Myosin_head          PF00063.28  4.5e-198  657.1  33.8  5.6e-198  656.7  33.8   1.1   1   0   0   1   1   1   1 -
+pv_moon6310.t1       -          Myosin_head          PF00063.28  6.5e-186  616.9  35.9  1.3e-169  563.0  23.2   3.4   3   0   0   3   3   3   2 -
+pv_moon13982.t1      -          Myosin_head          PF00063.28  2.5e-184  611.7  22.1  1.6e-118  394.2   5.6   3.0   2   1   1   3   3   3   2 -
+pv_moon7184.t1       -          Myosin_head          PF00063.28  7.4e-152  504.3  26.7  7.4e-152  504.3  26.7   2.5   2   1   0   2   2   1   1 -
+pv_moon8107.t1       -          Myosin_head          PF00063.28  1.4e-144  480.2   1.4  1.4e-144  480.2   1.4   4.2   4   2   1   5   5   4   1 -
+pv_moon8431.t1       -          Myosin_head          PF00063.28     9e-81  269.4  17.1     9e-81  269.4  17.1   2.7   2   0   0   2   2   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      PF00063.hmm
+# Target file:     Predicted_Myosins.fasta
+# Option settings: hmmsearch --tblout pfam_outputs/pf00063_hits.tbl --domtblout pfam_outputs/pf00063_domtblout.tbl -E 0.00001 PF00063.hmm Predicted_Myosins.fasta 
+# Current dir:     /tmp/nxf.3G1f6wbbqx
+# Date:            Wed Mar 18 17:23:44 2026
+# [ok]

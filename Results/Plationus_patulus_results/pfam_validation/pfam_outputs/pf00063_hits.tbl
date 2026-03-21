@@ -1,0 +1,28 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ppat24530.t1         -          Myosin_head          PF00063.28  4.6e-298  985.0   2.8  4.6e-298  985.0   2.8   3.8   3   1   0   4   4   2   1 -
+ppat11001.t1         -          Myosin_head          PF00063.28  1.6e-283  936.9   0.7  1.6e-283  936.9   0.7   3.0   3   1   1   4   4   3   1 -
+ppat29645.t1         -          Myosin_head          PF00063.28  5.4e-264  872.4   1.9    2e-263  870.5   0.8   3.3   2   1   1   3   3   2   2 -
+ppat29644.t1         -          Myosin_head          PF00063.28  1.9e-253  837.6   0.1  6.8e-252  832.4   0.1   2.2   1   1   0   1   1   1   1 -
+ppat24791.t1         -          Myosin_head          PF00063.28  1.1e-251  831.7  16.4  1.5e-251  831.3  16.4   1.1   1   0   0   1   1   1   1 -
+ppat34578.t1         -          Myosin_head          PF00063.28  4.5e-241  796.6  29.8  4.7e-158  522.3  12.2   4.2   4   0   0   4   4   2   2 -
+ppat27748.t1         -          Myosin_head          PF00063.28  3.3e-240  793.8  18.5  3.3e-240  793.8  18.5   3.0   3   1   0   4   4   3   1 -
+ppat9240.t1          -          Myosin_head          PF00063.28  1.1e-232  768.9   1.4  1.1e-232  768.9   1.4   1.7   2   0   0   2   2   1   1 -
+ppat31185.t1         -          Myosin_head          PF00063.28  4.4e-230  760.3  21.3  4.4e-230  760.3  21.3   2.1   2   0   0   2   2   2   1 -
+ppat18514.t1         -          Myosin_head          PF00063.28  1.3e-229  758.8  30.0  5.6e-229  756.7  30.0   1.8   1   1   0   1   1   1   1 -
+ppat21902.t1         -          Myosin_head          PF00063.28  2.1e-221  731.6  38.9    4e-120  396.9  15.2   3.2   2   2   1   3   3   3   2 -
+ppat20842.t1         -          Myosin_head          PF00063.28  4.2e-205  677.8   5.7  4.2e-205  677.8   5.7   2.1   3   0   0   3   3   3   1 -
+ppat35073.t1         -          Myosin_head          PF00063.28   3.5e-89  294.7   6.0   1.4e-75  249.7   0.8   2.1   1   1   1   2   2   2   2 -
+ppat16189.t1         -          Myosin_head          PF00063.28   1.2e-85  283.0   0.0   1.2e-85  283.0   0.0   3.5   3   1   0   3   3   1   1 -
+ppat4411.t1          -          Myosin_head          PF00063.28   7.2e-74  244.1  23.4   2.3e-40  133.3   2.5   5.5   2   2   3   5   5   5   3 -
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      PF00063.hmm
+# Target file:     Predicted_Myosins.fasta
+# Option settings: hmmsearch --tblout pfam_outputs/pf00063_hits.tbl --domtblout pfam_outputs/pf00063_domtblout.tbl -E 0.00001 PF00063.hmm Predicted_Myosins.fasta 
+# Current dir:     /var/folders/yr/g6c26bjj21s7_mwb1xxfychw0000gn/T/nxf.aXYaeRrbg2
+# Date:            Sat Mar 21 23:25:26 2026
+# [ok]
