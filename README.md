@@ -144,16 +144,16 @@ feedback_builder/
     └── Uncertain_Fragments.csv       # Partial/ambiguous sequences.
 ```
 ## If you use this pipeline in your research, please cite:
-Rodriguez-Torres V. E., Walsh E. J., Mohl J. E. Integrative Machine Learning Framework for Detecting Cytoskeletal-Related Proteins in Rotifers: A Case Study of Actin and Myosin Including Two Rotifer Genomes. <Add more information after publication>
+Rodriguez-Torres V. E., Walsh E. J., Mohl J. E. Integrative Machine Learning Framework for Detecting Cytoskeletal-Related Proteins in Rotifers: A Case Study of Actin and Myosin Including Two Rotifer Genomes. **Add more information after publication**
 
 ## Authors:
-Victor E. Rodriguez-Torres
-Elizabeth J. Walsh
-Jonathon E. Mohl
+Victor E. Rodriguez-Torres  
+Elizabeth J. Walsh  
+Jonathon E. Mohl  
 The University of Texas at El Paso
 
 ## For questions about the timeline, please contact:
-Victor E. Rodriguez-Torres
-Computational Science PhD Program
-The University of Texas at El Paso
+Victor E. Rodriguez-Torres  
+Computational Science PhD Program  
+The University of Texas at El Paso  
 vrodrigueztor@miners.utep.edu
