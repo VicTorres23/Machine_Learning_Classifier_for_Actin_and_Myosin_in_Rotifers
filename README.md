@@ -59,10 +59,11 @@ The project consists of two main Nextflow workflows:
 ## Installation:
 
 Introduce the following commands into a Bash terminal:
-
+```
 git clone https://github.com/VicTorres23/Machine_Learning_Classifier_for_Actin_and_Myosin_in_Rotifers.git
 cd Machine_Learning_Classifier_for_Actin_and_Myosin_in_Rotifers
 docker pull ghcr.io/victorres23/ml_actin-myosin:v1.0
+```
 
 ## How to run the Pipeline:
 
