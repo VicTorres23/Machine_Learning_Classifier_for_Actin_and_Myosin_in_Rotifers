@@ -64,16 +64,17 @@ git clone https://github.com/VicTorres23/Machine_Learning_Classifier_for_Actin_a
 cd Machine_Learning_Classifier_for_Actin_and_Myosin_in_Rotifers
 docker pull ghcr.io/victorres23/ml_actin-myosin:v1.0
 
-How to run the Pipeline:
+## How to run the Pipeline:
 
-## Dataset Preparation:
+**Dataset Preparation:**
+```
 nextflow run Build_Testing_Dataset.nf
   --input_fasta <fasta_file.fasta> # Path to the fasta file containing all sequences.
   --outdir <output_directory>      # Output directory where the dataset will be stored.
   --sequences_per_file 1000        # Number of sequences per chunk.
-
-## Sequence Prediction:
-
+```
+**Sequence Prediction:**
+```
 nextflow run Predict_Actin-Myosin.nf \
   --training_dataset <training_dataset_to_be_used.csv> \ # Path to the training dataset CSV file used to train the model.
   --test_dataset <test_dataset_to_be_used.csv> \         # Path to the test dataset CSV file containing ProPy Descriptors.
@@ -84,7 +85,7 @@ nextflow run Predict_Actin-Myosin.nf \
   --hmm_evalue 1e-5 \                                    # E-value threshold for hmmsearch domain detection.
   --min_fragment_length 500 \                            # Minimum sequence length to consider full-length myosin.
   --hard_negative_score_cutoff 4                         # Score cutoff to label hard negative candidates
-
+```
 ## Output Files:
 
 Prediction and Performance Results:
