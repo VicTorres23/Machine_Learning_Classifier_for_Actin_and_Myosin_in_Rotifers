@@ -69,9 +69,9 @@ docker pull ghcr.io/victorres23/ml_actin-myosin:v1.0
 **Dataset Preparation:**
 ```
 nextflow run Build_Testing_Dataset.nf
-  --input_fasta <fasta_file.fasta> # Path to the fasta file containing all sequences.
-  --outdir <output_directory>      # Output directory where the dataset will be stored.
-  --sequences_per_file 1000        # Number of sequences per chunk.
+  --input_fasta <fasta_file.fasta> \ # Path to the fasta file containing all sequences.
+  --outdir <output_directory> \      # Output directory where the dataset will be stored.
+  --sequences_per_file 1000          # Number of sequences per chunk.
 ```
 **Sequence Prediction:**
 ```
@@ -90,8 +90,8 @@ nextflow run Predict_Actin-Myosin.nf \
 
 Prediction and Performance Results:
 ```
-prediction_results
-└── prediction_outputs
+prediction_results/
+└── prediction_outputs/
     ├── Actin_Myosin_Predictions.csv             # All Classification Results.
     ├── Confusion_Matrix_Logistic_Regression.png # Confusion Matrix Results for Logistic Regression.
     ├── Confusion_Matrix_MLP.png                 # Confusion Matrix Results for Multi-Layer Perceptron.
@@ -112,31 +112,31 @@ prediction_results
 ```
 5-Fold Cross Validation Results: 
 ```
-cross_validation_results
-└── crossval_outputs
+cross_validation_results/
+└── crossval_outputs/
     ├── Cross_Validation_F1_PerFold.csv       # F1 Score for each Fold.
     └── Model_Comparison_F1_Macro_5fold.png   # Macro F1 comparison across models.
 ```
 Confirmed Predictions:
 ```
-confirmed_predictions
-└── confirmed_outputs
+confirmed_predictions/
+└── confirmed_outputs/
     ├── Predicted_Actins.csv    # Predicted Actin Sequences.
     ├── Predicted_Myosins.csv   # Predicted Myosin Sequences.
     └── Predicted_Myosin.fasta  # FASTA file of predicted Myosins.
 ```
 PFAM Results:
 ```
-pfam_validation
-└── pfam_outputs
+pfam_validation/
+└── pfam_outputs/
     ├── pf00063_hits.tbl              # Sequence-level PF00063 Hits.
     ├── pf00063_domtblout.tbl         # Domain level PF00063 Matches.
     └── pf00063_hmmsearch_stdout.txt  # Raw hmmsearch output.
 ```
 Feedback Builder Results:
 ```
-feedback_builder
-└── feedback_outputs
+feedback_builder/
+└── feedback_outputs/
     ├── Myosin_Feedback_Table.csv     # Summary feedback table.
     ├── Domain_Confirmed_Myosins.csv  # PFAM-confirmed Myosins.
     ├── Hard_Negative_Candidates.csv  # Likely false positives.
