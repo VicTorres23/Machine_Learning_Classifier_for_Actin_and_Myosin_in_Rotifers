@@ -69,7 +69,7 @@ docker pull ghcr.io/victorres23/ml_actin-myosin:v1.0
 
 **Dataset Preparation:**
 ```
-nextflow run Build_Testing_Dataset.nf
+nextflow run Build_Testing_Dataset.nf \
   --input_fasta <fasta_file.fasta> \ # Path to the fasta file containing all sequences.
   --outdir <output_directory> \      # Output directory where the dataset will be stored.
   --sequences_per_file 1000          # Number of sequences per chunk.
