@@ -152,7 +152,7 @@ Elizabeth J. Walsh
 Jonathon E. Mohl  
 The University of Texas at El Paso
 
-## For questions about the timeline, please contact:
+## For questions about the pipeline, please contact:
 Victor E. Rodriguez-Torres  
 Computational Science PhD Program  
 The University of Texas at El Paso  
