@@ -143,9 +143,6 @@ feedback_builder/
     ├── Hard_Negative_Candidates.csv  # Likely false positives.
     └── Uncertain_Fragments.csv       # Partial/ambiguous sequences.
 ```
-## If you use this pipeline in your research, please cite:
-Rodriguez-Torres V. E., Walsh E. J., Mohl J. E. Integrative Machine Learning Framework for Detecting Cytoskeletal-Related Proteins in Rotifers: A Case Study of Actin and Myosin Including Two Rotifer Genomes. **Add more information after publication**
-
 ## Authors:
 Victor E. Rodriguez-Torres  
 Elizabeth J. Walsh  
